@@ -80,3 +80,49 @@ app.mount('/assets', StaticFiles(directory=str(ROOT/'frontend')), name='assets')
 @app.get('/')
 def index():
     return FileResponse(ROOT/'frontend'/'index.html')
+
+
+# CameraWebServer remains the owner of the camera configuration.
+# Only the trusted LAN host configured on the server is used (no user-provided URL).
+ESP32_CAPTURE_URL = os.getenv('ESP32_CAPTURE_URL', 'http://192.168.1.153/capture')
+ESP32_MAX_JPEG_BYTES = 10 * 1024 * 1024
+
+@app.get('/api/esp32/capture')
+def capture_esp32():
+    from urllib.parse import urlparse
+    from urllib.request import Request, urlopen
+    from fastapi.responses import Response
+    import ipaddress
+    import socket
+
+    url = urlparse(ESP32_CAPTURE_URL)
+    # LAN-only: protect the proxy if the server is ever publicly exposed.
+    if url.scheme != 'http' or not url.hostname or url.username or url.password or url.query or url.fragment or url.path != '/capture':
+        raise HTTPException(500, 'ESP32_CAPTURE_URL must be an HTTP camera /capture URL')
+    try:
+        addresses = socket.getaddrinfo(url.hostname, url.port or 80, type=socket.SOCK_STREAM)
+        if not addresses or not all(ipaddress.ip_address(item[4][0]).is_private for item in addresses):
+            raise ValueError('Camera must be on a private network')
+        # Avoid DNS rebinding: use an IPv4 literal for this local demo.
+        ipaddress.IPv4Address(url.hostname)
+    except (ValueError, OSError, socket.gaierror):
+        raise HTTPException(500, 'Configure ESP32_CAPTURE_URL with a private IPv4 LAN address')
+
+    try:
+        req = Request(ESP32_CAPTURE_URL, headers={'Accept': 'image/jpeg', 'Cache-Control': 'no-cache'})
+        with urlopen(req, timeout=15) as remote:
+            if remote.status != 200:
+                raise HTTPException(502, 'ESP32-CAM did not return HTTP 200')
+            raw = remote.read(ESP32_MAX_JPEG_BYTES + 1)
+        if len(raw) > ESP32_MAX_JPEG_BYTES:
+            raise HTTPException(502, 'Camera JPEG exceeds 10 MB')
+        if len(raw) < 4 or not raw.startswith(b'\\xff\\xd8') or not raw.endswith(b'\\xff\\xd9'):
+            raise HTTPException(502, 'ESP32-CAM returned invalid JPEG data')
+        with Image.open(io.BytesIO(raw)) as img:
+            img.verify()
+        return Response(content=raw, media_type='image/jpeg', headers={'Cache-Control':'no-store'})
+    except HTTPException:
+        raise
+    except Exception as exc:
+        logger.warning('ESP32 capture failed: %s', exc)
+        raise HTTPException(502, 'Cannot capture from ESP32-CAM. Check camera IP and Wi-Fi.')
