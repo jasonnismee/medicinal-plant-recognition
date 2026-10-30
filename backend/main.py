@@ -116,7 +116,7 @@ def capture_esp32():
             raw = remote.read(ESP32_MAX_JPEG_BYTES + 1)
         if len(raw) > ESP32_MAX_JPEG_BYTES:
             raise HTTPException(502, 'Camera JPEG exceeds 10 MB')
-        if len(raw) < 4 or not raw.startswith(b'\\xff\\xd8') or not raw.endswith(b'\\xff\\xd9'):
+        if len(raw) < 4 or not raw.startswith(bytes([0xFF, 0xD8])) or not raw.endswith(bytes([0xFF, 0xD9])):
             raise HTTPException(502, 'ESP32-CAM returned invalid JPEG data')
         with Image.open(io.BytesIO(raw)) as img:
             img.verify()
