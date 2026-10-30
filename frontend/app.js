@@ -63,7 +63,7 @@ $('submit').addEventListener('click', async () => {
   $('status').textContent = 'Đang nhận diện... Lần đầu khởi động model có thể mất vài phút trên máy 8 GB RAM.';
   const form = new FormData(); form.append('file', selected);
   try {
-    const response = await fetch('/api/predict', {method:'POST', body:form, headers:{'X-Source': sourceMode === 'esp32' ? 'esp32' : 'web'}});
+    const response = await fetch('/api/predict', {method:'POST', body:form, headers:{'X-Source':'web'}});
     const data = await response.json();
     if (!response.ok) throw new Error(typeof data.detail === 'string' ? data.detail : 'Không thể nhận diện ảnh.');
     let html = '';
