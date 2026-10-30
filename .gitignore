@@ -1,0 +1,61 @@
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+
+# BioCLIP 2 weights and model cache
+models/
+*.safetensors
+*.pt
+*.pth
+*.ckpt
+*.bin
+*.onnx
+
+# Hugging Face cache
+.cache/
+huggingface/
+
+# Local environment / secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Runtime data
+*.db
+*.sqlite
+*.sqlite3
+*.log
+
+# Generated reference embeddings
+reference_embeddings.npz
+
+# Dataset / captured images
+reference_images/
+esp32_test_images/
+DataCheck.zip
+*.heic
+
+# Temporary / output files
+_tmp_reference_extract/
+temp/
+tmp/
+dist/
+build/
+*.zip
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Docker (not used in current deployment)
+Dockerfile
+docker-compose.yml
+.dockerignore

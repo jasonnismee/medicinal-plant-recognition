@@ -1,0 +1,107 @@
+{
+  "Polyscias fruticosa": {
+    "description": "Cây bụi thường được trồng tại Việt Nam.",
+    "parts_used": "Lá, rễ",
+    "traditional_use": "Được sử dụng trong một số bài thuốc dân gian."
+  },
+  "Moringa oleifera": {
+    "description": "Cây chùm ngây có lá kép, các lá chét nhỏ.",
+    "parts_used": "Lá, hạt",
+    "traditional_use": "Lá được dùng làm thực phẩm và trong kinh nghiệm dân gian."
+  },
+  "Sphagneticola calendulacea": {
+    "description": "Cây thân thảo, thường mọc thấp và lan rộng.",
+    "parts_used": "Phần trên mặt đất",
+    "traditional_use": "Được sử dụng trong một số bài thuốc dân gian."
+  },
+  "Coleus amboinicus": {
+    "description": "Cây có lá dày, mềm và mùi thơm đặc trưng.",
+    "parts_used": "Lá",
+    "traditional_use": "Lá thường được dùng trong kinh nghiệm dân gian."
+  },
+  "Blumea lanceolaria": {
+    "description": "Cây thân thảo với lá có mùi thơm khi vò.",
+    "parts_used": "Lá",
+    "traditional_use": "Được sử dụng như rau gia vị và trong kinh nghiệm dân gian."
+  },
+  "Eryngium foetidum": {
+    "description": "Cây rau gia vị có lá dài, mép có răng cưa.",
+    "parts_used": "Lá",
+    "traditional_use": "Dùng làm gia vị; có lịch sử sử dụng dân gian."
+  },
+  "Persicaria odorata": {
+    "description": "Cây thân thảo có lá thon dài, mùi thơm.",
+    "parts_used": "Lá, thân non",
+    "traditional_use": "Thường được dùng làm rau gia vị."
+  },
+  "Paederia foetida": {
+    "description": "Cây dây leo, lá có mùi đặc trưng khi vò.",
+    "parts_used": "Lá",
+    "traditional_use": "Lá được sử dụng làm thực phẩm và trong kinh nghiệm dân gian."
+  },
+  "Cymbopogon citratus": {
+    "description": "Cây thuộc họ Hòa thảo, lá dài và có mùi sả.",
+    "parts_used": "Thân, lá",
+    "traditional_use": "Thường dùng làm gia vị và đồ uống."
+  },
+  "Centella asiatica": {
+    "description": "Cây thân thảo bò sát đất, lá hình tròn hoặc hình thận.",
+    "parts_used": "Phần trên mặt đất",
+    "traditional_use": "Thường được dùng làm rau và thức uống."
+  },
+  "Plantago major": {
+    "description": "Cây thân thảo với lá mọc thành hoa thị sát gốc.",
+    "parts_used": "Lá, hạt",
+    "traditional_use": "Được sử dụng trong một số bài thuốc dân gian."
+  },
+  "Phyllanthus urinaria": {
+    "description": "Cây thân thảo nhỏ với các nhánh mang lá xếp đều.",
+    "parts_used": "Toàn cây",
+    "traditional_use": "Được dùng trong y học dân gian."
+  },
+  "Piper betle": {
+    "description": "Dây leo với lá hình tim, thơm.",
+    "parts_used": "Lá",
+    "traditional_use": "Lá có lịch sử sử dụng trong sinh hoạt và kinh nghiệm dân gian."
+  },
+  "Callisia fragrans": {
+    "description": "Cây thân thảo, thân rủ xuống hoặc bò, có lá mọc đối xứng.",
+    "parts_used": "Lá, thân, rễ",
+    "traditional_use": "Được sử dụng trong y học dân gian."
+  },
+  "Murraya paniculata": {
+    "description": "Cây bụi/cây gỗ nhỏ có lá kép, lá chét xanh bóng.",
+    "parts_used": "Lá, rễ",
+    "traditional_use": "Có ghi nhận sử dụng trong y học dân gian."
+  },
+  "Ficus microcarpa": {
+    "description": "Cây si thuộc họ Dâu tằm, thường trồng làm cảnh.",
+    "parts_used": "Một số bộ phận cây trong kinh nghiệm dân gian",
+    "traditional_use": "Cần đối chiếu nguồn dược liệu cụ thể trước khi giới thiệu công dụng."
+  },
+  "Aloe vera": {
+    "description": "Cây mọng nước, lá dày có gai nhỏ dọc mép.",
+    "parts_used": "Gel trong lá",
+    "traditional_use": "Được dùng trong một số sản phẩm chăm sóc da; cần chế biến đúng cách."
+  },
+  "Hibiscus rosa-sinensis": {
+    "description": "Cây bụi có hoa lớn và lá mép răng cưa.",
+    "parts_used": "Hoa, lá",
+    "traditional_use": "Được dùng trong một số ứng dụng dân gian."
+  },
+  "Carica papaya": {
+    "description": "Cây có lá lớn chia nhiều thùy.",
+    "parts_used": "Lá, quả",
+    "traditional_use": "Quả dùng làm thực phẩm; một số bộ phận có sử dụng dân gian."
+  },
+  "Morus alba": {
+    "description": "Cây dâu tằm có lá mép răng cưa.",
+    "parts_used": "Lá, quả",
+    "traditional_use": "Lá được dùng nuôi tằm; lá và quả có sử dụng trong y học cổ truyền."
+  },
+  "Excoecaria cochinchinensis": {
+    "description": "Cây đơn lá đỏ thường có mặt dưới lá đỏ tím.",
+    "parts_used": "Lá",
+    "traditional_use": "Là cây được sử dụng trong y học cổ truyền; không tự ý dùng do có nguy cơ kích ứng."
+  }
+}

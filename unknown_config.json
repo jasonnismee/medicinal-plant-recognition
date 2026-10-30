@@ -1,0 +1,6 @@
+{
+  "text_min": 0.60,
+  "ref_min": 0.75,
+  "text_margin_min": 0.03,
+  "ref_margin_min": 0.02
+}
