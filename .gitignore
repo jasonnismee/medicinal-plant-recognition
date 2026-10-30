@@ -27,6 +27,7 @@ huggingface/
 *.key
 
 # Runtime data
+data/
 *.db
 *.sqlite
 *.sqlite3
