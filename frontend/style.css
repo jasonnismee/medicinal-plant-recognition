@@ -2,3 +2,9 @@
 
 
 .scientific{margin-top:0;font-size:15px}.winner{color:#17684a}#result p{line-height:1.65}#result strong{color:#16382b}
+
+.source-toggle{display:flex;gap:10px;flex-wrap:wrap;margin:10px 0 20px}
+.source-toggle button{flex:1;min-width:145px;background:#e7f2eb;color:#17684a;margin:0}
+.source-toggle button.source-active{background:#17684a;color:#fff}
+#esp32-tools{margin-bottom:16px}
+#esp32-tools[hidden],#drop[hidden]{display:none}
