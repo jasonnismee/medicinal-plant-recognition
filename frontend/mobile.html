@@ -1,0 +1,109 @@
+<!doctype html>
+<html lang="vi">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover">
+  <meta name="theme-color" content="#17684a">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="default">
+  <title>Nhận diện cây dược liệu</title>
+  <link rel="stylesheet" href="/assets/mobile.css?v=1.0.1">
+</head>
+<body>
+  <!-- Header -->
+  <header class="app-header">
+    <div class="header-content">
+      <div class="logo-area">
+        <span class="logo-icon">🌿</span>
+        <div>
+          <h1 class="app-title">Nhận diện cây dược liệu</h1>
+          <p class="app-subtitle">Mô hình BioCLIP2 • Nhận diện 20 loài dược liệu</p>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <main class="mobile-main">
+    <!-- Nguồn ảnh (Source toggle) -->
+    <section class="card section-source">
+      <h2 class="card-title">Chọn nguồn ảnh</h2>
+      <div class="source-toggle" role="group" aria-label="Nguồn ảnh">
+        <button id="mode-phone" type="button" class="source-active" aria-pressed="true">
+          📱 Điện thoại / Tải ảnh
+        </button>
+        <button id="mode-esp32" type="button" aria-pressed="false">
+          📷 ESP32-CAM
+        </button>
+      </div>
+
+      <!-- Công cụ ESP32-CAM -->
+      <div id="esp32-tools" class="esp32-container" hidden>
+        <button id="capture-esp32" type="button" class="btn btn-secondary">
+          📷 Chụp ảnh bằng ESP32-CAM
+        </button>
+        <p class="muted">Ảnh sẽ xuất hiện bên dưới để kiểm tra trước khi nhận diện.</p>
+      </div>
+
+      <!-- Vùng chọn ảnh cho điện thoại -->
+      <div id="phone-tools">
+        <div class="mobile-action-buttons">
+          <button id="btn-camera" type="button" class="btn btn-camera">
+            📸 Chụp ảnh ngay
+          </button>
+          <button id="btn-gallery" type="button" class="btn btn-gallery">
+            🖼️ Chọn từ thư viện
+          </button>
+        </div>
+        <input id="file-camera" type="file" accept="image/*" capture="environment" hidden>
+        <input id="file-gallery" type="file" accept="image/*" hidden>
+      </div>
+
+      <!-- Khung xem trước ảnh (Preview) -->
+      <div id="preview-container" class="preview-container" hidden>
+        <div class="preview-badge">Ảnh đã chọn</div>
+        <img id="preview" alt="Ảnh đã chọn">
+      </div>
+
+      <!-- Nút nhận diện & Trạng thái -->
+      <button id="submit" class="btn btn-primary btn-submit" disabled>
+        🔍 Nhận diện
+      </button>
+      <div class="status-container">
+        <div id="spinner" class="spinner" hidden></div>
+        <p id="status" class="status-text" aria-live="polite">Chọn ảnh từ thiết bị của bạn.</p>
+      </div>
+    </section>
+
+    <!-- Kết quả nhận diện (Result Section) -->
+    <section id="result-section" class="card section-result">
+      <h2 class="card-title">Kết quả nhận diện</h2>
+      <div id="result" class="placeholder" aria-live="polite">Chưa có kết quả.</div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="app-footer">
+      <p class="disclaimer">Thông tin mang tính tham khảo, không thay thế hướng dẫn chuyên môn về sử dụng dược liệu.</p>
+    </footer>
+  </main>
+
+  <!-- Thông báo kết quả nhận diện thành công ở dưới đáy màn hình (Bottom Notification) -->
+  <div id="bottom-notification" class="bottom-notification" hidden aria-live="assertive">
+    <div class="bottom-notification-card">
+      <div class="bottom-sheet-handle"></div>
+      <div class="notify-header">
+        <div class="notify-icon-box" id="notify-icon-box">
+          <span id="notify-icon" class="notify-icon">✅</span>
+        </div>
+        <div class="notify-titles">
+          <div class="notify-badge" id="notify-badge">Nhận diện thành công!</div>
+          <div class="notify-plant-name" id="notify-title">Tên cây dược liệu</div>
+          <div class="notify-plant-scientific" id="notify-subtitle">Tên khoa học</div>
+        </div>
+        <button id="notify-close" type="button" class="notify-close-btn" aria-label="Đóng thông báo">✕</button>
+      </div>
+    </div>
+  </div>
+
+  <script src="/assets/mobile.js?v=1.0.1"></script>
+</body>
+</html>

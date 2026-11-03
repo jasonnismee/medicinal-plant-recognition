@@ -1,7 +1,7 @@
 import io, os, time, uuid, sqlite3
 from pathlib import Path
 from contextlib import contextmanager
-from fastapi import FastAPI, File, UploadFile, HTTPException, Header
+from fastapi import FastAPI, File, UploadFile, HTTPException, Header, Request
 from fastapi.responses import FileResponse
 from fastapi.staticfiles import StaticFiles
 from starlette.concurrency import run_in_threadpool
@@ -77,9 +77,22 @@ def history(limit:int=30):
         return [dict(x) for x in rows]
 
 app.mount('/assets', StaticFiles(directory=str(ROOT/'frontend')), name='assets')
+def is_mobile_user_agent(user_agent: str | None) -> bool:
+    if not user_agent:
+        return False
+    ua = user_agent.lower()
+    return any(k in ua for k in ('mobile', 'android', 'iphone', 'ipod', 'ipad', 'windows phone'))
+
 @app.get('/')
-def index():
-    return FileResponse(ROOT/'frontend'/'index.html')
+def index(request: Request):
+    view = request.query_params.get('view')
+    if view == 'mobile' or (view != 'desktop' and is_mobile_user_agent(request.headers.get('user-agent'))):
+        return FileResponse(ROOT / 'frontend' / 'mobile.html')
+    return FileResponse(ROOT / 'frontend' / 'index.html')
+
+@app.get('/mobile')
+def mobile_view():
+    return FileResponse(ROOT / 'frontend' / 'mobile.html')
 
 
 # CameraWebServer remains the owner of the camera configuration.
