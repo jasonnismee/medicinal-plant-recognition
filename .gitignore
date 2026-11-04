@@ -1,4 +1,4 @@
-# Python
+# Python virtual environment & cache
 .venv/
 venv/
 __pycache__/
@@ -6,41 +6,25 @@ __pycache__/
 .pytest_cache/
 .mypy_cache/
 
-# BioCLIP 2 weights and model cache
-models/
+# BioCLIP 2 large binary weights (> 100 MB blocked by GitHub; download via download_model.py)
 *.safetensors
 *.pt
 *.pth
 *.ckpt
 *.bin
 *.onnx
+models/**/.cache/
 
 # Hugging Face cache
 .cache/
 huggingface/
 
-# Local environment / secrets
+# Local secrets
 .env
 .env.*
 !.env.example
 *.pem
 *.key
-
-# Runtime data
-data/
-*.db
-*.sqlite
-*.sqlite3
-*.log
-
-# Generated reference embeddings
-reference_embeddings.npz
-
-# Dataset / captured images
-reference_images/
-esp32_test_images/
-DataCheck.zip
-*.heic
 
 # Temporary / output files
 _tmp_reference_extract/
@@ -55,8 +39,3 @@ build/
 .idea/
 .DS_Store
 Thumbs.db
-
-# Docker (not used in current deployment)
-Dockerfile
-docker-compose.yml
-.dockerignore
