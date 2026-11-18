@@ -21,7 +21,13 @@ class UsageGuideTests(unittest.TestCase):
                 names.add(name)
                 expected = re.sub(r'\n---\s*$', '', section).strip()
                 self.assertEqual(catalog[name]['usage_guide'], expected)
-                self.assertIn('**Lưu ý an toàn & Thận trọng**', expected)
+                for heading in (
+                    '**Đặc điểm dược liệu & Tính vị**',
+                    '**Thu hái & Bào chế (Sơ chế dược liệu)**',
+                    '**Ứng dụng dược liệu & Thực dưỡng tại Việt Nam**',
+                    '**Kiêng kỵ & Thận trọng dược liệu**',
+                ):
+                    self.assertIn(heading, expected)
         self.assertEqual(names, set(catalog))
 
     def test_every_recognizable_species_has_a_guide(self):

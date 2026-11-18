@@ -88,7 +88,7 @@ Web gọi `/api/predict` với `X-Source: web`. Nếu ứng dụng/thiết bị 
 
 ### Nội dung hướng dẫn dược liệu
 
-`medicinal_info.json` lưu `usage_guide` cho toàn bộ 21 loài trong danh mục thông tin, ghép theo tên khoa học. Nội dung Markdown giữ nguyên từng mục từ tài liệu được cung cấp, gồm sơ chế, cách sử dụng và toàn bộ lưu ý an toàn. Bản tài liệu gốc lưu tại `docs/usage_guide_21_species.md` để đối chiếu; đây là nội dung do người dùng cung cấp, chưa được dự án thẩm định chuyên môn. Danh sách nhận diện trong `species.json` vẫn gồm 20 loài.
+`medicinal_info.json` lưu `usage_guide` cho toàn bộ 21 loài trong danh mục thông tin, ghép theo tên khoa học. Nội dung Markdown giữ nguyên từng mục từ bản tài liệu cập nhật được cung cấp, gồm đặc điểm dược liệu và tính vị, thu hái và bào chế, ứng dụng dược liệu và thực dưỡng, kiêng kỵ và thận trọng. Bản tài liệu nguồn lưu tại `docs/usage_guide_21_species.md` để đối chiếu; đây là nội dung do người dùng cung cấp, chưa được dự án thẩm định chuyên môn. Danh sách nhận diện trong `species.json` vẫn gồm 20 loài.
 
 Khi nhận diện thành công, cả web và điện thoại có hai nút **Hướng dẫn sử dụng** / **Hướng dẫn canh tác**. Nội dung chỉ mở khi chọn nút, chuyển lựa chọn sẽ ẩn phần trước. Phần canh tác hiện báo chưa được bổ sung; khi có tài liệu, thêm chuỗi Markdown `cultivation_guide` vào từng loài để hiển thị qua cùng giao diện. Thiếu hướng dẫn sử dụng cũng có thông báo riêng.
 

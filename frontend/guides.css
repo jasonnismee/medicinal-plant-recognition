@@ -10,4 +10,4 @@
 .guide-content ul { padding-left: 22px; margin: 8px 0 16px; list-style: disc; }
 .guide-content li { display: list-item; margin-bottom: 10px; }
 .guide-content p { margin: 8px 0; color: inherit; }
-.guide-content .guide-source, .guide-content .guide-empty { color: #53675b; font-size: 0.9rem; }
+.guide-content .guide-empty { color: #53675b; font-size: 0.9rem; }

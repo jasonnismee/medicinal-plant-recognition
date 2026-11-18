@@ -41,9 +41,15 @@ const catalog = JSON.parse(fs.readFileSync(path.join(root, 'medicinal_info.json'
         await page.locator('[data-guide="usage"]').click();
         assert.equal(await page.locator('#guide-usage').isVisible(), true);
         const visible = await page.locator('#guide-usage').innerText();
+        assert.equal(await page.locator('#guide-usage h4').count(), 1);
+        assert.equal(await page.locator('#guide-usage h5').count(), 4);
+        assert.ok(!/^\d+\./.test(await page.locator('#guide-usage h4').innerText()));
+        assert.equal(await page.locator('.guide-source').count(), 0);
         // Every nonblank source line must be present in the rendered guide.
         for (const line of info.usage_guide.split('\n').filter(line => line.trim())) {
-          const plain = line.replace(/^### /, '').replace(/^\* /, '').replace(/\*/g, '');
+          const plain = line.replace(/^### \d+\.\s+/, '').replace(/^### /, '').replace(/^\* /, '').replace(/\*/g, '')
+            .replace(/\$(\d+)\\text\{--\}(\d+)\^\\circ\$/g, '$1–$2°')
+            .replace(/\$(\d+)\^\\circ\\text\{C\}\$/g, '$1°C');
           assert.ok(visible.includes(plain), `Missing content: ${name}: ${plain}`);
         }
         await page.locator('[data-guide="cultivation"]').click();

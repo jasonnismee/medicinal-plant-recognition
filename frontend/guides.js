@@ -5,6 +5,9 @@ window.PlantGuides = (() => {
   }[c]));
 
   function inline(text) {
+    // Display the degree notation in the supplied document without changing source data.
+    text = text.replace(/\$(\d+)\\text\{--\}(\d+)\^\\circ\$/g, '$1–$2°')
+      .replace(/\$(\d+)\^\\circ\\text\{C\}\$/g, '$1°C');
     return escape(text).replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>')
       .replace(/\*([^*]+)\*/g, '<em>$1</em>');
   }
@@ -15,7 +18,7 @@ window.PlantGuides = (() => {
     return text.trim().split(/\r?\n\s*\r?\n/).map(block => {
       const lines = block.split(/\r?\n/);
       const renderLine = line => {
-        if (/^### /.test(line)) return `<h4>${inline(line.slice(4))}</h4>`;
+        if (/^### /.test(line)) return `<h4>${inline(line.slice(4).replace(/^\d+\.\s+/, ''))}</h4>`;
         if (/^\*\*[^*]+\*\*$/.test(line)) return `<h5>${inline(line.slice(2, -2))}</h5>`;
         return `<p>${inline(line)}</p>`;
       };
@@ -44,7 +47,6 @@ window.PlantGuides = (() => {
         <button type="button" data-guide="cultivation" aria-controls="guide-cultivation" aria-pressed="false">Hướng dẫn canh tác</button>
       </div>
       <div id="guide-usage" class="guide-content" role="region" aria-label="Hướng dẫn sử dụng" hidden>
-        <p class="guide-source">Nội dung từ tài liệu tổng hợp do người dùng cung cấp, mang tính tham khảo.</p>
         ${content('usage_guide', 'Chưa có hướng dẫn sử dụng cho loài này.')}
       </div>
       <div id="guide-cultivation" class="guide-content" role="region" aria-label="Hướng dẫn canh tác" hidden>
