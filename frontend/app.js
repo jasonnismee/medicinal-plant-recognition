@@ -75,6 +75,7 @@ $('submit').addEventListener('click', async () => {
       if (info.parts_used) html += `<p><strong>Bộ phận thường được sử dụng:</strong> ${safe(info.parts_used)}</p>`;
       if (info.traditional_use) html += `<p><strong>Ứng dụng theo kinh nghiệm dân gian:</strong> ${safe(info.traditional_use)}</p>`;
       if (!Object.keys(info).length) html += '<p>Chưa có thông tin dược liệu được biên tập cho loài này.</p>';
+      html += PlantGuides.render(info);
     } else if (data.status === 'uncertain') {
       html = '<h3 class="winner">Chưa chắc chắn</h3><p>Ảnh có thể giống nhiều loài. Vui lòng chụp rõ hơn hoặc thay góc chụp.</p>';
     } else {

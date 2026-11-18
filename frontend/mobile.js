@@ -201,7 +201,7 @@ $('submit').addEventListener('click', async () => {
       if (!Object.keys(info).length) {
         html += '<p class="muted">Chưa có thông tin dược liệu được biên tập cho loài này.</p>';
       }
-      html += '</div></div>';
+      html += '</div>' + PlantGuides.render(info) + '</div>';
 
       // Pinned bottom success notification
       showBottomNotification({

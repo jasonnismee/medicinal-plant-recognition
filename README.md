@@ -86,6 +86,32 @@ Web gọi `/api/predict` với `X-Source: web`. Nếu ứng dụng/thiết bị 
 
 ## Kiểm thử
 
+### Nội dung hướng dẫn dược liệu
+
+`medicinal_info.json` lưu `usage_guide` cho toàn bộ 21 loài trong danh mục thông tin, ghép theo tên khoa học. Nội dung Markdown giữ nguyên từng mục từ tài liệu được cung cấp, gồm sơ chế, cách sử dụng và toàn bộ lưu ý an toàn. Bản tài liệu gốc lưu tại `docs/usage_guide_21_species.md` để đối chiếu; đây là nội dung do người dùng cung cấp, chưa được dự án thẩm định chuyên môn. Danh sách nhận diện trong `species.json` vẫn gồm 20 loài.
+
+Khi nhận diện thành công, cả web và điện thoại có hai nút **Hướng dẫn sử dụng** / **Hướng dẫn canh tác**. Nội dung chỉ mở khi chọn nút, chuyển lựa chọn sẽ ẩn phần trước. Phần canh tác hiện báo chưa được bổ sung; khi có tài liệu, thêm chuỗi Markdown `cultivation_guide` vào từng loài để hiển thị qua cùng giao diện. Thiếu hướng dẫn sử dụng cũng có thông báo riêng.
+
+`frontend/guides.js` và `frontend/guides.css` dùng chung cho hai giao diện. Bộ hiển thị hỗ trợ tiêu đề `###`, tiêu đề mục `**...**`, danh sách `* `, chữ đậm và chữ nghiêng; HTML trong dữ liệu được escape. Backend đã trả toàn bộ thông tin của loài qua `medicinal_info`, không cần đổi API hoặc huấn luyện lại model. Chỉnh dữ liệu trực tiếp trong JSON; nếu thay tài liệu nguồn, đồng bộ bản trong `docs/` để phép kiểm tra đối chiếu tiếp tục chính xác.
+
+Kiểm tra tính đầy đủ của hướng dẫn mà không cần cài thư viện AI:
+
+```powershell
+python -m unittest discover -s tests -p test_usage_guides.py -v
+```
+
+Kiểm tra tương tác trên trình duyệt với phản hồi nhận diện giả lập (cần Node.js và Microsoft Edge; Playwright được cài trong thư mục tạm):
+
+```powershell
+npm.cmd install --prefix "$env:TEMP\medicinal-usage-check" --no-package-lock --no-audit --no-fund playwright
+$env:NODE_PATH = "$env:TEMP\medicinal-usage-check\node_modules"
+node tests/guides.browser.cjs
+```
+
+Phép kiểm tra chạy cả màn hình máy tính và điện thoại, đối chiếu toàn bộ từng dòng của 21 hướng dẫn sau khi hiển thị, chuyển lựa chọn, chọn ảnh mới, thiếu dữ liệu, điều khiển bàn phím, escape HTML và các trạng thái chưa nhận diện được. Có thể đặt `BROWSER_CHANNEL=chrome` nếu dùng Google Chrome thay cho Edge.
+
+### Bộ kiểm thử ứng dụng
+
 ```powershell
 .\.venv\Scripts\python.exe -m pytest tests
 ```

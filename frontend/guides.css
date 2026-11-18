@@ -1,0 +1,13 @@
+.plant-guides { margin-top: 20px; min-width: 0; }
+.guide-options { display: flex; flex-wrap: wrap; gap: 10px; }
+.guide-options button { flex: 1 1 150px; margin: 0; padding: 12px; border: 1px solid #a5c9b8; border-radius: 10px; background: #e7f2eb; color: #17684a; font: inherit; font-weight: 600; cursor: pointer; }
+.guide-options button[aria-pressed="true"] { background: #17684a; color: #fff; border-color: #17684a; }
+.guide-options button:focus-visible { outline: 3px solid #338364; outline-offset: 3px; }
+.guide-content { margin-top: 14px; padding: 16px; border: 1px solid #dce7df; border-radius: 12px; background: #f6fbf8; color: #243e32; line-height: 1.75; overflow-wrap: anywhere; text-align: left; }
+.guide-content[hidden] { display: none; }
+.guide-content h4 { font-size: 1.05rem; margin: 16px 0; color: #17684a; }
+.guide-content h5 { font-size: 1rem; margin: 20px 0 8px; color: #16382b; }
+.guide-content ul { padding-left: 22px; margin: 8px 0 16px; list-style: disc; }
+.guide-content li { display: list-item; margin-bottom: 10px; }
+.guide-content p { margin: 8px 0; color: inherit; }
+.guide-content .guide-source, .guide-content .guide-empty { color: #53675b; font-size: 0.9rem; }
