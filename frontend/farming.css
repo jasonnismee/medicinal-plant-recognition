@@ -1,11 +1,4 @@
 body.farming-modal-open { overflow: hidden; }
-.plant-farming { margin-top: 18px; }
-.farming-options { display: flex; flex-wrap: wrap; gap: 10px; }
-.farming-options button { flex: 1 1 150px; margin: 0; padding: 14px 12px; border: 1px solid #a5c9b8; border-radius: 12px; background: #e7f2eb; color: #17684a; font: inherit; font-weight: 700; cursor: pointer; }
-.farming-options button[aria-pressed="true"] { background: #17684a; color: #fff; border-color: #17684a; }
-.farming-usage-empty { margin-top: 14px; padding: 16px; border: 1px solid #dce7df; border-radius: 12px; background: #f6fbf8; text-align: left; }
-.farming-usage-empty[hidden] { display: none; }
-.farming-usage-empty p { margin: 0; color: #53675b; }
 .farming-dialog { width: min(1100px, calc(100% - 32px)); max-width: none; height: min(900px, 90vh); height: min(900px, 90dvh); max-height: 94vh; max-height: 94dvh; padding: 0; border: 1px solid #dce7df; border-radius: 18px; background: #fff; color: #243e32; box-shadow: 0 20px 80px #0004; }
 .farming-dialog:not([open]) { display: none; }
 .farming-dialog[open] { display: flex; flex-direction: column; }
@@ -20,7 +13,7 @@ body.farming-modal-open { overflow: hidden; }
 .farming-body ul, .farming-body ol { padding-left: 24px; margin: 12px 0; }
 .farming-body li { display: list-item; margin: 10px 0; }
 .farming-body a { color: #17684a; text-decoration: underline; }
-.farming-options button:focus-visible, .farming-dialog :focus-visible { outline: 3px solid #338364; outline-offset: 3px; }
+.farming-dialog :focus-visible { outline: 3px solid #338364; outline-offset: 3px; }
 @media (max-width: 600px) {
   .farming-dialog { width: calc(100% - 16px); height: 94vh; height: 94dvh; border-radius: 12px; }
   .farming-header { padding: 12px; gap: 8px; }

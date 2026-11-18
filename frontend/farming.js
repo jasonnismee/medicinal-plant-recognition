@@ -1,4 +1,4 @@
-// Standalone farming viewer shared by desktop and mobile.
+// Farming modal shared by desktop and mobile; PlantGuides owns the two options.
 window.PlantFarming = (() => {
   const escape = value => String(value ?? '').replace(/[&<>"']/g, c => ({
     '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;'
@@ -55,41 +55,22 @@ window.PlantFarming = (() => {
     return html;
   }
 
-  function render(info) {
+  function renderDialog(info) {
     const guide = typeof info.cultivation_guide === 'string' && info.cultivation_guide.trim()
       ? markdown(info.cultivation_guide) : '<p>Hướng dẫn canh tác cho loài này chưa được bổ sung.</p>';
-    return `<div class="plant-farming">
-      <div class="farming-options" role="group" aria-label="Chọn nội dung hướng dẫn">
-        <button type="button" class="farming-usage" aria-controls="farming-usage-empty" aria-pressed="false">Hướng dẫn sử dụng</button>
-        <button type="button" class="farming-open" aria-haspopup="dialog" aria-controls="farming-dialog" aria-pressed="false">Hướng dẫn canh tác</button>
-      </div>
-      <div id="farming-usage-empty" class="farming-usage-empty" role="region" aria-label="Hướng dẫn sử dụng" hidden>
-        <p>Hướng dẫn sử dụng cho loài này chưa được bổ sung.</p>
-      </div>
-      <dialog id="farming-dialog" class="farming-dialog" aria-labelledby="farming-title">
+    return `<dialog id="farming-dialog" class="farming-dialog" aria-labelledby="farming-title">
         <div class="farming-header">
           <h2 id="farming-title">Hướng dẫn canh tác</h2>
           <button type="button" class="farming-close" aria-label="Đóng hướng dẫn canh tác">Đóng ×</button>
         </div>
         <div class="farming-body" tabindex="0"><div class="farming-document">${guide}</div></div>
-      </dialog>
-    </div>`;
+      </dialog>`;
   }
 
   document.addEventListener('click', event => {
-    const usage = event.target.closest('.farming-usage');
-    if (usage) {
-      const container = usage.closest('.plant-farming');
-      container.querySelector('.farming-usage-empty').hidden = false;
-      usage.setAttribute('aria-pressed', 'true');
-      container.querySelector('.farming-open').setAttribute('aria-pressed', 'false');
-    }
     const open = event.target.closest('.farming-open');
     if (open) {
-      const container = open.closest('.plant-farming');
-      container.querySelector('.farming-usage-empty').hidden = true;
-      container.querySelector('.farming-usage').setAttribute('aria-pressed', 'false');
-      open.setAttribute('aria-pressed', 'true');
+      const container = open.closest('.plant-guides');
       const dialog = container.querySelector('dialog');
       dialog.showModal();
       document.body.classList.add('farming-modal-open');
@@ -126,5 +107,5 @@ window.PlantFarming = (() => {
     }
   });
 
-  return { render };
+  return { renderDialog };
 })();

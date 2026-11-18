@@ -1,4 +1,4 @@
-"""Verify the complete source document and independence from the usage feature."""
+"""Verify the complete farming document and combined frontend assets."""
 import json
 import re
 import unittest
@@ -22,18 +22,21 @@ class FarmingGuideTests(unittest.TestCase):
                 seen.add(name)
                 self.assertEqual(catalog[name]['cultivation_guide'], re.sub(r'\n---\s*$', '', section).strip())
                 self.assertEqual(catalog[name]['cultivation_context'], context)
-                self.assertNotIn('usage_guide', catalog[name])
+                self.assertTrue(catalog[name]['usage_guide'].strip())
         self.assertEqual(seen, set(catalog))
         species = json.loads((ROOT / 'species.json').read_text(encoding='utf-8'))
         self.assertTrue(all(plant['scientific_name'] in seen for plant in species))
 
-    def test_pages_use_only_farming_assets(self):
+    def test_pages_use_both_guide_assets_in_order(self):
         for page in ('index.html', 'mobile.html'):
             html = (ROOT / 'frontend' / page).read_text(encoding='utf-8')
             self.assertIn('/assets/farming.js', html)
             self.assertIn('/assets/farming.css', html)
-            self.assertNotIn('/assets/guides.js', html)
-        self.assertFalse((ROOT / 'frontend/guides.js').exists())
+            self.assertIn('/assets/guides.js', html)
+            self.assertIn('/assets/guides.css', html)
+            app = '/assets/app.js' if page == 'index.html' else '/assets/mobile.js'
+            self.assertLess(html.index('/assets/guides.js'), html.index('/assets/farming.js'))
+            self.assertLess(html.index('/assets/farming.js'), html.index(app))
 
 
 if __name__ == '__main__':

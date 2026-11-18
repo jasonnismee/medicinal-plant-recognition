@@ -86,27 +86,28 @@ Web gọi `/api/predict` với `X-Source: web`. Nếu ứng dụng/thiết bị 
 
 ## Kiểm thử
 
-### Phiên bản hướng dẫn canh tác — `document/farming`
+### Phiên bản hoàn chỉnh — `document/combine`
 
-Nhánh này phát triển từ `create-document`, độc lập với `document/usage`. Sau khi nhận diện thành công có hai nút: **Hướng dẫn sử dụng** chỉ hiện thông báo chưa được bổ sung, còn **Hướng dẫn canh tác** mở popup lớn có vùng cuộn riêng, đóng bằng nút Đóng, phím Escape hoặc bấm vùng nền. Khi đóng, tiêu điểm trở lại nút mở; trên điện thoại popup sử dụng gần toàn bộ màn hình. Nhánh này không nhập dữ liệu hướng dẫn sử dụng.
+Nhánh này merge `document/usage` và `document/farming`. Sau khi nhận diện thành công, cả web và điện thoại đều có hai lựa chọn hoạt động:
 
-`medicinal_info.json` lưu nguyên văn `cultivation_guide` theo tên khoa học cho 21 loài, gồm tất cả mục, tài liệu tham khảo và ghi chú. `cultivation_context` giữ phần mở đầu để đối chiếu nguồn nhưng không hiển thị trong popup. Bản tài liệu nguồn được giữ tại `docs/farming_guide_21_species.md`. Danh sách mô hình nhận diện vẫn gồm 20 loài. Số thứ tự trước tên cây chỉ được ẩn khi hiển thị; dữ liệu nguồn không bị sửa hoặc rút gọn. Backend trả các trường mới qua `medicinal_info`, không cần tạo lại embedding.
+- **Hướng dẫn sử dụng:** mở nội dung đầy đủ ngay dưới hai nút, giữ định dạng, các mục kiêng kỵ và ký hiệu độ cồn/nhiệt độ dễ đọc.
+- **Hướng dẫn canh tác:** mở popup lớn với vùng cuộn riêng và nút Đóng cố định phía trên. Hỗ trợ đóng bằng Escape hoặc bấm nền, giữ tiêu điểm bàn phím trong popup và trả về nút mở khi đóng. Chuyển sang canh tác sẽ ẩn phần sử dụng; bấm lại nút sử dụng để xem lại.
 
-`frontend/farming.js` và `frontend/farming.css` dùng chung cho web và điện thoại, hỗ trợ tiêu đề, đoạn văn, danh sách, nhấn mạnh và liên kết HTTP/HTTPS. HTML trong tài liệu được hiển thị như văn bản. Thiếu dữ liệu canh tác sẽ có thông báo trong popup.
+`medicinal_info.json` chứa cả `usage_guide` và `cultivation_guide` cho đủ 21 loài, ghép theo tên khoa học. Hai tài liệu nguồn giữ tại `docs/usage_guide_21_species.md` và `docs/farming_guide_21_species.md` để đối chiếu nguyên văn. Nội dung từng loài không bị cắt bớt; số thứ tự trước tên cây chỉ được bỏ khi hiển thị. `cultivation_context` được giữ trong dữ liệu để đối chiếu nhưng không hiển thị phần phạm vi/nguyên tắc chung. Đoạn chú thích nguồn do người dùng cung cấp cũng không xuất hiện trong giao diện.
 
-Kiểm tra đối chiếu toàn bộ nội dung nguồn:
+`frontend/guides.js` và `guides.css` quản lý hai lựa chọn và nội dung sử dụng; `farming.js` và `farming.css` quản lý popup canh tác, định dạng Markdown và liên kết tham khảo HTTP/HTTPS. HTML trong dữ liệu luôn được escape. Mỗi ảnh mới xóa kết quả cũ; khi chưa nhận diện được, giao diện không hiển thị hai nút hướng dẫn. Thiếu một loại hướng dẫn sẽ có thông báo riêng và không ảnh hưởng loại còn lại.
+
+Backend trả cả hai trường qua `medicinal_info`, không cần đổi API, model, embedding hay danh sách 20 loài nhận diện. Hai nhánh riêng `document/usage` và `document/farming` vẫn giữ nguyên.
+
+Kiểm tra đối chiếu cả hai tài liệu và ứng dụng bằng bộ test bên dưới. Kiểm tra trình duyệt dùng phản hồi nhận diện giả lập cho đủ 21 loài, trên màn hình máy tính và điện thoại:
 
 ```powershell
-python -m unittest discover -s tests -p test_farming_guides.py -v
+npm.cmd install --prefix "$env:TEMP\medicinal-combine-check" --no-package-lock --no-audit --no-fund playwright
+$env:NODE_PATH = "$env:TEMP\medicinal-combine-check\node_modules"
+node tests/guides.browser.cjs
 ```
 
-Kiểm tra popup trên trình duyệt với phản hồi nhận diện giả lập (Node.js, Microsoft Edge):
-
-```powershell
-npm.cmd install --prefix "$env:TEMP\medicinal-farming-check" --no-package-lock --no-audit --no-fund playwright
-$env:NODE_PATH = "$env:TEMP\medicinal-farming-check\node_modules"
-node tests/farming.browser.cjs
-```
+Yêu cầu Node.js và Microsoft Edge; có thể đặt `$env:BROWSER_CHANNEL = 'chrome'` nếu dùng Chrome.
 
 ```powershell
 .\.venv\Scripts\python.exe -m pytest tests
