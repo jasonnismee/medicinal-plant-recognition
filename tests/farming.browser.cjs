@@ -35,10 +35,16 @@ const plain = line => line.replace(/^#{1,6} /, '').replace(/^\d+\.\s+/, '').repl
       }
       for (const [name, info] of Object.entries(catalog)) {
         await predict(info, name);
-        assert.equal(await page.getByRole('button', { name: /Hướng dẫn sử dụng/i }).count(), 0);
+        assert.equal(await page.getByRole('button', { name: /Hướng dẫn sử dụng/i }).count(), 1);
+        await page.locator('.farming-usage').click();
+        assert.equal(await page.locator('.farming-usage-empty').isVisible(), true);
+        assert.ok((await page.locator('.farming-usage-empty').innerText()).includes('chưa được bổ sung'));
         assert.equal(await page.locator('dialog').isVisible(), false);
         await page.locator('.farming-open').click();
         assert.equal(await page.locator('dialog').isVisible(), true);
+        assert.equal(await page.locator('.farming-usage-empty').isVisible(), false);
+        assert.equal(await page.locator('.farming-usage').getAttribute('aria-pressed'), 'false');
+        assert.equal(await page.locator('.farming-context').count(), 0);
         assert.equal(await page.locator('.farming-body').evaluate(el => getComputedStyle(el).textAlign), 'left');
         assert.ok(!/^\d+\./.test(await page.locator('.farming-document h3').first().innerText()));
         assert.equal(await page.locator('.guide-source').count(), 0);
@@ -48,9 +54,6 @@ const plain = line => line.replace(/^#{1,6} /, '').replace(/^\d+\.\s+/, '').repl
         }
         const expectedLinks = [...info.cultivation_guide.matchAll(/\]\((https?:\/\/(?:[^\s()]|\([^\s()]*\))*)\)/g)].map(m => m[1]);
         assert.deepEqual(await page.locator('.farming-document a').evaluateAll(links => links.map(a => a.getAttribute('href'))), expectedLinks);
-        await page.locator('.farming-context summary').click();
-        const context = await page.locator('.farming-context').innerText();
-        for (const line of info.cultivation_context.split('\n').filter(line => line.trim())) assert.ok(context.includes(plain(line)));
         assert.ok(await page.locator('.farming-body').evaluate(el => el.scrollHeight > el.clientHeight));
         assert.equal(await page.locator('.farming-body').evaluate(el => el.scrollWidth > el.clientWidth), false);
         // Long document scrolls independently; its final paragraph is reachable.
@@ -87,7 +90,7 @@ const plain = line => line.replace(/^#{1,6} /, '').replace(/^\d+\.\s+/, '').repl
       }
       assert.deepEqual(errors, []);
       await page.close();
-      console.log(`${mobile ? 'Mobile' : 'Desktop'}: all 21 full guides, links, context, scrolling, dismissal, focus, reset and fallback passed.`);
+      console.log(`${mobile ? 'Mobile' : 'Desktop'}: all 21 full guides, usage placeholder, no context section, scrolling, dismissal, focus and fallback passed.`);
     }
   } finally { await browser.close(); }
 })().catch(error => { console.error(error); process.exitCode = 1; });

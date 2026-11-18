@@ -88,9 +88,9 @@ Web gọi `/api/predict` với `X-Source: web`. Nếu ứng dụng/thiết bị 
 
 ### Phiên bản hướng dẫn canh tác — `document/farming`
 
-Nhánh này phát triển từ `create-document`, độc lập với `document/usage`. Chỉ bổ sung nút **Xem hướng dẫn canh tác** sau khi nhận diện thành công; không có hướng dẫn sử dụng. Nút mở popup lớn có vùng cuộn riêng, đóng bằng nút Đóng, phím Escape hoặc bấm vùng nền. Khi đóng, tiêu điểm trở lại nút mở; trên điện thoại popup sử dụng gần toàn bộ màn hình.
+Nhánh này phát triển từ `create-document`, độc lập với `document/usage`. Sau khi nhận diện thành công có hai nút: **Hướng dẫn sử dụng** chỉ hiện thông báo chưa được bổ sung, còn **Hướng dẫn canh tác** mở popup lớn có vùng cuộn riêng, đóng bằng nút Đóng, phím Escape hoặc bấm vùng nền. Khi đóng, tiêu điểm trở lại nút mở; trên điện thoại popup sử dụng gần toàn bộ màn hình. Nhánh này không nhập dữ liệu hướng dẫn sử dụng.
 
-`medicinal_info.json` lưu nguyên văn `cultivation_guide` theo tên khoa học cho 21 loài, gồm tất cả mục, tài liệu tham khảo và ghi chú. `cultivation_context` giữ phạm vi, nguyên tắc sử dụng và quản lý chung; mục **Phạm vi và nguyên tắc chung** trong popup cho phép mở phần này. Bản tài liệu nguồn được giữ tại `docs/farming_guide_21_species.md`. Danh sách mô hình nhận diện vẫn gồm 20 loài. Số thứ tự trước tên cây chỉ được ẩn khi hiển thị; dữ liệu nguồn không bị sửa hoặc rút gọn. Backend trả các trường mới qua `medicinal_info`, không cần tạo lại embedding.
+`medicinal_info.json` lưu nguyên văn `cultivation_guide` theo tên khoa học cho 21 loài, gồm tất cả mục, tài liệu tham khảo và ghi chú. `cultivation_context` giữ phần mở đầu để đối chiếu nguồn nhưng không hiển thị trong popup. Bản tài liệu nguồn được giữ tại `docs/farming_guide_21_species.md`. Danh sách mô hình nhận diện vẫn gồm 20 loài. Số thứ tự trước tên cây chỉ được ẩn khi hiển thị; dữ liệu nguồn không bị sửa hoặc rút gọn. Backend trả các trường mới qua `medicinal_info`, không cần tạo lại embedding.
 
 `frontend/farming.js` và `frontend/farming.css` dùng chung cho web và điện thoại, hỗ trợ tiêu đề, đoạn văn, danh sách, nhấn mạnh và liên kết HTTP/HTTPS. HTML trong tài liệu được hiển thị như văn bản. Thiếu dữ liệu canh tác sẽ có thông báo trong popup.
 
