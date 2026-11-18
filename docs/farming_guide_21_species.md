@@ -1,0 +1,1397 @@
+# HƯỚNG DẪN CANH TÁC VÀ SƠ CHẾ 21 LOÀI CÂY DƯỢC LIỆU
+
+**Phạm vi:** Nhận diện nguồn giống, điều kiện sinh thái, nhân giống, chuẩn bị đất, trồng, chăm sóc, bón phân, quản lý dịch hại, thu hoạch, sơ chế, bảo quản và truy xuất nguồn gốc.
+
+**Nguyên tắc sử dụng:** Tên khoa học là căn cứ xác định loài. Các khoảng cách, thời vụ, độ ẩm và lịch thu hoạch mang tính hướng dẫn, chỉ áp dụng khi phù hợp điều kiện khí hậu, đất trồng, nguồn giống và mục tiêu sản phẩm. Trường hợp có chuyên luận dược điển, tiêu chuẩn hoặc hợp đồng thu mua, yêu cầu của tài liệu áp dụng cần được kiểm tra riêng cho đúng bộ phận dược liệu. Không đồng nhất sản xuất theo hướng sạch với việc đã đạt chứng nhận GACP-WHO.
+
+**Quản lý chung:** Vùng trồng phải có đất, nước không bị ô nhiễm; vật tư có nguồn gốc rõ ràng; phân hữu cơ được xử lý đạt yêu cầu vệ sinh; thuốc bảo vệ thực vật chỉ dùng khi hợp pháp và phù hợp cây trồng; mỗi lô nguyên liệu phải có nhật ký canh tác, thu hoạch, sơ chế và kết quả kiểm tra chất lượng. Tránh thu hái dược liệu tại vỉa hè, ven đường, khu vực công cộng, vùng có nước thải hoặc nơi không kiểm soát được việc sử dụng hóa chất.
+
+---
+
+# 1. Polyscias fruticosa — Cây Đinh lăng (Đinh lăng lá nhỏ)
+
+**Tên khoa học:** *Polyscias fruticosa* (L.) Harms  
+**Họ thực vật:** Araliaceae (họ Nhân sâm)  
+**Tên thường gọi:** Đinh lăng lá nhỏ, đinh lăng nếp, cây gỏi cá.  
+**Bộ phận thu hoạch:** Lá, cành, thân và rễ; trong đó rễ là bộ phận dược liệu có chuyên luận riêng trong Dược điển Việt Nam.
+
+## 1. Đặc điểm sinh thái & Điều kiện ngoại cảnh
+
+- **Khí hậu & Nhiệt độ:** Đinh lăng là cây lâu năm, thích hợp với khí hậu nhiệt đới và cận nhiệt đới ấm, ẩm. Nhiệt độ sinh trưởng thuận lợi thường khoảng 20–28°C, trong đó một số quy trình canh tác tại miền Bắc xác định khoảng thích hợp là 20–25°C. Cây có khả năng thích nghi với nhiều điều kiện khí hậu, chịu được những đợt khô hạn ngắn khi đã trưởng thành, nhưng sinh trưởng kém nếu gặp rét kéo dài, nắng nóng gay gắt hoặc ngập úng. Có thể trồng tại nhiều vùng sinh thái ở Việt Nam khi bảo đảm chế độ tưới tiêu và điều kiện đất phù hợp.
+
+- **Ánh sáng:** Cây ưa sáng đến chịu bóng bán phần. Trong giai đoạn mới giâm hom hoặc mới trồng, nên che bớt ánh nắng trực tiếp vào thời điểm nắng gắt nhằm hạn chế mất nước và giúp cây phục hồi. Khi cây đã phát triển ổn định, cần bảo đảm đủ ánh sáng để duy trì sinh trưởng, phát triển tán lá và tích lũy sinh khối. Tránh trồng ở nơi bị che bóng quá dày trong thời gian dài vì cây có thể vươn cao, thân yếu và phát triển kém.
+
+- **Độ ẩm & Nước:** Cây cần đất có độ ẩm vừa phải, đặc biệt trong thời kỳ hình thành rễ và phát triển chồi non. Tuy nhiên, đinh lăng không chịu được tình trạng đất bão hòa nước kéo dài. Vùng trồng cần có hệ thống thoát nước chủ động, nhất là vào mùa mưa, nhằm hạn chế thối gốc và thối rễ.
+
+- **Đất trồng:** Thích hợp với đất thịt nhẹ, đất cát pha, đất phù sa, đất đỏ bazan hoặc các loại đất tơi xốp, giàu chất hữu cơ, có tầng canh tác đủ sâu và khả năng thoát nước tốt. Khoảng pH đất tham khảo thích hợp là 5,5–6,5. Tránh sử dụng đất sét nặng, đất bị nén chặt, đất nhiễm mặn hoặc đất trũng thường xuyên đọng nước. Trường hợp đất quá chua, cần kiểm tra pH và cải tạo phù hợp trước khi trồng, không bón vôi theo liều lượng cố định khi chưa đánh giá tình trạng đất.
+
+- **Lựa chọn vùng trồng:** Ưu tiên khu vực có nguồn nước tưới bảo đảm chất lượng, không bị ô nhiễm bởi nước thải sinh hoạt, công nghiệp hoặc hoạt động sản xuất khác. Đối với vùng trồng làm dược liệu, cần đánh giá nguy cơ tồn dư kim loại nặng, thuốc bảo vệ thực vật và các chất ô nhiễm trong đất, nước theo yêu cầu quản lý chất lượng nguyên liệu.
+
+## 2. Nhân giống & Chuẩn bị đất trồng
+
+- **Phương pháp nhân giống:** Đinh lăng lá nhỏ thường được nhân giống vô tính bằng phương pháp giâm cành nhằm duy trì đặc tính của cây mẹ và tạo nguồn cây giống tương đối đồng đều. Ngoài ra, có thể sử dụng cây giống được sản xuất bằng phương pháp nuôi cấy mô khi có nguồn cung đáp ứng yêu cầu chất lượng. Đối với sản xuất thông thường, giâm cành vẫn là phương pháp phổ biến vì kỹ thuật tương đối đơn giản và dễ triển khai.
+
+- **Lựa chọn cây mẹ:** Chọn cây đinh lăng lá nhỏ đúng giống, sinh trưởng khỏe, không có triệu chứng sâu bệnh, không bị dị dạng và có nguồn gốc rõ ràng. Nên ưu tiên cây mẹ từ khoảng 2 năm tuổi trở lên, đã phát triển ổn định. Không lấy hom từ những cây có biểu hiện vàng lá, héo rũ, thối gốc hoặc nghi nhiễm bệnh.
+
+- **Tiêu chuẩn hom giống:** Chọn cành bánh tẻ, không quá non hoặc quá già, đường kính khoảng 1–1,5 cm. Hom thường dài 15–25 cm tùy phương pháp giâm, có khoảng 3–5 mắt khỏe mạnh. Sử dụng dao hoặc kéo sắc để cắt hom, hạn chế làm dập mô. Có thể cắt vát phần gốc để nhận biết chiều cắm và tăng diện tích tiếp xúc; tỉa bớt lá nhằm giảm thoát hơi nước. Không để hom giống phơi nắng hoặc mất nước trước khi giâm.
+
+- **Xử lý hom & Giâm cành:** Trước khi giâm, có thể xử lý hom bằng chế phẩm kích thích ra rễ hoặc chế phẩm phòng bệnh phù hợp với cây giống, sử dụng đúng hướng dẫn của nhà sản xuất. Hom được giâm trong giá thể sạch, tơi xốp, giữ ẩm tốt nhưng không đọng nước. Khi giâm, đặt phần gốc hom xuống giá thể, bảo đảm có mắt nằm dưới đất và mắt phía trên có khả năng phát triển thành chồi. Duy trì điều kiện thông thoáng, che nắng nhẹ và giữ ẩm thường xuyên. Không sử dụng vôi bột hoặc tro bếp trực tiếp lên vết cắt như một biện pháp sát khuẩn bắt buộc khi chưa có hướng dẫn kỹ thuật phù hợp.
+
+- **Tiêu chuẩn cây giống xuất vườn:** Cây giống cần có chồi phát triển khỏe, lá bình thường, bộ rễ hình thành tương đối đầy đủ và không có dấu hiệu sâu bệnh. Ưu tiên chuyển cây ra ruộng khi rễ đã giữ được bầu hoặc giá thể, cây không héo sau khi giảm che phủ. Cần tập cho cây thích nghi dần với ánh sáng và điều kiện ngoài vườn trước khi trồng.
+
+- **Làm đất:** Dọn sạch cỏ dại, tàn dư cây trồng bị bệnh và các vật cản. Cày xới, làm tơi đất, kết hợp cải tạo độ phì và hệ thống thoát nước. Có thể phơi ải đất khoảng 10–15 ngày khi điều kiện thời tiết và lịch thời vụ cho phép; đây là biện pháp chuẩn bị đất tham khảo, không phải yêu cầu bắt buộc trong mọi vùng trồng.
+
+- **Lên luống:** Đối với khu vực có nguy cơ úng nước, nên lên luống cao khoảng 20–30 cm, có rãnh thoát nước giữa các luống. Chiều rộng luống được điều chỉnh theo phương thức bố trí hàng trồng, địa hình và yêu cầu chăm sóc. Ở nơi đất thấp hoặc mưa nhiều, cần tăng khả năng thoát nước bằng rãnh chính và rãnh phụ, tránh để nước tồn đọng quanh gốc.
+
+- **Khoảng cách & Mật độ trồng:** Có thể tham khảo khoảng cách hàng cách hàng 50–60 cm và cây cách cây 40–50 cm đối với phương thức trồng tương đối dày. Trong mô hình trồng lấy rễ lâu năm, cần điều chỉnh mật độ theo khả năng phát triển của tán và bộ rễ. Một số quy trình sản xuất tại Việt Nam sử dụng mật độ khoảng 25.000 cây/ha. Với khoảng cách 60 × 50 cm, mật độ hình học đạt khoảng 33.333 cây/ha trước khi trừ diện tích rãnh và đường đi. Do đó, mật độ thực tế phải được tính theo thiết kế ruộng trồng, không áp dụng cố định một mức cho mọi phương án bố trí.
+
+- **Thời vụ trồng:** Tại miền Bắc, thời vụ thuận lợi thường là vụ xuân, khoảng tháng 2–4; một số địa phương có thể trồng vào vụ thu, khoảng tháng 8–9 nếu điều kiện nhiệt độ và độ ẩm phù hợp. Tại miền Nam, có thể lựa chọn thời điểm đầu mùa mưa khi lượng mưa đã ổn định, đồng thời chủ động thoát nước và tránh thời kỳ mưa lớn kéo dài. Nếu có đủ điều kiện tưới tiêu và bảo vệ cây giống, thời vụ có thể điều chỉnh theo điều kiện địa phương.
+
+- **Kỹ thuật trồng:** Đặt cây giống vào hố sao cho cổ rễ ở vị trí phù hợp với mặt đất, không chôn quá sâu. Nếu sử dụng hom giâm trực tiếp, cắm hom nghiêng hoặc đứng tùy phương thức trồng, để lại mắt khỏe phía trên mặt đất và bảo đảm phần gốc tiếp xúc tốt với đất. Lấp đất và nén nhẹ quanh gốc, tránh làm gãy hom hoặc tổn thương rễ. Sau trồng, tưới đủ ẩm và có thể phủ rơm rạ sạch, cỏ khô không mang hạt hoặc vật liệu hữu cơ phù hợp để hạn chế bốc hơi nước.
+
+## 3. Kỹ thuật chăm sóc & Bón phân (theo hướng sản xuất dược liệu sạch)
+
+- **Tưới nước:** Trong giai đoạn mới giâm hom và mới trồng, cần duy trì độ ẩm đất ổn định để thúc đẩy hình thành rễ và phát triển chồi. Tần suất tưới phụ thuộc vào loại đất, nhiệt độ, lượng mưa và điều kiện che phủ. Nên tưới vào sáng sớm hoặc chiều mát, tránh tưới quá nhiều làm đất bão hòa nước. Khi cây đã bén rễ và sinh trưởng ổn định, điều chỉnh lượng tưới theo nhu cầu thực tế, tăng tưới trong thời kỳ khô hạn và giảm hoặc ngừng tưới khi đất đã đủ ẩm. Sau mưa lớn, phải kiểm tra và khơi thông rãnh thoát nước kịp thời.
+
+- **Làm cỏ & Xới đất:** Làm cỏ định kỳ, đặc biệt trong năm đầu khi cây chưa khép tán. Kết hợp xới nhẹ lớp đất mặt nhằm tăng độ thông thoáng và hạn chế đất đóng váng. Không xới sâu hoặc dùng dụng cụ sắc sát gốc vì có thể làm tổn thương bộ rễ. Cỏ dại cần được quản lý để giảm cạnh tranh nước, dinh dưỡng và nơi cư trú của sinh vật gây hại.
+
+- **Vun gốc & Phủ đất:** Có thể vun gốc nhẹ sau các đợt làm cỏ, bón phân hoặc sau mưa lớn khiến đất quanh gốc bị xói mòn. Chỉ bổ sung đất ở mức vừa đủ, không lấp sâu cổ rễ hoặc tạo mô đất giữ nước sát thân. Sử dụng vật liệu phủ hữu cơ sạch để duy trì độ ẩm, hạn chế cỏ dại và cải thiện cấu trúc đất, đồng thời tránh để lớp phủ ẩm tiếp xúc trực tiếp, kéo dài với phần gốc thân.
+
+- **Tỉa cành & Tạo tán:** Khi cây còn nhỏ, ưu tiên hình thành bộ khung thân và tán khỏe, không tỉa quá nhiều làm giảm diện tích quang hợp. Từ khoảng năm thứ hai, có thể tiến hành tỉa cành định kỳ, loại bỏ cành yếu, cành sâu bệnh, cành mọc chen chúc hoặc cành phát triển không phù hợp với mục tiêu canh tác. Trong mô hình sản xuất lấy rễ, việc tỉa cành cần duy trì đủ tán lá để cây tiếp tục sinh trưởng và tích lũy sinh khối. Không áp dụng cứng nhắc một mốc chiều cao như 80–100 cm cho tất cả cây.
+
+- **Bón lót:** Ưu tiên phân chuồng đã ủ hoai đạt yêu cầu vệ sinh, phân compost đạt chất lượng hoặc phân hữu cơ được phép sử dụng trong sản xuất dược liệu. Với đất có độ phì trung bình, mức 10–15 tấn phân hữu cơ hoai mục/ha có thể được xem là một phương án tham khảo ban đầu; lượng thực tế cần được điều chỉnh theo chất lượng phân, độ phì đất, mật độ trồng và điều kiện địa phương. Có thể bổ sung phân lân khi đất thiếu lân theo kết quả phân tích hoặc đánh giá dinh dưỡng đất. Mức 300–400 kg phân lân nung chảy/ha chỉ nên sử dụng như thông số tham khảo của một công thức canh tác cụ thể, không xem là liều lượng bắt buộc. Phân bón cần được trộn đều với đất và tránh tiếp xúc trực tiếp với hom hoặc rễ non.
+
+- **Bón thúc:** Thực hiện theo tuổi cây, tình trạng sinh trưởng và khả năng cung cấp dinh dưỡng của đất. Có thể chia phân hữu cơ thành 2–3 đợt/năm hoặc thành nhiều lần bón với lượng nhỏ hơn, tập trung vào những giai đoạn cây sinh trưởng thuận lợi. Đối với cây trưởng thành, lượng phân cần được điều chỉnh theo độ lớn của tán, sinh khối và mục tiêu thu hoạch lá hoặc rễ. Phân được bón theo vùng rễ hoạt động, tránh tập trung sát gốc, sau đó lấp đất nhẹ và tưới bổ sung nếu cần.
+
+- **Quản lý dinh dưỡng:** Ưu tiên sử dụng phân hữu cơ, phân hữu cơ vi sinh và chế phẩm cải tạo đất có nguồn gốc rõ ràng. Có thể kết hợp phân khoáng với tỷ lệ cân đối khi điều kiện đất và nhu cầu dinh dưỡng yêu cầu. Tránh bón đạm quá mức làm cây phát triển mất cân đối; đồng thời không tự động loại bỏ hoàn toàn phân khoáng nếu chưa có cơ sở đánh giá. Việc sử dụng phân bón phải căn cứ vào đặc tính sản phẩm, hướng dẫn kỹ thuật và tiêu chuẩn chất lượng dược liệu dự kiến.
+
+- **Quản lý đất & Chế phẩm sinh học:** Có thể bổ sung chế phẩm vi sinh phù hợp như *Trichoderma* để hỗ trợ phân giải chất hữu cơ và quản lý một số mầm bệnh trong đất. Hiệu quả phụ thuộc vào chủng vi sinh vật, điều kiện môi trường, chất lượng sản phẩm và phương pháp sử dụng. Không coi chế phẩm sinh học là biện pháp thay thế hoàn toàn cho việc cải tạo đất, thoát nước và vệ sinh đồng ruộng.
+
+- **Theo dõi sinh trưởng:** Định kỳ kiểm tra chiều cao cây, số cành, mức độ phát triển tán lá, màu sắc lá và dấu hiệu bất thường của thân, gốc, rễ. Khi cây phát triển chậm, cần kiểm tra đồng thời độ ẩm, độ thông thoáng của đất, tình trạng dinh dưỡng và nguy cơ sâu bệnh trước khi quyết định bổ sung phân bón hoặc sử dụng chế phẩm xử lý.
+
+## 4. Phòng trừ sâu bệnh hại chính
+
+- **Nguyên tắc quản lý:** Áp dụng quản lý dịch hại tổng hợp (IPM), trong đó ưu tiên phòng ngừa thông qua lựa chọn cây giống khỏe, vệ sinh vườn, bố trí mật độ hợp lý, thoát nước tốt và bón phân cân đối. Thường xuyên kiểm tra cây, đặc biệt trong thời kỳ mưa ẩm, khi cây ra chồi non và sau những đợt thời tiết bất lợi. Việc xác định tác nhân gây bệnh cần dựa trên triệu chứng kết hợp kiểm tra chuyên môn khi cần thiết, tránh xử lý theo suy đoán.
+
+- **Rệp muội & Rệp sáp bột:** Rệp thường tập trung trên chồi non, mặt dưới lá hoặc các vị trí khuất của thân, hút nhựa làm cây sinh trưởng kém, lá biến dạng hoặc vàng. Theo dõi mật độ rệp, cắt bỏ bộ phận nhiễm nặng khi cần thiết, hạn chế kiến bảo vệ rệp và duy trì các loài thiên địch. Có thể sử dụng dầu khoáng hoặc chế phẩm sinh học phù hợp với cây trồng theo hướng dẫn được phép áp dụng.
+
+- **Bọ trĩ, nhện & Sâu ăn lá:** Các đối tượng này có thể xuất hiện tùy điều kiện vùng trồng, gây hại trên lá non hoặc làm giảm diện tích lá quang hợp. Cần kiểm tra mặt dưới lá, đọt non và các khu vực có biểu hiện bạc lá, xoăn lá hoặc bị ăn khuyết. Ưu tiên loại bỏ ổ sâu hại, duy trì vệ sinh đồng ruộng và sử dụng biện pháp sinh học phù hợp. Việc dùng nấm xanh *Metarhizium*, nấm trắng *Beauveria* hoặc các chế phẩm khác cần căn cứ vào đối tượng đích và hướng dẫn sử dụng, không áp dụng như giải pháp chung cho mọi loài sâu hại.
+
+- **Bệnh đốm lá:** Có thể liên quan đến nấm *Alternaria alternata*, biểu hiện bằng các vết đốm trên lá và có khả năng lan rộng trong điều kiện thuận lợi. Cần tỉa bỏ lá bị hại nặng, tạo sự thông thoáng cho tán, hạn chế làm ướt lá kéo dài và thu gom tàn dư bệnh. Trường hợp bệnh phát triển mạnh cần xác định nguyên nhân và lựa chọn biện pháp xử lý phù hợp.
+
+- **Bệnh héo vàng:** Một trong các tác nhân cần theo dõi là *Fusarium oxysporum*. Cây bị bệnh có thể vàng lá, héo, suy giảm sinh trưởng và xuất hiện tổn thương tại vùng gốc hoặc hệ thống dẫn truyền. Khi phát hiện cây có triệu chứng, cần kiểm tra độ ẩm đất và vùng rễ, khoanh vùng những cây nghi nhiễm và tránh di chuyển đất hoặc vật liệu trồng bị nhiễm sang khu vực khỏe mạnh. Cây bệnh nặng cần được loại bỏ và xử lý an toàn.
+
+- **Bệnh lở cổ rễ:** Liên quan đến tác nhân *Rhizoctonia solani*, thường đáng chú ý ở giai đoạn cây con và hom giống. Triệu chứng có thể gồm thâm nâu, teo hoặc mục phần cổ rễ, khiến cây đổ ngã hoặc chết. Phòng ngừa bằng giá thể sạch, hom khỏe, quản lý độ ẩm và tránh gieo trồng quá dày trong vườn ươm.
+
+- **Bệnh héo rũ gốc mốc trắng:** Có thể do *Sclerotium rolfsii*, gây tổn thương vùng gốc, héo rũ và chết cây. Bệnh cần được quản lý bằng cách vệ sinh tàn dư cây bệnh, kiểm soát độ ẩm và hạn chế sự lây lan của đất nhiễm mầm bệnh. Không sử dụng lại cây giống hoặc vật liệu trồng có dấu hiệu nhiễm bệnh.
+
+- **Bệnh thối rễ & Thối gốc:** Một số tác nhân cần chú ý gồm *Pythium* spp. và các sinh vật gây bệnh trong đất khác. Cây có thể biểu hiện vàng lá, héo, rễ chuyển màu nâu hoặc đen, mô rễ mềm và bị phân hủy. Nguy cơ thường gia tăng khi đất thoát nước kém, ngập kéo dài hoặc hệ thống rễ bị tổn thương. Biện pháp phòng ngừa quan trọng nhất là thiết kế hệ thống thoát nước tốt, sử dụng cây giống sạch bệnh và quản lý đất hợp lý. Không dùng vôi bột như biện pháp điều trị mặc định đối với mọi cây bị thối rễ.
+
+- **Biện pháp xử lý tổng hợp:** Khi phát hiện dịch hại cần đánh giá mức độ nhiễm, ghi nhận vị trí cây bệnh, cách ly nguồn lây khi cần thiết, loại bỏ bộ phận hoặc cây bị hại nặng và xử lý phù hợp. Chỉ sử dụng thuốc bảo vệ thực vật, chế phẩm sinh học có hướng dẫn và phạm vi sử dụng hợp pháp, tuân thủ liều lượng, thời gian cách ly và yêu cầu về dư lượng của sản phẩm dược liệu. Không mặc định các hỗn hợp tự pha từ tỏi, ớt hoặc gừng là chế phẩm đã được kiểm chứng hiệu quả hay phù hợp tiêu chuẩn GACP-WHO.
+
+## 5. Thu hoạch & Sơ chế sau thu hoạch
+
+- **Nguyên tắc thu hoạch:** Thời điểm thu hoạch phải phù hợp với bộ phận sử dụng, tuổi cây, tình trạng sinh trưởng và mục tiêu chất lượng nguyên liệu. Nên thu hoạch khi thời tiết khô ráo, hạn chế đất cát và tạp chất lẫn vào sản phẩm. Dụng cụ thu hoạch phải sạch, không gây nhiễm bẩn hoặc làm dập nát dược liệu.
+
+### Thu hoạch lá
+
+- **Thời điểm thu hoạch:** Có thể thu tỉa lá khi cây đã hình thành tán đủ lớn và sinh trưởng ổn định. Đối với mô hình chuyên thu lá, thời điểm bắt đầu có thể khoảng 6–12 tháng sau trồng tùy điều kiện chăm sóc và quy trình sản xuất. Đối với mô hình ưu tiên thu rễ, nên hạn chế thu lá trong giai đoạn cây còn nhỏ để duy trì khả năng quang hợp và phát triển bộ rễ.
+
+- **Tần suất thu hoạch:** Có thể thu tỉa thành nhiều đợt trong năm tùy tốc độ tái sinh lá và mục đích sử dụng. Trong điều kiện cây phát triển tốt, có thể tham khảo 2–3 đợt/năm, nhưng phải điều chỉnh theo sức sinh trưởng của cây. Không thu hoạch đồng loạt toàn bộ tán lá, đặc biệt khi cây đang bị hạn, sâu bệnh hoặc sinh trưởng kém.
+
+- **Kỹ thuật thu hái:** Chọn lá bánh tẻ, không bị sâu bệnh, không có triệu chứng bất thường hoặc dính nhiều tạp chất. Sử dụng dụng cụ sạch, tránh làm tổn thương chồi và cành chính. Cần duy trì một tỷ lệ lá đủ lớn trên cây sau mỗi đợt thu để bảo đảm khả năng phục hồi và tiếp tục sinh trưởng. Không áp dụng cố định tỷ lệ thu 50% bộ lá như một ngưỡng kỹ thuật chung khi chưa có kết quả đánh giá thực tế.
+
+- **Sơ chế lá:** Sau thu hoạch, loại bỏ lá sâu bệnh, lá hư hỏng và các tạp chất. Làm sạch bằng phương pháp phù hợp với yêu cầu nguyên liệu, để ráo nước trước khi làm khô. Có thể phơi trong bóng râm ở nơi thông thoáng hoặc sấy bằng thiết bị có khả năng kiểm soát nhiệt độ. Khoảng 45–50°C có thể được sử dụng làm mức nhiệt thử nghiệm ban đầu đối với một số quy trình sấy lá, nhưng cần đánh giá ảnh hưởng đến màu sắc, mùi, độ ẩm và chất lượng thành phần hóa học trước khi áp dụng cố định.
+
+- **Bảo quản lá khô:** Lá sau sấy phải khô đồng đều, không có dấu hiệu ẩm mốc hoặc mùi lạ. Đóng gói trong bao bì sạch, kín, phù hợp với nguyên liệu dược liệu; bảo quản tại nơi khô mát, tránh ánh sáng trực tiếp và côn trùng. Cần xác định chỉ tiêu độ ẩm và thời hạn bảo quản theo tiêu chuẩn sản phẩm cụ thể, không sử dụng giới hạn độ ẩm của rễ để mặc định cho lá.
+
+### Thu hoạch rễ
+
+- **Tuổi thu hoạch:** Đối với rễ đinh lăng dùng làm dược liệu, Dược điển Việt Nam VI mô tả việc thu hoạch vào mùa thu–đông sau khi cây trồng trên 3 năm. Trong sản xuất thực tế, khoảng 3–5 năm hoặc lâu hơn có thể được lựa chọn tùy mục tiêu khai thác, năng suất và chất lượng. Không mặc định rằng rễ của cây càng lâu năm thì mọi chỉ tiêu hoạt chất đều tăng liên tục.
+
+- **Thời vụ thu hoạch:** Ưu tiên thu hoạch vào mùa thu–đông theo hướng dẫn dược điển, đồng thời điều chỉnh lịch thu theo điều kiện sinh thái, thời tiết và yêu cầu sản xuất tại địa phương. Nên chọn thời điểm đất có độ ẩm vừa phải để thuận lợi khi đào, tránh thu hoạch trong điều kiện mưa lớn hoặc đất quá nhão.
+
+- **Kỹ thuật đào rễ:** Trước khi đào, dọn bớt thân cành theo quy trình khai thác và xác định vùng phân bố của bộ rễ. Đào đất xung quanh gốc với khoảng cách phù hợp, thao tác nhẹ để hạn chế làm đứt, trầy xước hoặc dập nát rễ. Thu gom cả rễ chính và các rễ nhánh có giá trị sử dụng theo tiêu chuẩn nguyên liệu. Không kéo giật trực tiếp thân cây làm đứt hệ thống rễ.
+
+- **Phân loại rễ:** Sau khi thu hoạch, loại bỏ đất bám, rễ hỏng, rễ có dấu hiệu thối hoặc nhiễm bệnh. Phân loại theo kích thước, tình trạng nguyên liệu và quy cách sản phẩm. Có thể phân riêng rễ nhỏ, rễ lớn và các bộ phận không đạt yêu cầu. Không để rễ thu hoạch tiếp xúc trực tiếp với nền đất bẩn hoặc nước ô nhiễm.
+
+- **Làm sạch & Sơ chế:** Rễ được làm sạch đất cát bằng phương pháp phù hợp, sử dụng nguồn nước bảo đảm chất lượng khi cần rửa. Sau đó để ráo, tiến hành phơi hoặc sấy khô. Tùy quy cách sản phẩm, có thể để nguyên rễ, thái phiến dày hoặc bóc lấy vỏ rễ để chế biến. Không bắt buộc thái toàn bộ rễ thành lát 2–3 mm vì quy cách dược liệu phụ thuộc chuyên luận và yêu cầu sản phẩm.
+
+- **Làm khô:** Phơi hoặc sấy bằng phương pháp bảo đảm nguyên liệu khô đồng đều, không bị cháy sém, ẩm mốc hoặc biến đổi bất thường về màu sắc và mùi. Khi sử dụng thiết bị sấy, cần kiểm soát nhiệt độ, thời gian sấy, độ dày lớp nguyên liệu và lưu thông không khí. Không sử dụng nhiệt độ quá cao khi chưa đánh giá tác động đến chất lượng dược liệu.
+
+- **Độ ẩm sau sơ chế:** Đối với dược liệu Đinh lăng (Rễ), giới hạn độ ẩm theo chuyên luận Dược điển Việt Nam VI là không quá 13,0%. Cơ sở sản xuất có thể xây dựng giới hạn nội bộ thấp hơn nhằm tăng độ ổn định bảo quản, nhưng phải có quy trình kiểm soát và phương pháp kiểm nghiệm phù hợp. Không đánh giá độ ẩm chỉ bằng cảm giác sờ hoặc quan sát bên ngoài.
+
+- **Kiểm soát chất lượng:** Dược liệu rễ cần được kiểm tra các yêu cầu liên quan đến nhận dạng, độ ẩm, tạp chất và những chỉ tiêu chất lượng khác theo chuyên luận áp dụng. Khi phục vụ sản xuất dược phẩm hoặc cung cấp cho doanh nghiệp chế biến, có thể cần kiểm nghiệm bổ sung dư lượng thuốc bảo vệ thực vật, kim loại nặng, vi sinh vật và các chỉ tiêu hóa học theo yêu cầu kỹ thuật của bên tiếp nhận.
+
+## 6. Bảo quản dược liệu & Quản lý chất lượng
+
+- **Đóng gói:** Sử dụng bao bì sạch, khô, phù hợp với tính chất từng loại nguyên liệu và không gây nhiễm bẩn. Không đóng gói khi dược liệu chưa được làm khô đạt yêu cầu hoặc còn nóng, có nguy cơ ngưng tụ hơi nước trong bao bì.
+
+- **Điều kiện bảo quản:** Bảo quản trong kho sạch, khô, thoáng, tránh ánh sáng trực tiếp, nguồn nhiệt, mưa hắt và côn trùng. Không đặt bao dược liệu trực tiếp lên nền kho; nên sử dụng kệ hoặc pallet phù hợp để hạn chế hút ẩm. Kiểm tra định kỳ tình trạng bao bì, độ ẩm và dấu hiệu nấm mốc.
+
+- **Phân lô & Ghi nhãn:** Mỗi lô nguyên liệu cần được nhận diện bằng mã số, tên cây, bộ phận thu hoạch, vùng trồng, ngày thu hoạch, ngày sơ chế và các thông tin liên quan. Không trộn lẫn nguyên liệu từ các lô có tình trạng chất lượng khác nhau khi chưa có quy trình quản lý phù hợp.
+
+- **Truy xuất nguồn gốc:** Lưu trữ thông tin về nguồn giống, địa điểm canh tác, lịch bón phân, tưới nước, biện pháp phòng trừ sâu bệnh, ngày thu hoạch, phương pháp sơ chế và kết quả kiểm nghiệm. Điều này giúp xác định nguồn gốc nguyên liệu và hỗ trợ đánh giá chất lượng khi xảy ra vấn đề.
+
+- **Tuân thủ GACP-WHO:** Vùng trồng định hướng sản xuất dược liệu theo GACP-WHO cần thực hiện đầy đủ các yêu cầu liên quan đến nguồn giống, lựa chọn vùng trồng, đất và nước, sử dụng vật tư nông nghiệp, quản lý dịch hại, vệ sinh thu hoạch, sơ chế, bảo quản, nhân sự và hồ sơ sản xuất. Việc ưu tiên phân hữu cơ hoặc hạn chế thuốc bảo vệ thực vật không tự động đồng nghĩa với việc cơ sở đã đáp ứng GACP-WHO.
+
+## 7. Theo dõi canh tác theo từng giai đoạn
+
+- **Giai đoạn chuẩn bị trước trồng:** Xác định đúng giống đinh lăng lá nhỏ, đánh giá đất và nguồn nước, lựa chọn cây mẹ khỏe, chuẩn bị hom hoặc cây giống, thiết kế luống và hệ thống thoát nước. Hoàn thành việc xử lý đất và bón lót phù hợp trước khi xuống giống.
+
+- **Giai đoạn 0–1 tháng sau trồng:** Tập trung duy trì độ ẩm, kiểm tra tỷ lệ sống, sự phát triển của chồi và rễ. Che nắng khi cần thiết, ngăn ngừa đọng nước và theo dõi bệnh lở cổ rễ, thối hom. Trồng dặm những vị trí cây chết bằng cây giống khỏe và đồng đều.
+
+- **Giai đoạn 1–6 tháng:** Duy trì chăm sóc để phát triển thân, lá và hệ rễ. Làm cỏ, xới nhẹ, kiểm tra đất, điều chỉnh tưới nước và dinh dưỡng. Theo dõi rệp, sâu ăn lá và các triệu chứng bất thường trên chồi non.
+
+- **Giai đoạn 6–12 tháng:** Tiếp tục phát triển bộ khung cây và tán lá. Có thể bắt đầu thu tỉa lá đối với mô hình chuyên thu lá khi cây đủ sức sinh trưởng; hạn chế thu lá nếu mục tiêu chính là tạo sinh khối rễ. Điều chỉnh lượng phân bón theo tình trạng cây và chất lượng đất.
+
+- **Giai đoạn năm thứ 2:** Duy trì quản lý cỏ dại, nước tưới, phân bón và sâu bệnh. Có thể tỉa cành định kỳ nhằm duy trì bộ khung khỏe, tán thông thoáng và hạn chế cạnh tranh giữa các cành. Theo dõi sự phát triển của cây và điều chỉnh mật độ hoặc tán cây nếu cần thiết.
+
+- **Giai đoạn năm thứ 3 trở đi:** Chăm sóc theo hướng duy trì sức sinh trưởng, bảo vệ bộ rễ và hạn chế các yếu tố gây suy cây. Xây dựng kế hoạch thu hoạch dựa trên tuổi cây, tình trạng nguyên liệu, nhu cầu thị trường và tiêu chuẩn chất lượng dược liệu. Đối với mô hình thu rễ, ưu tiên cây trên 3 năm tuổi và tổ chức thu hoạch, sơ chế theo đúng quy cách sản phẩm.
+
+- **Giai đoạn sau thu hoạch:** Phân loại nguyên liệu, kiểm tra chất lượng, làm khô, đóng gói và bảo quản theo từng lô. Hoàn thiện hồ sơ truy xuất nguồn gốc, ghi nhận năng suất, tỷ lệ hao hụt khi sơ chế và các vấn đề kỹ thuật để điều chỉnh quy trình cho những vụ sản xuất tiếp theo.
+
+## 8. Tài liệu tham khảo chính
+
+1. Viện Dược liệu. *Quy trình trồng đinh lăng (Polyscias fruticosa (L.) Harms) theo GACP-WHO tại Hà Nội và Nam Định*, Quyết định 138/QĐ-VDL ngày 23/3/2015 (thông tin về quy trình được công bố trong danh mục của Viện).
+2. UBND tỉnh Thái Bình. *Quy trình sản xuất cây Đinh lăng*, kèm theo Quyết định 30/2024/QĐ-UBND ngày 25/9/2024.
+3. Bộ Khoa học và Công nghệ. *TCVN 13268-5:2022 — Bảo vệ thực vật — Phương pháp điều tra sinh vật gây hại — Phần 5: Nhóm cây dược liệu*.
+4. Bộ Y tế. *Dược điển Việt Nam VI*, ban hành theo Quyết định 3960/QĐ-BYT ngày 26/12/2025, chuyên luận Đinh lăng (Rễ).
+5. World Health Organization (2003). *WHO Guidelines on Good Agricultural and Collection Practices (GACP) for Medicinal Plants*.
+6. Sở Khoa học và Công nghệ tỉnh Ninh Bình. *Sản xuất giống và dược liệu Đinh lăng lá nhỏ tại tỉnh Ninh Bình*.
+7. Cổng thông tin điện tử tỉnh Vĩnh Long. Tài liệu hướng dẫn kỹ thuật trồng và chăm sóc đinh lăng trong mô hình canh tác tại địa phương.
+
+*Lưu ý áp dụng: Các khoảng nhiệt độ, khoảng cách trồng, thời gian chăm sóc, mức phân bón và kỹ thuật thu hái được trình bày theo hướng tham khảo để xây dựng quy trình canh tác. Trước khi triển khai sản xuất quy mô lớn, cần điều chỉnh theo giống, điều kiện đất đai, khí hậu, mục tiêu thu hoạch và yêu cầu chất lượng của cơ sở tiếp nhận dược liệu.*
+
+---
+# 2. Moringa oleifera — Cây Chùm ngây
+
+**Tên khoa học:** *Moringa oleifera*  
+**Họ thực vật:** Moringaceae (họ Chùm ngây)  
+**Bộ phận dự kiến thu hoạch:** Lá và hạt; có thể thu quả theo mục tiêu sản xuất.
+
+## 1. Đặc điểm sinh thái & Điều kiện ngoại cảnh
+
+- **Khí hậu, ánh sáng và sinh trưởng:** Chùm ngây là cây gỗ nhỏ sinh trưởng nhanh trong điều kiện nóng, nhiều ánh sáng; trưởng thành có khả năng chịu khô hạn tương đối tốt. Cây con vẫn cần đủ ẩm và dễ bị tổn thương bởi úng kéo dài, rét và gió mạnh. Cần phân biệt mô hình thu lá cắt nhiều lần với mô hình để cây lớn lấy quả, hạt.
+- **Đất trồng, địa hình và nguồn nước:** Thích hợp đất thịt nhẹ hoặc cát pha thoát nước, không đọng nước quanh cổ rễ. Đất quá chặt cần xới sâu, bổ sung hữu cơ đã xử lý và mở rãnh tiêu. Tránh vùng thường xuyên ngập trong mùa mưa; khả năng chịu hạn không đồng nghĩa với việc cây giống không cần tưới.
+- **Yêu cầu đối với vùng nguyên liệu:** Cần xác định đúng loài và loại sản phẩm đầu ra trước khi lập vùng trồng. Đất và nguồn nước phải phù hợp mục đích sản xuất; tránh nguồn nước thải, hóa chất tồn dư và thu gom nguyên liệu ở nơi không kiểm soát được ô nhiễm. Khi sản xuất nguyên liệu dùng làm thuốc hoặc dùng trực tiếp, thực hiện lấy mẫu và kiểm tra chất lượng theo yêu cầu của cơ sở tiếp nhận.
+
+## 2. Nhân giống & Chuẩn bị đất trồng
+
+- **Nguồn giống và phương pháp nhân giống:** Có thể gieo hạt hoặc giâm cành từ cây mẹ đã xác định đúng giống. Hạt lấy từ quả già, nguyên vẹn, không mốc; gieo trực tiếp hoặc trong bầu để giảm tổn thương rễ cọc khi chuyển cây. Hom cành thích hợp khi muốn duy trì đặc tính cây mẹ, nhưng phải chọn cành đủ trưởng thành và không sâu bệnh.
+- **Chuẩn bị đất hoặc giá thể:** Làm sạch cỏ, xới đất và bố trí rãnh thoát nước. Đối với cây gieo bầu, dùng giá thể tơi và không giữ nước quá lâu. Cây con được chuyển ra ruộng khi khỏe, rễ chưa bị cuộn chặt trong bầu và đã quen nắng.
+- **Khoảng cách, mật độ và bố trí luống:** Mô hình thu lá thâm canh có thể trồng dày, khoảng 10 × 10 đến 20 × 20 cm theo tài liệu chuyên khảo, nhưng đòi hỏi cắt liên tục, dinh dưỡng và tưới chủ động. Mô hình bán thâm canh có thể sử dụng 50 × 100 cm; vườn thu quả/hạt phải trồng thưa hơn nhiều (có thể tính bằng mét). Không dùng chung một mật độ cho cả hai mục tiêu.
+- **Thời vụ và thao tác trồng:** Lựa chọn thời kỳ nhiệt độ, mưa và khả năng tưới phù hợp với địa phương, ưu tiên lúc cây giống ít mất nước. Khi trồng, đặt cây đúng chiều, lấp đất vừa đủ để cố định gốc, tránh làm vùi sâu cổ rễ; tưới nhẹ sau trồng nếu đất khô. Không chuyển cây giống có triệu chứng thối gốc, héo bệnh hoặc mang sâu hại vào ruộng sản xuất.
+
+## 3. Kỹ thuật chăm sóc & Bón phân
+
+- **Quản lý tưới và thoát nước:** Giữ ẩm liên tục trong thời kỳ nảy mầm và sau chuyển cây. Khi cây đã bám rễ, tưới theo độ ẩm thực tế; trong vùng khô có thể dùng nhỏ giọt để ổn định sản lượng lá. Ngừng tưới bổ sung khi đất bão hòa; cây rụng lá, vàng gốc cần được kiểm tra cả khả năng ngập úng lẫn sâu bệnh.
+- **Bón lót, bón thúc và cân đối dinh dưỡng:** Bón nền bằng hữu cơ ủ hoai và bổ sung dinh dưỡng theo độ phì. Vườn thu lá nhiều lần phải hoàn trả lượng dinh dưỡng đã lấy đi theo sinh khối; có thể bón thúc sau mỗi đợt cắt với lượng nhỏ, tránh bón đạm dồn dập. Vườn lấy quả cần cân đối kali, lân và dinh dưỡng trong giai đoạn ra hoa, đậu quả.
+- **Làm cỏ, tỉa cành và chăm sóc đặc thù:** Bấm ngọn hoặc cắt thấp hợp lý để kích thích nhiều chồi bên đối với mục tiêu lấy lá; không cắt kiệt khi cây còn nhỏ, mới hồi phục hoặc đang thiếu nước. Với cây lấy hạt, giữ thân chính và bộ khung cành ổn định, tránh cắt ngọn thường xuyên. Làm cỏ sớm vì cây con dễ bị cạnh tranh ánh sáng.
+- **Giám sát sinh trưởng:** Ghi nhận tỷ lệ sống, trạng thái lá, khả năng tái sinh sau cắt, dấu hiệu thiếu hoặc thừa nước và diễn biến dịch hại. Điều chỉnh phân bón theo phân tích đất, chất lượng phân, lượng sinh khối đã thu và phản ứng của cây. Không sử dụng một công thức phân bón hay lịch tưới cố định cho mọi vùng sinh thái khi không có dữ liệu kiểm chứng.
+
+## 4. Phòng trừ sâu bệnh hại chính
+
+- **Nhóm sâu hại cần theo dõi:** Theo dõi sâu ăn lá, sâu đục quả, rệp và côn trùng chích hút trên chồi non. Số lượng sâu tăng nhanh ở khu vườn quá dày hoặc mất cân bằng thiên địch; kiểm tra mặt dưới lá và quả non theo định kỳ.
+- **Nhóm bệnh hại và rủi ro sinh lý:** Có thể gặp thối gốc–rễ khi đất úng, bệnh đốm lá trong mùa ẩm và các hiện tượng rụng lá do khô hạn. Chỉ định tên tác nhân gây bệnh sau khi có quan sát hoặc kết quả kiểm tra; không xem mọi hiện tượng vàng lá là thiếu dinh dưỡng.
+- **Quản lý dịch hại tổng hợp:** Ưu tiên giống khỏe, vệ sinh đồng ruộng, luân canh hoặc thay giá thể khi phù hợp, bón phân cân đối và giữ luống thông thoáng. Tách riêng cây hoặc bộ phận có triệu chứng bệnh; chỉ xử lý bằng chế phẩm được phép áp dụng cho cây trồng và mục đích sử dụng, đúng nhãn sản phẩm và thời gian cách ly. Khi chưa xác định được tác nhân, cần kiểm tra hoặc xét nghiệm thay vì mặc định sử dụng một loại thuốc.
+
+## 5. Thu hoạch & Sơ chế sau thu hoạch
+
+- **Thời điểm và tiêu chuẩn nguyên liệu:** Thu lá khi tán phát triển đủ và cây có khả năng tái sinh; trong hệ thống thâm canh, tài liệu ghi khoảng cách giữa các lần cắt có thể 35–45 ngày khi điều kiện dinh dưỡng và tưới được bảo đảm. Thu quả lấy hạt khi vỏ đã già, chuyển sang màu khô và hạt đạt độ chín sinh lý; không dùng lịch cắt lá thâm canh cho cây giống sản xuất hạt.
+- **Phương pháp thu hái và phân loại:** Cắt chồi non hoặc tỉa lá bằng dụng cụ sạch, không kéo xé làm gãy cành chính. Phân riêng lá úa, lá sâu bệnh và cuống già; rửa khi quy trình sản phẩm yêu cầu, để ráo rồi làm khô sớm. Hạt được tách từ quả già, loại bỏ hạt lép, vỡ, mốc và giữ riêng theo lô.
+- **Làm khô hoặc bảo quản nguyên liệu tươi:** Lá dễ giảm chất lượng sau thu hái, cần đưa nhanh vào khu sơ chế, phơi trong bóng râm thông gió hoặc sấy có kiểm soát, hạn chế kéo dài thời gian ẩm. Bột lá phải đóng gói kín chống hút ẩm và oxy hóa. Hạt cần làm khô đạt chỉ tiêu bảo quản riêng; không đánh đồng giới hạn cho lá và hạt.
+- **Kiểm soát chất lượng sau thu hoạch:** Phải loại bỏ nguyên liệu sâu bệnh, úng thối, mốc hoặc lẫn tạp chất; kiểm soát nước rửa, dụng cụ, bề mặt tiếp xúc, điều kiện phơi/sấy và thời gian từ thu hái đến xử lý. Giới hạn độ ẩm, dư lượng, vi sinh vật và quy cách đóng gói phải tuân theo tiêu chuẩn áp dụng cho **đúng loài, đúng bộ phận và đúng dạng sản phẩm**; không tự gán giới hạn độ ẩm của rễ, lá hay hạt cho nhau.
+
+## 6. Bảo quản dược liệu & Quản lý chất lượng
+
+- **Đóng gói và kho chứa:** Sử dụng thùng hoặc bao bì sạch, an toàn, có khả năng bảo vệ nguyên liệu khỏi bụi, côn trùng và hút ẩm. Sản phẩm đã làm khô phải được làm nguội thích hợp trước khi đóng gói; lưu kho khô, thoáng, tránh ánh nắng trực tiếp và kê cách nền. Nguyên liệu tươi cần được làm mát, vận chuyển nhanh và tránh nén dập; thời hạn lưu giữ phải được xác lập theo quy cách sản phẩm.
+- **Phân lô và truy xuất:** Mỗi lô có mã định danh, tên khoa học, bộ phận thu hoạch, địa điểm trồng, ngày thu, sản lượng, nhật ký phân bón–thuốc bảo vệ thực vật, phương pháp sơ chế và kết quả kiểm tra. Không trộn nguyên liệu từ các lô khác nhau khi không có hồ sơ đánh giá và phê duyệt.
+- **Yêu cầu riêng của loài:** Phải có mẫu nhận dạng thực vật được xác minh; nguồn giống và cây trồng được theo dõi để tránh lẫn với loài gần giống hoặc giống trồng làm cảnh. Chỉ ghi nhận công năng dược liệu theo tiêu chuẩn chuyên môn có giá trị, không suy diễn công dụng y học từ mục đích dùng trong dân gian.
+
+## 7. Theo dõi canh tác theo từng giai đoạn
+
+- **Gieo–bén rễ:** Theo dõi nảy mầm, cây chết và thoát nước sau mưa; trồng dặm cây yếu.
+- **Hình thành tán:** Chọn chế độ bấm ngọn nếu thu lá; duy trì thân, cành nếu thu hạt.
+- **Thu sản phẩm:** Đo sinh khối lá/chồi sau mỗi lần cắt hoặc tỷ lệ đậu quả; bổ sung dinh dưỡng tương ứng.
+- **Cuối vụ:** Vệ sinh tàn dư, cắt tỉa tái tạo và rà soát năng suất, chất lượng theo mục tiêu.
+
+## 8. Tài liệu tham khảo chính
+
+1. [Tổng quan nghiên cứu trồng chùm ngây (IJMS 2015)](https://www.mdpi.com/1422-0067/16/6/12791)
+2. [FAO Feedipedia — Moringa oleifera](https://feedipedia.review.fao.org/node/124)
+
+*Ghi chú kỹ thuật: Thông số được nêu trong các nguồn tham khảo có thể thuộc các điều kiện sinh thái, giống và hệ thống trồng cụ thể. Khi áp dụng ngoài bối cảnh đó, phải đánh giá và hiệu chỉnh tại vùng sản xuất.*
+
+---
+
+# 3. Sphagneticola calendulacea — Cây Sài đất
+
+**Tên khoa học:** *Sphagneticola calendulacea*  
+**Họ thực vật:** Asteraceae (họ Cúc)  
+**Bộ phận dự kiến thu hoạch:** Phần thân, lá và cụm hoa trên mặt đất theo yêu cầu nguyên liệu.
+
+## 1. Đặc điểm sinh thái & Điều kiện ngoại cảnh
+
+- **Khí hậu, ánh sáng và sinh trưởng:** Sài đất là loài thân thảo có khả năng bò lan và ra rễ tại các đốt thân tiếp xúc với đất. Sinh trưởng tốt trong khí hậu ấm ẩm, đủ sáng; có thể chịu bóng nhẹ nhưng tán thường thưa hơn. Vùng trồng cần chú ý khả năng lan rộng ra ngoài luống, cạnh tranh với cây lân cận.
+- **Đất trồng, địa hình và nguồn nước:** Ưu tiên đất tơi, giàu chất hữu cơ, giữ ẩm vừa phải nhưng không bị ngập lâu. Trên đất nặng hoặc vùng mưa nhiều, làm luống và rãnh tiêu để phần thân bò không ngâm trong nước bẩn. Đất nhiễm thuốc diệt cỏ là nguồn rủi ro đặc biệt vì phần thu hoạch nằm sát mặt đất.
+- **Yêu cầu đối với vùng nguyên liệu:** Cần xác định đúng loài và loại sản phẩm đầu ra trước khi lập vùng trồng. Đất và nguồn nước phải phù hợp mục đích sản xuất; tránh nguồn nước thải, hóa chất tồn dư và thu gom nguyên liệu ở nơi không kiểm soát được ô nhiễm. Khi sản xuất nguyên liệu dùng làm thuốc hoặc dùng trực tiếp, thực hiện lấy mẫu và kiểm tra chất lượng theo yêu cầu của cơ sở tiếp nhận.
+
+## 2. Nhân giống & Chuẩn bị đất trồng
+
+- **Nguồn giống và phương pháp nhân giống:** Thực hành nhân giống phù hợp là sử dụng đoạn thân khỏe có nhiều đốt, từ quần thể cây mẹ đã xác nhận là *Sphagneticola calendulacea* (các tài liệu cũ dùng tên *Wedelia chinensis*). Có thể ươm hom trong giá thể ẩm tới khi ra rễ rồi chuyển trồng, hoặc cắm trực tiếp trên luống được tưới chủ động.
+- **Chuẩn bị đất hoặc giá thể:** Loại bỏ cỏ lâu năm và các cây phủ đất dễ nhầm. Làm tơi lớp mặt, bổ sung phân hữu cơ đã xử lý, bảo đảm nước không đọng ở các chỗ trũng. Hom trước trồng phải không héo úa; chôn một vài đốt dưới mặt đất, để ngọn hướng ra ngoài và lấp đất nhẹ.
+- **Khoảng cách, mật độ và bố trí luống:** Tùy mục tiêu thu sinh khối và phương pháp làm cỏ có thể bố trí hàng cách nhau khoảng 25–40 cm, cây/hom cách 20–30 cm như mật độ thử nghiệm ban đầu; đây là thiết kế gợi ý cần hiệu chỉnh, không phải định mức chuẩn hóa riêng cho loài. Chừa lối đi, rãnh thu nước và không để thân bò tràn khỏi khu sản xuất.
+- **Thời vụ và thao tác trồng:** Lựa chọn thời kỳ nhiệt độ, mưa và khả năng tưới phù hợp với địa phương, ưu tiên lúc cây giống ít mất nước. Khi trồng, đặt cây đúng chiều, lấp đất vừa đủ để cố định gốc, tránh làm vùi sâu cổ rễ; tưới nhẹ sau trồng nếu đất khô. Không chuyển cây giống có triệu chứng thối gốc, héo bệnh hoặc mang sâu hại vào ruộng sản xuất.
+
+## 3. Kỹ thuật chăm sóc & Bón phân
+
+- **Quản lý tưới và thoát nước:** Giữ ẩm trong thời gian hom chưa ra rễ, sau đó điều chỉnh tưới khi đất bắt đầu khô mặt. Tưới phun quá mạnh dễ làm bẩn lá, thân; tránh sử dụng nguồn nước mặt có nguy cơ vi sinh vật gây hại. Sau mưa kiểm tra sự thối nhũn của thân nằm sát đất.
+- **Bón lót, bón thúc và cân đối dinh dưỡng:** Bón lót bằng phân hữu cơ hoai mục và bón bổ sung cân đối khi thu cắt lặp lại; lượng bón phụ thuộc lượng vật chất xanh lấy đi và độ phì đất. Không bón phân chuồng tươi lên phần thân lá dự kiến thu hái. Tránh bón quá nhiều đạm dẫn đến tán rậm ẩm và khó làm khô.
+- **Làm cỏ, tỉa cành và chăm sóc đặc thù:** Nhổ cỏ lẫn, đặc biệt loài có hình thái hoa tương tự. Cắt tỉa phần thân già, dày hoặc đã mọc chồng lớp; duy trì thảm cây thoáng và sạch. Tạo ranh giới sinh học hoặc cơ học để hạn chế cây bò lan sang lô khác.
+- **Giám sát sinh trưởng:** Ghi nhận tỷ lệ sống, trạng thái lá, khả năng tái sinh sau cắt, dấu hiệu thiếu hoặc thừa nước và diễn biến dịch hại. Điều chỉnh phân bón theo phân tích đất, chất lượng phân, lượng sinh khối đã thu và phản ứng của cây. Không sử dụng một công thức phân bón hay lịch tưới cố định cho mọi vùng sinh thái khi không có dữ liệu kiểm chứng.
+
+## 4. Phòng trừ sâu bệnh hại chính
+
+- **Nhóm sâu hại cần theo dõi:** Theo dõi sâu ăn lá, rệp và nhóm côn trùng chích hút, nhất là vùng có chồi non dày. Không mặc định sài đất hoàn toàn không có sâu bệnh vì một số quần thể tự nhiên vẫn phát triển mạnh.
+- **Nhóm bệnh hại và rủi ro sinh lý:** Trong điều kiện bết nước có thể phát sinh thối thân, thối gốc hoặc đốm lá. Triệu chứng vàng lá có thể bắt nguồn từ thiếu nắng, rễ yếu hoặc đất thiếu dinh dưỡng; cần kiểm tra trước khi quyết định xử lý.
+- **Quản lý dịch hại tổng hợp:** Ưu tiên giống khỏe, vệ sinh đồng ruộng, luân canh hoặc thay giá thể khi phù hợp, bón phân cân đối và giữ luống thông thoáng. Tách riêng cây hoặc bộ phận có triệu chứng bệnh; chỉ xử lý bằng chế phẩm được phép áp dụng cho cây trồng và mục đích sử dụng, đúng nhãn sản phẩm và thời gian cách ly. Khi chưa xác định được tác nhân, cần kiểm tra hoặc xét nghiệm thay vì mặc định sử dụng một loại thuốc.
+
+## 5. Thu hoạch & Sơ chế sau thu hoạch
+
+- **Thời điểm và tiêu chuẩn nguyên liệu:** Thu phần trên mặt đất khi thảm cây đã phủ đủ diện tích và thân lá sạch, khỏe; nếu nguyên liệu yêu cầu thu lúc có hoa thì phải xác định đúng giai đoạn ra hoa của lô. Không thu từ cây mọc tự nhiên ven đường hoặc vườn công cộng để làm dược liệu.
+- **Phương pháp thu hái và phân loại:** Cắt bằng kéo/dao sạch, để lại đốt và gốc khỏe cho tái sinh. Loại đất cát, tạp chất, cỏ lẫn và phần cây vàng úa. Nếu phải rửa, dùng nước đạt yêu cầu rồi để ráo triệt để trước khi làm khô; tránh bó chặt nguyên liệu tươi còn ướt.
+- **Làm khô hoặc bảo quản nguyên liệu tươi:** Trải mỏng nơi râm thoáng hoặc sấy ở nhiệt độ được thẩm định theo yêu cầu nguyên liệu; đảo nhẹ để phần thân dày khô đều. Đóng gói sau khi đạt giới hạn độ ẩm sản phẩm và kiểm tra không còn mùi mốc, thân nhũn. Bảo quản trong thùng sạch trên giá cao.
+- **Kiểm soát chất lượng sau thu hoạch:** Phải loại bỏ nguyên liệu sâu bệnh, úng thối, mốc hoặc lẫn tạp chất; kiểm soát nước rửa, dụng cụ, bề mặt tiếp xúc, điều kiện phơi/sấy và thời gian từ thu hái đến xử lý. Giới hạn độ ẩm, dư lượng, vi sinh vật và quy cách đóng gói phải tuân theo tiêu chuẩn áp dụng cho **đúng loài, đúng bộ phận và đúng dạng sản phẩm**; không tự gán giới hạn độ ẩm của rễ, lá hay hạt cho nhau.
+
+## 6. Bảo quản dược liệu & Quản lý chất lượng
+
+- **Đóng gói và kho chứa:** Sử dụng thùng hoặc bao bì sạch, an toàn, có khả năng bảo vệ nguyên liệu khỏi bụi, côn trùng và hút ẩm. Sản phẩm đã làm khô phải được làm nguội thích hợp trước khi đóng gói; lưu kho khô, thoáng, tránh ánh nắng trực tiếp và kê cách nền. Nguyên liệu tươi cần được làm mát, vận chuyển nhanh và tránh nén dập; thời hạn lưu giữ phải được xác lập theo quy cách sản phẩm.
+- **Phân lô và truy xuất:** Mỗi lô có mã định danh, tên khoa học, bộ phận thu hoạch, địa điểm trồng, ngày thu, sản lượng, nhật ký phân bón–thuốc bảo vệ thực vật, phương pháp sơ chế và kết quả kiểm tra. Không trộn nguyên liệu từ các lô khác nhau khi không có hồ sơ đánh giá và phê duyệt.
+- **Yêu cầu riêng của loài:** Điểm kiểm soát quan trọng nhất là nhận dạng: *Sphagneticola calendulacea* thường được ghi tên đồng nghĩa *Wedelia chinensis*, nhưng không đồng nhất với *Sphagneticola trilobata* trồng làm cảnh. Mỗi vùng giống nên có ảnh mẫu lá, thân, hoa và mẫu thực vật được định danh chuyên môn trước khi nhân rộng.
+
+## 7. Theo dõi canh tác theo từng giai đoạn
+
+- **Trước trồng:** Xác nhận loài bằng mẫu thực vật, chuẩn bị hom và hệ thống rãnh.
+- **Giai đoạn hom:** Giữ ẩm, kiểm tra ra rễ tại đốt và trồng dặm.
+- **Phát triển thảm:** Làm cỏ, hạn chế cây lẫn và kiểm soát lan rộng.
+- **Thu cắt:** Thu từng lô có độ đồng đều phù hợp, để gốc tái sinh và ghi thời điểm ra hoa nếu liên quan quy cách.
+
+## 8. Tài liệu tham khảo chính
+
+1. [Kew — Sphagneticola calendulacea, đồng nghĩa khoa học](https://powo.science.kew.org/taxon/993278-1)
+2. [WHO GACP — cây dược liệu](https://www.who.int/publications/i/item/9241546271)
+
+*Ghi chú kỹ thuật: Thông số được nêu trong các nguồn tham khảo có thể thuộc các điều kiện sinh thái, giống và hệ thống trồng cụ thể. Khi áp dụng ngoài bối cảnh đó, phải đánh giá và hiệu chỉnh tại vùng sản xuất.*
+
+---
+
+# 4. Coleus amboinicus — Cây Tần dày lá (Húng chanh)
+
+**Tên khoa học:** *Coleus amboinicus*  
+**Họ thực vật:** Lamiaceae (họ Hoa môi)  
+**Bộ phận dự kiến thu hoạch:** Lá và ngọn non.
+
+## 1. Đặc điểm sinh thái & Điều kiện ngoại cảnh
+
+- **Khí hậu, ánh sáng và sinh trưởng:** Là cây thân thảo có lá dày, nhiều lông và mùi thơm mạnh; thích hợp khí hậu ấm, sáng đến bóng bán phần. Cây bị ảnh hưởng khi rét kéo dài, tưới ngập hoặc bị mưa lớn làm dập lá. Chất lượng lá phụ thuộc giống, giai đoạn phát triển và điều kiện thu hái.
+- **Đất trồng, địa hình và nguồn nước:** Phù hợp đất thịt nhẹ hoặc giá thể thoát nước tốt, có hữu cơ nhưng không nén chặt. Ở nơi mưa nhiều cần lên luống, hạn chế nước bắn bẩn lên lá. Có thể trồng chậu/khay để quản lý vệ sinh, giống và sâu bệnh tốt hơn.
+- **Yêu cầu đối với vùng nguyên liệu:** Cần xác định đúng loài và loại sản phẩm đầu ra trước khi lập vùng trồng. Đất và nguồn nước phải phù hợp mục đích sản xuất; tránh nguồn nước thải, hóa chất tồn dư và thu gom nguyên liệu ở nơi không kiểm soát được ô nhiễm. Khi sản xuất nguyên liệu dùng làm thuốc hoặc dùng trực tiếp, thực hiện lấy mẫu và kiểm tra chất lượng theo yêu cầu của cơ sở tiếp nhận.
+
+## 2. Nhân giống & Chuẩn bị đất trồng
+
+- **Nguồn giống và phương pháp nhân giống:** Giâm đoạn thân bánh tẻ là phương pháp thuận tiện; chọn cây mẹ đúng loài, không nhiễm sâu bệnh. Hom có 2–4 đốt khỏe, loại bỏ lá sát gốc, đặt một hoặc hai đốt trong giá thể sạch và giữ ẩm tới khi ra rễ. Tên *Plectranthus amboinicus* xuất hiện phổ biến trong tài liệu chuyên môn đối với loài này.
+- **Chuẩn bị đất hoặc giá thể:** Làm tơi đất, trộn phân hữu cơ đã hoai, tránh giá thể luôn ướt đẫm. Vườn ươm cần thông gió, có che nắng nhẹ và chỗ để các khay không tiếp xúc trực tiếp đất bẩn. Sau khi ra rễ mới đưa cây ra luống chính.
+- **Khoảng cách, mật độ và bố trí luống:** Có thể thử bố trí cây cách cây 30–40 cm, hàng cách 40–50 cm đối với vườn thu lá quy mô nhỏ; cần điều chỉnh theo giống, mức độ phân cành và khả năng thông gió. Không nên trồng quá dày làm lớp lá dày chồng lên nhau, dễ giữ ẩm.
+- **Thời vụ và thao tác trồng:** Lựa chọn thời kỳ nhiệt độ, mưa và khả năng tưới phù hợp với địa phương, ưu tiên lúc cây giống ít mất nước. Khi trồng, đặt cây đúng chiều, lấp đất vừa đủ để cố định gốc, tránh làm vùi sâu cổ rễ; tưới nhẹ sau trồng nếu đất khô. Không chuyển cây giống có triệu chứng thối gốc, héo bệnh hoặc mang sâu hại vào ruộng sản xuất.
+
+## 3. Kỹ thuật chăm sóc & Bón phân
+
+- **Quản lý tưới và thoát nước:** Chỉ tưới khi tầng đất mặt bắt đầu giảm ẩm; cây lá dày không cần đất ướt liên tục. Trong giai đoạn giâm cần giữ ẩm ổn định hơn. Tránh tưới làm dập, xước lá; sau mưa kéo dài phải kiểm tra gốc có dấu hiệu thối.
+- **Bón lót, bón thúc và cân đối dinh dưỡng:** Dùng phân hữu cơ đã xử lý làm nền, bón thúc lượng vừa phải sau các lần thu ngọn khi cây hồi phục. Ưu tiên cung cấp dinh dưỡng cân đối để lá dày và thân chắc; bón quá nhiều đạm có thể làm tán rậm, khó vệ sinh. Ghi lại loại phân, ngày bón và thời gian cách ly thích hợp trước thu hái.
+- **Làm cỏ, tỉa cành và chăm sóc đặc thù:** Bấm ngọn để tăng phân cành khi cây đã khỏe, loại bỏ cành già, lá úa và hoa nếu mục tiêu là sản xuất lá. Cần thay cây mẹ suy yếu, tránh duy trì mãi một nguồn hom đã tích lũy bệnh. Không cắt sát cổ rễ khiến cây mất khả năng tái sinh.
+- **Giám sát sinh trưởng:** Ghi nhận tỷ lệ sống, trạng thái lá, khả năng tái sinh sau cắt, dấu hiệu thiếu hoặc thừa nước và diễn biến dịch hại. Điều chỉnh phân bón theo phân tích đất, chất lượng phân, lượng sinh khối đã thu và phản ứng của cây. Không sử dụng một công thức phân bón hay lịch tưới cố định cho mọi vùng sinh thái khi không có dữ liệu kiểm chứng.
+
+## 4. Phòng trừ sâu bệnh hại chính
+
+- **Nhóm sâu hại cần theo dõi:** Thường cần quan sát rệp, rệp sáp, bọ phấn và côn trùng chích hút trên ngọn mềm. Lá nhiều lông có thể giữ bụi và cặn chế phẩm, vì vậy yêu cầu vệ sinh nguồn nguyên liệu cao.
+- **Nhóm bệnh hại và rủi ro sinh lý:** Thối gốc, héo hom hoặc đốm lá có thể phát sinh khi giá thể quá ẩm và luống thiếu thoáng. Các vết nâu không được tự động quy cho một loài nấm cụ thể nếu chưa kiểm tra.
+- **Quản lý dịch hại tổng hợp:** Ưu tiên giống khỏe, vệ sinh đồng ruộng, luân canh hoặc thay giá thể khi phù hợp, bón phân cân đối và giữ luống thông thoáng. Tách riêng cây hoặc bộ phận có triệu chứng bệnh; chỉ xử lý bằng chế phẩm được phép áp dụng cho cây trồng và mục đích sử dụng, đúng nhãn sản phẩm và thời gian cách ly. Khi chưa xác định được tác nhân, cần kiểm tra hoặc xét nghiệm thay vì mặc định sử dụng một loại thuốc.
+
+## 5. Thu hoạch & Sơ chế sau thu hoạch
+
+- **Thời điểm và tiêu chuẩn nguyên liệu:** Thu lá bánh tẻ hoặc phần ngọn khi cây đã tạo đủ cành nhánh, để lại mắt lá khỏe và bộ tán phục hồi. Có thể thu nhiều đợt trong điều kiện ấm nhưng phải theo dõi khả năng tái sinh giữa các lần cắt.
+- **Phương pháp thu hái và phân loại:** Dùng kéo sạch, loại lá dập, lá có vết bệnh. Khi rửa, thao tác nhẹ tránh làm nát lá và mất mùi; để ráo trên khay sạch. Không chất thành đống dày gây nóng, úng lá trước khi sơ chế.
+- **Làm khô hoặc bảo quản nguyên liệu tươi:** Nguyên liệu tươi nên được chuyển nhanh, bảo vệ khỏi nắng và gió làm héo. Nếu sản xuất lá khô, sấy nhiệt độ vừa phải đã kiểm chứng để giữ màu và mùi thơm; đóng gói kín chống ẩm, tránh ánh sáng mạnh.
+- **Kiểm soát chất lượng sau thu hoạch:** Phải loại bỏ nguyên liệu sâu bệnh, úng thối, mốc hoặc lẫn tạp chất; kiểm soát nước rửa, dụng cụ, bề mặt tiếp xúc, điều kiện phơi/sấy và thời gian từ thu hái đến xử lý. Giới hạn độ ẩm, dư lượng, vi sinh vật và quy cách đóng gói phải tuân theo tiêu chuẩn áp dụng cho **đúng loài, đúng bộ phận và đúng dạng sản phẩm**; không tự gán giới hạn độ ẩm của rễ, lá hay hạt cho nhau.
+
+## 6. Bảo quản dược liệu & Quản lý chất lượng
+
+- **Đóng gói và kho chứa:** Sử dụng thùng hoặc bao bì sạch, an toàn, có khả năng bảo vệ nguyên liệu khỏi bụi, côn trùng và hút ẩm. Sản phẩm đã làm khô phải được làm nguội thích hợp trước khi đóng gói; lưu kho khô, thoáng, tránh ánh nắng trực tiếp và kê cách nền. Nguyên liệu tươi cần được làm mát, vận chuyển nhanh và tránh nén dập; thời hạn lưu giữ phải được xác lập theo quy cách sản phẩm.
+- **Phân lô và truy xuất:** Mỗi lô có mã định danh, tên khoa học, bộ phận thu hoạch, địa điểm trồng, ngày thu, sản lượng, nhật ký phân bón–thuốc bảo vệ thực vật, phương pháp sơ chế và kết quả kiểm tra. Không trộn nguyên liệu từ các lô khác nhau khi không có hồ sơ đánh giá và phê duyệt.
+- **Yêu cầu riêng của loài:** Phải có mẫu nhận dạng thực vật được xác minh; nguồn giống và cây trồng được theo dõi để tránh lẫn với loài gần giống hoặc giống trồng làm cảnh. Chỉ ghi nhận công năng dược liệu theo tiêu chuẩn chuyên môn có giá trị, không suy diễn công dụng y học từ mục đích dùng trong dân gian.
+
+## 7. Theo dõi canh tác theo từng giai đoạn
+
+- **0–3 tuần sau giâm:** Kiểm tra độ ẩm và sự hình thành rễ, loại bỏ hom thối.
+- **Sau ra rễ:** Chuyển cây ra luống, giảm che nắng dần.
+- **Giai đoạn tạo tán:** Bấm ngọn nhẹ, kiểm tra rệp và lá dập.
+- **Chu kỳ thu lá:** Cắt tỉa vừa phải, bón bổ sung hợp lý và làm sạch dụng cụ sau mỗi lô.
+
+## 8. Tài liệu tham khảo chính
+
+1. [PROSEA — Plectranthus/Coleus amboinicus](https://plantuse.plantnet.org/en/Plectranthus_amboinicus_%28PROSEA%29)
+2. [Kew/Pl@ntUse — Coleus amboinicus](https://plantuse.plantnet.org/en/Coleus_amboinicus)
+
+*Ghi chú kỹ thuật: Thông số được nêu trong các nguồn tham khảo có thể thuộc các điều kiện sinh thái, giống và hệ thống trồng cụ thể. Khi áp dụng ngoài bối cảnh đó, phải đánh giá và hiệu chỉnh tại vùng sản xuất.*
+
+---
+
+# 5. Blumea lanceolaria — Cây Xương sông
+
+**Tên khoa học:** *Blumea lanceolaria*  
+**Họ thực vật:** Asteraceae (họ Cúc)  
+**Bộ phận dự kiến thu hoạch:** Lá, ngọn và phần thân trên mặt đất khi có yêu cầu.
+
+## 1. Đặc điểm sinh thái & Điều kiện ngoại cảnh
+
+- **Khí hậu, ánh sáng và sinh trưởng:** Xương sông là cây thảo có lá thơm khi vò, thường trồng trong vườn hộ ở nhiều vùng Việt Nam. Thích điều kiện ấm, đủ ánh sáng hoặc nắng nhẹ; thiếu sáng kéo dài có thể khiến thân vươn cao, ít lá. Gió nóng, hạn kéo dài làm lá cứng và giảm chất lượng thu hái.
+- **Đất trồng, địa hình và nguồn nước:** Ưu tiên đất giàu mùn, tơi, ẩm vừa phải và thoát nước tốt. Cần tránh đất phèn hoặc mặn chưa cải tạo, cũng như vùng nước mưa dồn vào gốc. Có thể trồng trên luống cao hoặc cạnh hàng cây tạo bóng nhẹ tùy điều kiện địa phương.
+- **Yêu cầu đối với vùng nguyên liệu:** Cần xác định đúng loài và loại sản phẩm đầu ra trước khi lập vùng trồng. Đất và nguồn nước phải phù hợp mục đích sản xuất; tránh nguồn nước thải, hóa chất tồn dư và thu gom nguyên liệu ở nơi không kiểm soát được ô nhiễm. Khi sản xuất nguyên liệu dùng làm thuốc hoặc dùng trực tiếp, thực hiện lấy mẫu và kiểm tra chất lượng theo yêu cầu của cơ sở tiếp nhận.
+
+## 2. Nhân giống & Chuẩn bị đất trồng
+
+- **Nguồn giống và phương pháp nhân giống:** Có thể sử dụng hạt khi có nguồn giống xác nhận đúng loài; với giống trồng vườn, có thể thử nhân giống bằng đoạn cây hoặc cây con theo điều kiện thực tế. Cần đánh giá tỷ lệ sống của từng phương pháp trước khi mở rộng, không mặc định kỹ thuật giâm của các loài cúc khác sẽ cho kết quả tương tự.
+- **Chuẩn bị đất hoặc giá thể:** Đất được làm tơi, dọn cỏ, bổ sung hữu cơ đã ủ hoai. Vườn ươm có giá thể sạch, giữ ẩm vừa đủ để cây non không bị chết do úng. Chỉ đưa cây con ra luống sau khi có bộ rễ và chồi phát triển.
+- **Khoảng cách, mật độ và bố trí luống:** Có thể bắt đầu với khoảng cách 30–40 cm giữa cây, 40–50 cm giữa hàng rồi điều chỉnh theo kích thước tán và phương thức thu lá; đây là khuyến nghị bố trí vườn thử nghiệm, không phải tiêu chuẩn định mức của loài. Cần để lối đi đủ rộng để thu hái không giẫm nát cây.
+- **Thời vụ và thao tác trồng:** Lựa chọn thời kỳ nhiệt độ, mưa và khả năng tưới phù hợp với địa phương, ưu tiên lúc cây giống ít mất nước. Khi trồng, đặt cây đúng chiều, lấp đất vừa đủ để cố định gốc, tránh làm vùi sâu cổ rễ; tưới nhẹ sau trồng nếu đất khô. Không chuyển cây giống có triệu chứng thối gốc, héo bệnh hoặc mang sâu hại vào ruộng sản xuất.
+
+## 3. Kỹ thuật chăm sóc & Bón phân
+
+- **Quản lý tưới và thoát nước:** Giữ ẩm trong thời kỳ mới trồng, sau đó điều chỉnh để đất không bị khô kiệt. Nên tưới gốc thay vì phun liên tục lên lá sắp thu. Trong mùa mưa cần khơi rãnh và theo dõi cây héo bất thường dù đất đang ướt.
+- **Bón lót, bón thúc và cân đối dinh dưỡng:** Bón nền hữu cơ đã hoai, kết hợp bổ sung dinh dưỡng khi lá nhạt màu hoặc sau các đợt cắt nếu đánh giá cho thấy cây thiếu dinh dưỡng. Tránh dùng phân tươi hoặc phun dung dịch phân lên bộ phận thu hoạch ngay trước khi thu.
+- **Làm cỏ, tỉa cành và chăm sóc đặc thù:** Tỉa lá già và cành yếu, giữ cây thông thoáng. Nếu mục tiêu thu lá, duy trì đủ chồi tái sinh; nếu có nhu cầu lấy hạt, dành riêng luống cây mẹ không cắt nhiều. Kiểm soát cỏ và vệ sinh lá mục dưới gốc.
+- **Giám sát sinh trưởng:** Ghi nhận tỷ lệ sống, trạng thái lá, khả năng tái sinh sau cắt, dấu hiệu thiếu hoặc thừa nước và diễn biến dịch hại. Điều chỉnh phân bón theo phân tích đất, chất lượng phân, lượng sinh khối đã thu và phản ứng của cây. Không sử dụng một công thức phân bón hay lịch tưới cố định cho mọi vùng sinh thái khi không có dữ liệu kiểm chứng.
+
+## 4. Phòng trừ sâu bệnh hại chính
+
+- **Nhóm sâu hại cần theo dõi:** Theo dõi nhóm sâu ăn lá, rệp hoặc côn trùng chích hút xuất hiện theo mùa; kiểm tra lá non và phần dưới tán trước mỗi đợt thu hái. Không sử dụng kết quả quan sát sâu bệnh của cây đại bi để mặc định cho xương sông.
+- **Nhóm bệnh hại và rủi ro sinh lý:** Lá có thể xuất hiện đốm, thối hoặc vàng khi vườn quá ẩm, thông thoáng kém. Loại bỏ bộ phận bệnh và kiểm tra tình trạng thoát nước; phân tích nguyên nhân trước khi chỉ định biện pháp xử lý.
+- **Quản lý dịch hại tổng hợp:** Ưu tiên giống khỏe, vệ sinh đồng ruộng, luân canh hoặc thay giá thể khi phù hợp, bón phân cân đối và giữ luống thông thoáng. Tách riêng cây hoặc bộ phận có triệu chứng bệnh; chỉ xử lý bằng chế phẩm được phép áp dụng cho cây trồng và mục đích sử dụng, đúng nhãn sản phẩm và thời gian cách ly. Khi chưa xác định được tác nhân, cần kiểm tra hoặc xét nghiệm thay vì mặc định sử dụng một loại thuốc.
+
+## 5. Thu hoạch & Sơ chế sau thu hoạch
+
+- **Thời điểm và tiêu chuẩn nguyên liệu:** Ưu tiên thu lá bánh tẻ khỏe, có mùi đặc trưng, tránh lấy lá quá già, lá sâu hại. Các đợt thu kế tiếp dựa vào tốc độ tái sinh; không thu kiệt toàn bộ cành khi cây sinh trưởng yếu.
+- **Phương pháp thu hái và phân loại:** Loại lá dập, cuống già và tạp chất, rửa bằng nước sạch khi cần; để ráo rồi dùng tươi hoặc sấy. Thao tác nhẹ tránh dập lá và mất mùi. Nếu thu cành, cắt ngắn theo quy cách của đơn vị sử dụng.
+- **Làm khô hoặc bảo quản nguyên liệu tươi:** Lá tươi được xếp lớp mỏng và vận chuyển sớm; nguyên liệu khô nên phơi râm thoáng hoặc sấy đã thẩm định để tránh khô giòn quá mức, đổi màu và mốc. Đóng bao sạch có ghi rõ tên loài và bộ phận thu.
+- **Kiểm soát chất lượng sau thu hoạch:** Phải loại bỏ nguyên liệu sâu bệnh, úng thối, mốc hoặc lẫn tạp chất; kiểm soát nước rửa, dụng cụ, bề mặt tiếp xúc, điều kiện phơi/sấy và thời gian từ thu hái đến xử lý. Giới hạn độ ẩm, dư lượng, vi sinh vật và quy cách đóng gói phải tuân theo tiêu chuẩn áp dụng cho **đúng loài, đúng bộ phận và đúng dạng sản phẩm**; không tự gán giới hạn độ ẩm của rễ, lá hay hạt cho nhau.
+
+## 6. Bảo quản dược liệu & Quản lý chất lượng
+
+- **Đóng gói và kho chứa:** Sử dụng thùng hoặc bao bì sạch, an toàn, có khả năng bảo vệ nguyên liệu khỏi bụi, côn trùng và hút ẩm. Sản phẩm đã làm khô phải được làm nguội thích hợp trước khi đóng gói; lưu kho khô, thoáng, tránh ánh nắng trực tiếp và kê cách nền. Nguyên liệu tươi cần được làm mát, vận chuyển nhanh và tránh nén dập; thời hạn lưu giữ phải được xác lập theo quy cách sản phẩm.
+- **Phân lô và truy xuất:** Mỗi lô có mã định danh, tên khoa học, bộ phận thu hoạch, địa điểm trồng, ngày thu, sản lượng, nhật ký phân bón–thuốc bảo vệ thực vật, phương pháp sơ chế và kết quả kiểm tra. Không trộn nguyên liệu từ các lô khác nhau khi không có hồ sơ đánh giá và phê duyệt.
+- **Yêu cầu riêng của loài:** Nhận diện đúng *Blumea lanceolaria*; không nhầm với *Blumea balsamifera* (đại bi/từ bi). Khi chưa có chuyên luận riêng hoặc tiêu chuẩn đầu ra được xác lập, không tự gán chỉ tiêu hàm lượng tinh dầu, giới hạn độ ẩm hoặc thời gian thu tối ưu.
+
+## 7. Theo dõi canh tác theo từng giai đoạn
+
+- **Chuẩn bị:** Xác nhận loài, giống và nguồn đất sạch.
+- **Cây non:** Quản lý cỏ, che nắng quá gắt nếu cần và tránh úng.
+- **Tạo tán:** Tỉa lá già, kiểm tra sâu ăn lá.
+- **Thu hoạch:** Cắt tỉa lá theo lô, đánh giá mùi, màu và khả năng hồi phục trước lần thu tiếp.
+
+## 8. Tài liệu tham khảo chính
+
+1. [Cơ sở dữ liệu thực vật Việt Nam — Xương sông](https://www.botanyvn.com/cnt.asp?list=species&param=edir&v=Blumea+lanceolaria)
+2. [Bệnh viện Nguyễn Tri Phương — Cây xương sông](https://bvnguyentriphuong.com.vn/duoc-lieu/cay-xuong-song)
+
+*Ghi chú kỹ thuật: Thông số được nêu trong các nguồn tham khảo có thể thuộc các điều kiện sinh thái, giống và hệ thống trồng cụ thể. Khi áp dụng ngoài bối cảnh đó, phải đánh giá và hiệu chỉnh tại vùng sản xuất.*
+
+---
+
+# 6. Eryngium foetidum — Cây Ngò gai (Mùi tàu)
+
+**Tên khoa học:** *Eryngium foetidum*  
+**Họ thực vật:** Apiaceae (họ Hoa tán)  
+**Bộ phận dự kiến thu hoạch:** Lá.
+
+## 1. Đặc điểm sinh thái & Điều kiện ngoại cảnh
+
+- **Khí hậu, ánh sáng và sinh trưởng:** Ngò gai là cây thảo tạo hoa thị lá sát gốc, sinh trưởng tốt ở khí hậu ấm và môi trường ẩm. Bóng bán phần giúp hạn chế trổ ngồng sớm và giữ lá mềm; nắng quá gắt kết hợp khô hạn làm cây nhanh ra hoa, giảm thu hoạch lá.
+- **Đất trồng, địa hình và nguồn nước:** Chọn đất tơi, giàu hữu cơ, giữ ẩm đồng đều nhưng thoát nước. Lên luống cao ở nơi mưa nhiều để ngăn đọng nước trong bẹ lá. Cần kiểm soát đất bắn lên gốc lá do bộ phận thu nằm rất gần mặt đất.
+- **Yêu cầu đối với vùng nguyên liệu:** Cần xác định đúng loài và loại sản phẩm đầu ra trước khi lập vùng trồng. Đất và nguồn nước phải phù hợp mục đích sản xuất; tránh nguồn nước thải, hóa chất tồn dư và thu gom nguyên liệu ở nơi không kiểm soát được ô nhiễm. Khi sản xuất nguyên liệu dùng làm thuốc hoặc dùng trực tiếp, thực hiện lấy mẫu và kiểm tra chất lượng theo yêu cầu của cơ sở tiếp nhận.
+
+## 2. Nhân giống & Chuẩn bị đất trồng
+
+- **Nguồn giống và phương pháp nhân giống:** Chủ yếu nhân giống bằng hạt từ cây mẹ khỏe đã cho cụm hoa già; có thể ươm trong khay rồi chuyển cây khi có lá thật. Hạt thu hoạch và bảo quản đúng cách, gieo nông theo đặc tính nảy mầm của lô giống; theo dõi tỷ lệ nảy mầm thực tế trước khi tính lượng gieo.
+- **Chuẩn bị đất hoặc giá thể:** Đất được xử lý cỏ, trộn phân hữu cơ hoai; dùng giá thể vườn ươm sạch, tơi và không nén mặt. Đưa cây con ra luống khi đủ bộ rễ, tưới nhẹ sau trồng và che nắng trong những ngày đầu.
+- **Khoảng cách, mật độ và bố trí luống:** Có thể thiết kế thử hàng và cây cách nhau khoảng 20–30 cm, rồi điều chỉnh theo khả năng phát triển đường kính hoa thị và mật độ mục tiêu. Khi bố trí luống cần chừa hành lang vệ sinh, thoát nước và thu hái; không tính mật độ ruộng chỉ bằng diện tích hình học mà bỏ qua rãnh.
+- **Thời vụ và thao tác trồng:** Lựa chọn thời kỳ nhiệt độ, mưa và khả năng tưới phù hợp với địa phương, ưu tiên lúc cây giống ít mất nước. Khi trồng, đặt cây đúng chiều, lấp đất vừa đủ để cố định gốc, tránh làm vùi sâu cổ rễ; tưới nhẹ sau trồng nếu đất khô. Không chuyển cây giống có triệu chứng thối gốc, héo bệnh hoặc mang sâu hại vào ruộng sản xuất.
+
+## 3. Kỹ thuật chăm sóc & Bón phân
+
+- **Quản lý tưới và thoát nước:** Giữ ẩm ổn định giúp lá không bị già cứng hoặc trổ ngồng sớm, nhưng tuyệt đối không để đọng nước tại cổ rễ. Có thể dùng tưới nhỏ giọt hoặc tưới nhẹ sáng sớm. Trong mùa mưa cần thoát nước nhanh, kiểm tra cây bị thối bẹ.
+- **Bón lót, bón thúc và cân đối dinh dưỡng:** Bón hữu cơ đã hoai trước trồng, chia bón thúc lượng nhỏ theo tốc độ sinh trưởng và lượng lá thu hoạch. Tránh phân tươi, phân tiếp xúc trực tiếp lá ăn được. Không lạm dụng đạm gây lá mềm yếu và làm tăng nguy cơ lưu giữ nước trong bẹ.
+- **Làm cỏ, tỉa cành và chăm sóc đặc thù:** Cắt bỏ ngồng hoa sớm nếu ưu tiên lá thương phẩm; chỉ giữ ngồng ở luống sản xuất hạt giống. Tỉa lá già ngoài cùng, giữ lại lá non và tâm sinh trưởng cho cây tái sinh. Duy trì lưới che vừa phải khi mùa nắng gay gắt và kiểm soát cỏ quanh gốc.
+- **Giám sát sinh trưởng:** Ghi nhận tỷ lệ sống, trạng thái lá, khả năng tái sinh sau cắt, dấu hiệu thiếu hoặc thừa nước và diễn biến dịch hại. Điều chỉnh phân bón theo phân tích đất, chất lượng phân, lượng sinh khối đã thu và phản ứng của cây. Không sử dụng một công thức phân bón hay lịch tưới cố định cho mọi vùng sinh thái khi không có dữ liệu kiểm chứng.
+
+## 4. Phòng trừ sâu bệnh hại chính
+
+- **Nhóm sâu hại cần theo dõi:** Theo dõi sâu ăn lá, rệp hoặc sinh vật gây hại ở kẽ bẹ lá. Kiểm tra cả phần gốc vì nơi này có thể giữ đất, nước và cặn bẩn; không bỏ qua dấu hiệu sâu bệnh ở lá dưới cùng.
+- **Nhóm bệnh hại và rủi ro sinh lý:** Nguy cơ chính về điều kiện canh tác là thối gốc, thối bẹ và đốm lá khi ruộng úng, tưới quá nhiều hoặc tán quá rậm. Khi cây ra hoa sớm, cần phân biệt nguyên nhân môi trường với biểu hiện bệnh.
+- **Quản lý dịch hại tổng hợp:** Ưu tiên giống khỏe, vệ sinh đồng ruộng, luân canh hoặc thay giá thể khi phù hợp, bón phân cân đối và giữ luống thông thoáng. Tách riêng cây hoặc bộ phận có triệu chứng bệnh; chỉ xử lý bằng chế phẩm được phép áp dụng cho cây trồng và mục đích sử dụng, đúng nhãn sản phẩm và thời gian cách ly. Khi chưa xác định được tác nhân, cần kiểm tra hoặc xét nghiệm thay vì mặc định sử dụng một loại thuốc.
+
+## 5. Thu hoạch & Sơ chế sau thu hoạch
+
+- **Thời điểm và tiêu chuẩn nguyên liệu:** Thu những lá ngoài đã phát triển đủ kích thước, còn xanh và không bị bệnh; giữ lại lá trung tâm để cây tiếp tục tăng trưởng. Tài liệu thực hành khuyến cáo không hái trụi tâm sinh trưởng. Thu vào lúc mát, tránh để lá héo dưới nắng.
+- **Phương pháp thu hái và phân loại:** Tách riêng từng bẹ, cắt bỏ phần gốc già và lá úa rồi rửa kỹ đất cát bám trong kẽ; để ráo trên giá sạch. Nếu dùng tươi, làm mát và vận chuyển nhanh, hạn chế nén lá. Nếu làm khô, cần đánh giá tổn thất mùi và chất lượng.
+- **Làm khô hoặc bảo quản nguyên liệu tươi:** Lá thu tươi dễ giảm chất lượng; bảo quản mát ở mức phù hợp sản phẩm và không để ngưng tụ nước trong bao kín. Bao bì phải thoáng hoặc được thiết kế để tránh đọng nước; dược liệu khô phải đạt tiêu chí độ ẩm của đơn hàng.
+- **Kiểm soát chất lượng sau thu hoạch:** Phải loại bỏ nguyên liệu sâu bệnh, úng thối, mốc hoặc lẫn tạp chất; kiểm soát nước rửa, dụng cụ, bề mặt tiếp xúc, điều kiện phơi/sấy và thời gian từ thu hái đến xử lý. Giới hạn độ ẩm, dư lượng, vi sinh vật và quy cách đóng gói phải tuân theo tiêu chuẩn áp dụng cho **đúng loài, đúng bộ phận và đúng dạng sản phẩm**; không tự gán giới hạn độ ẩm của rễ, lá hay hạt cho nhau.
+
+## 6. Bảo quản dược liệu & Quản lý chất lượng
+
+- **Đóng gói và kho chứa:** Sử dụng thùng hoặc bao bì sạch, an toàn, có khả năng bảo vệ nguyên liệu khỏi bụi, côn trùng và hút ẩm. Sản phẩm đã làm khô phải được làm nguội thích hợp trước khi đóng gói; lưu kho khô, thoáng, tránh ánh nắng trực tiếp và kê cách nền. Nguyên liệu tươi cần được làm mát, vận chuyển nhanh và tránh nén dập; thời hạn lưu giữ phải được xác lập theo quy cách sản phẩm.
+- **Phân lô và truy xuất:** Mỗi lô có mã định danh, tên khoa học, bộ phận thu hoạch, địa điểm trồng, ngày thu, sản lượng, nhật ký phân bón–thuốc bảo vệ thực vật, phương pháp sơ chế và kết quả kiểm tra. Không trộn nguyên liệu từ các lô khác nhau khi không có hồ sơ đánh giá và phê duyệt.
+- **Yêu cầu riêng của loài:** Phải có mẫu nhận dạng thực vật được xác minh; nguồn giống và cây trồng được theo dõi để tránh lẫn với loài gần giống hoặc giống trồng làm cảnh. Chỉ ghi nhận công năng dược liệu theo tiêu chuẩn chuyên môn có giá trị, không suy diễn công dụng y học từ mục đích dùng trong dân gian.
+
+## 7. Theo dõi canh tác theo từng giai đoạn
+
+- **Gieo hạt:** Theo dõi tỷ lệ nảy mầm và cây con bị lở cổ rễ.
+- **Hình thành hoa thị:** Duy trì bóng nhẹ, độ ẩm và làm cỏ.
+- **Trước ra hoa:** Loại ngồng nếu thu lá, giữ cây mẹ riêng nếu lấy hạt.
+- **Thu lá định kỳ:** Hái lá ngoài, giữ tâm sinh trưởng và kiểm tra sạch đất ở bẹ.
+
+## 8. Tài liệu tham khảo chính
+
+1. [ECHO — Eryngium foetidum](https://www.echocommunity.org/vi/resources/ff67426e-bdb4-474a-b0f2-1b91be6f6ed6)
+2. [University of Florida IFAS — Culantro](https://gardeningsolutions.ifas.ufl.edu/plants/edibles/vegetables/culantro/)
+3. [PROSEA — Eryngium foetidum](https://plantuse.plantnet.org/en/Eryngium_foetidum_%28PROSEA%29)
+
+*Ghi chú kỹ thuật: Thông số được nêu trong các nguồn tham khảo có thể thuộc các điều kiện sinh thái, giống và hệ thống trồng cụ thể. Khi áp dụng ngoài bối cảnh đó, phải đánh giá và hiệu chỉnh tại vùng sản xuất.*
+
+---
+
+# 7. Persicaria odorata — Cây Rau răm
+
+**Tên khoa học:** *Persicaria odorata*  
+**Họ thực vật:** Polygonaceae (họ Rau răm)  
+**Bộ phận dự kiến thu hoạch:** Lá và thân non.
+
+## 1. Đặc điểm sinh thái & Điều kiện ngoại cảnh
+
+- **Khí hậu, ánh sáng và sinh trưởng:** Rau răm là cây thảo lâu năm ở vùng không có rét mạnh, thân mọc bò hoặc nghiêng và dễ ra rễ tại đốt. Sinh trưởng tốt khi có ánh sáng đến bóng bán phần và độ ẩm ổn định. Đất quá khô làm giảm sản lượng ngọn; thiếu sáng quá mức có thể khiến thân dài, lá mỏng.
+- **Đất trồng, địa hình và nguồn nước:** Ưa đất giàu chất hữu cơ, luôn có độ ẩm nhưng không cần ngập nước liên tục. Có thể trồng trên luống có tưới, khay hoặc ruộng ẩm được kiểm soát nguồn nước. Khi hướng tới nguyên liệu ăn sống, tránh dùng nước ao, kênh hoặc đất bùn chưa được kiểm nghiệm vệ sinh.
+- **Yêu cầu đối với vùng nguyên liệu:** Cần xác định đúng loài và loại sản phẩm đầu ra trước khi lập vùng trồng. Đất và nguồn nước phải phù hợp mục đích sản xuất; tránh nguồn nước thải, hóa chất tồn dư và thu gom nguyên liệu ở nơi không kiểm soát được ô nhiễm. Khi sản xuất nguyên liệu dùng làm thuốc hoặc dùng trực tiếp, thực hiện lấy mẫu và kiểm tra chất lượng theo yêu cầu của cơ sở tiếp nhận.
+
+## 2. Nhân giống & Chuẩn bị đất trồng
+
+- **Nguồn giống và phương pháp nhân giống:** Giâm ngọn thân khỏe có 4–6 đốt, dài khoảng 8–10 cm là kỹ thuật đã được mô tả trong tài liệu cây trồng Đông Nam Á. Loại bỏ lá phần gốc, cắm đốt vào giá thể ẩm sạch hoặc cho ra rễ trong nước sạch trước khi chuyển trồng. Chọn cây mẹ có mùi rau răm điển hình, không bị lẫn giống hay sâu bệnh.
+- **Chuẩn bị đất hoặc giá thể:** Làm đất tơi, xử lý cỏ, bổ sung phân hữu cơ đã hoai; đặt rãnh tiêu để ruộng không có nước tù kéo dài. Hom cần giữ mát trong quá trình vận chuyển, đưa vào giá thể hoặc luống sớm sau khi cắt.
+- **Khoảng cách, mật độ và bố trí luống:** Có thể bố trí hom thành hàng khoảng 20–30 cm, hom cách 15–20 cm trong mô hình thu ngọn, rồi điều chỉnh theo mức độ bò lan và khả năng làm cỏ. Đây là thiết kế tham khảo để tổ chức luống, không phải mật độ chuẩn cho mọi giống.
+- **Thời vụ và thao tác trồng:** Lựa chọn thời kỳ nhiệt độ, mưa và khả năng tưới phù hợp với địa phương, ưu tiên lúc cây giống ít mất nước. Khi trồng, đặt cây đúng chiều, lấp đất vừa đủ để cố định gốc, tránh làm vùi sâu cổ rễ; tưới nhẹ sau trồng nếu đất khô. Không chuyển cây giống có triệu chứng thối gốc, héo bệnh hoặc mang sâu hại vào ruộng sản xuất.
+
+## 3. Kỹ thuật chăm sóc & Bón phân
+
+- **Quản lý tưới và thoát nước:** Tưới bổ sung thường xuyên vào mùa khô để giữ ẩm vùng rễ; tránh để luống khô nứt sau đó lại ngập đột ngột. Khi dùng hệ thống tưới phun cần bảo đảm nước sạch, giảm bắn đất lên lá thu hoạch. Sau mưa lớn, khơi rãnh và loại bỏ phần thân thối.
+- **Bón lót, bón thúc và cân đối dinh dưỡng:** Bón lót phân hữu cơ đã xử lý, bón thúc cân đối sau các đợt thu ngọn để cây tái sinh. Không sử dụng phân tươi trong sản xuất rau dùng tươi. Điều chỉnh lượng bón theo sắc lá, tốc độ ra chồi và năng suất thực tế; bảo đảm thời gian cách ly theo yêu cầu vật tư.
+- **Làm cỏ, tỉa cành và chăm sóc đặc thù:** Cắt ngọn dài đã đủ lá, để lại một số đốt và lá khỏe làm điểm tái sinh. Tỉa các đoạn thân già, xấu hoặc mọc chồng lớp; bổ sung hom mới cho những mảng thưa. Thực hiện luân phiên lô thu nhằm giảm áp lực và giữ độ đồng đều.
+- **Giám sát sinh trưởng:** Ghi nhận tỷ lệ sống, trạng thái lá, khả năng tái sinh sau cắt, dấu hiệu thiếu hoặc thừa nước và diễn biến dịch hại. Điều chỉnh phân bón theo phân tích đất, chất lượng phân, lượng sinh khối đã thu và phản ứng của cây. Không sử dụng một công thức phân bón hay lịch tưới cố định cho mọi vùng sinh thái khi không có dữ liệu kiểm chứng.
+
+## 4. Phòng trừ sâu bệnh hại chính
+
+- **Nhóm sâu hại cần theo dõi:** Theo dõi sâu ăn lá, rệp, côn trùng chích hút và ốc sên ở nơi ẩm. Các vết cắn, lỗ thủng và chất bẩn không phù hợp với tiêu chuẩn rau dùng sống; phân loại loại bỏ trước khi giao.
+- **Nhóm bệnh hại và rủi ro sinh lý:** Thối thân, rễ và đốm lá dễ xuất hiện khi trồng quá dày, đất thiếu oxy hoặc nước tưới ô nhiễm. Nếu cây héo hàng loạt trong đất vẫn ướt, cần kiểm tra bộ rễ trước khi tăng lượng tưới.
+- **Quản lý dịch hại tổng hợp:** Ưu tiên giống khỏe, vệ sinh đồng ruộng, luân canh hoặc thay giá thể khi phù hợp, bón phân cân đối và giữ luống thông thoáng. Tách riêng cây hoặc bộ phận có triệu chứng bệnh; chỉ xử lý bằng chế phẩm được phép áp dụng cho cây trồng và mục đích sử dụng, đúng nhãn sản phẩm và thời gian cách ly. Khi chưa xác định được tác nhân, cần kiểm tra hoặc xét nghiệm thay vì mặc định sử dụng một loại thuốc.
+
+## 5. Thu hoạch & Sơ chế sau thu hoạch
+
+- **Thời điểm và tiêu chuẩn nguyên liệu:** Thu ngọn và lá khi đạt kích thước theo đơn hàng, còn xanh khỏe và mùi rõ; nên cắt vào sáng sớm hoặc chiều mát. Hạn chế thu ngay sau phun chế phẩm hoặc khi lá còn phủ bùn. Có thể thu nhiều đợt nếu bộ gốc còn khỏe.
+- **Phương pháp thu hái và phân loại:** Chọn loại bỏ lá vàng, cọng già, cây lẫn và tạp chất; rửa bằng nước đáp ứng yêu cầu vi sinh nếu dùng tươi. Để ráo đúng cách, tránh ngâm nước quá lâu làm lá úng và giảm mùi. Các lô dùng ăn sống cần tuân thủ yêu cầu vệ sinh nghiêm ngặt hơn lô dùng để sấy.
+- **Làm khô hoặc bảo quản nguyên liệu tươi:** Giữ lạnh phù hợp và sử dụng sớm đối với rau tươi; đóng gói có khả năng hạn chế mất nước nhưng không làm đọng nước. Khi làm khô, sấy nhanh ở điều kiện đã kiểm nghiệm để hạn chế mất mùi và biến màu.
+- **Kiểm soát chất lượng sau thu hoạch:** Phải loại bỏ nguyên liệu sâu bệnh, úng thối, mốc hoặc lẫn tạp chất; kiểm soát nước rửa, dụng cụ, bề mặt tiếp xúc, điều kiện phơi/sấy và thời gian từ thu hái đến xử lý. Giới hạn độ ẩm, dư lượng, vi sinh vật và quy cách đóng gói phải tuân theo tiêu chuẩn áp dụng cho **đúng loài, đúng bộ phận và đúng dạng sản phẩm**; không tự gán giới hạn độ ẩm của rễ, lá hay hạt cho nhau.
+
+## 6. Bảo quản dược liệu & Quản lý chất lượng
+
+- **Đóng gói và kho chứa:** Sử dụng thùng hoặc bao bì sạch, an toàn, có khả năng bảo vệ nguyên liệu khỏi bụi, côn trùng và hút ẩm. Sản phẩm đã làm khô phải được làm nguội thích hợp trước khi đóng gói; lưu kho khô, thoáng, tránh ánh nắng trực tiếp và kê cách nền. Nguyên liệu tươi cần được làm mát, vận chuyển nhanh và tránh nén dập; thời hạn lưu giữ phải được xác lập theo quy cách sản phẩm.
+- **Phân lô và truy xuất:** Mỗi lô có mã định danh, tên khoa học, bộ phận thu hoạch, địa điểm trồng, ngày thu, sản lượng, nhật ký phân bón–thuốc bảo vệ thực vật, phương pháp sơ chế và kết quả kiểm tra. Không trộn nguyên liệu từ các lô khác nhau khi không có hồ sơ đánh giá và phê duyệt.
+- **Yêu cầu riêng của loài:** Phải có mẫu nhận dạng thực vật được xác minh; nguồn giống và cây trồng được theo dõi để tránh lẫn với loài gần giống hoặc giống trồng làm cảnh. Chỉ ghi nhận công năng dược liệu theo tiêu chuẩn chuyên môn có giá trị, không suy diễn công dụng y học từ mục đích dùng trong dân gian.
+
+## 7. Theo dõi canh tác theo từng giai đoạn
+
+- **0–2 tuần:** Ra rễ từ đốt, kiểm tra hom chết và thay thế.
+- **Tạo thảm:** Kiểm soát độ ẩm, cỏ và tỉa thân chen chúc.
+- **Cắt ngọn:** Cắt luân phiên, để đốt tái sinh; bổ sung dinh dưỡng theo sản lượng.
+- **Cải tạo lô:** Loại bỏ thân già, điều chỉnh mật độ hoặc trồng lại bằng hom khỏe.
+
+## 8. Tài liệu tham khảo chính
+
+1. [PROSEA — Persicaria odorata](https://plantuse.plantnet.org/en/Persicaria_odorata_%28PROSEA%29)
+2. [NParks Singapore — Persicaria odorata](https://www.nparks.gov.sg/florafaunaweb/flora/3/2/3207)
+3. [UC Master Gardeners — Vietnamese Coriander](https://ucanr.edu/site/uc-master-gardeners-santa-clara-county/vietnamese-coriander)
+
+*Ghi chú kỹ thuật: Thông số được nêu trong các nguồn tham khảo có thể thuộc các điều kiện sinh thái, giống và hệ thống trồng cụ thể. Khi áp dụng ngoài bối cảnh đó, phải đánh giá và hiệu chỉnh tại vùng sản xuất.*
+
+---
+
+# 8. Paederia foetida — Cây Lá mơ (Mơ lông)
+
+**Tên khoa học:** *Paederia foetida*  
+**Họ thực vật:** Rubiaceae (họ Cà phê)  
+**Bộ phận dự kiến thu hoạch:** Lá; có thể có thân theo mục tiêu sản xuất.
+
+## 1. Đặc điểm sinh thái & Điều kiện ngoại cảnh
+
+- **Khí hậu, ánh sáng và sinh trưởng:** Lá mơ là dây leo lâu năm, thân có thể bò lan hoặc quấn lên giàn, sinh trưởng tốt trong điều kiện ấm, ẩm và đủ sáng đến bóng nhẹ. Cần không gian phát triển tán, tránh đặt cây ở nơi gió nóng làm lá mất nước nhiều.
+- **Đất trồng, địa hình và nguồn nước:** Thích hợp đất tơi, giàu hữu cơ, thoát nước tốt, không khô kiệt. Vùng trồng nên có giàn hoặc hàng rào riêng để cây không bò lẫn sang vùng cây khác; kiểm soát nước bẩn bắn lên lá ở phần sát mặt đất.
+- **Yêu cầu đối với vùng nguyên liệu:** Cần xác định đúng loài và loại sản phẩm đầu ra trước khi lập vùng trồng. Đất và nguồn nước phải phù hợp mục đích sản xuất; tránh nguồn nước thải, hóa chất tồn dư và thu gom nguyên liệu ở nơi không kiểm soát được ô nhiễm. Khi sản xuất nguyên liệu dùng làm thuốc hoặc dùng trực tiếp, thực hiện lấy mẫu và kiểm tra chất lượng theo yêu cầu của cơ sở tiếp nhận.
+
+## 2. Nhân giống & Chuẩn bị đất trồng
+
+- **Nguồn giống và phương pháp nhân giống:** Loài có thể nhân bằng hạt; khi có nguồn cây mẹ xác nhận đúng loài, có thể nghiên cứu hom thân hoặc phương pháp nhân giống khác theo điều kiện vườn ươm. Kiểm tra khả năng ra rễ của nguồn hom cụ thể trước khi sản xuất hàng loạt. Cần phân biệt các giống mơ có màu mặt dưới lá khác nhau và ghi nhận nhất quán giống được chọn.
+- **Chuẩn bị đất hoặc giá thể:** Làm đất, bổ sung hữu cơ hoai, thiết kế giàn thoáng cho thu hái và vệ sinh. Nếu trồng trong bầu, giữ giá thể ẩm nhưng không úng; trồng ra nơi cố định khi bộ rễ đã đủ phát triển. Dây non cần buộc nhẹ vào giàn để tránh gãy.
+- **Khoảng cách, mật độ và bố trí luống:** Không bố trí quá dày vì tán dây leo dễ che phủ và giữ ẩm. Có thể khảo sát hàng cách 1–1,5 m, gốc cách 0,5–1 m cho hệ thống giàn nhỏ; thông số này là thiết kế thử nghiệm, phải điều chỉnh theo kiểu giàn, sức mọc và mục tiêu thu hoạch.
+- **Thời vụ và thao tác trồng:** Lựa chọn thời kỳ nhiệt độ, mưa và khả năng tưới phù hợp với địa phương, ưu tiên lúc cây giống ít mất nước. Khi trồng, đặt cây đúng chiều, lấp đất vừa đủ để cố định gốc, tránh làm vùi sâu cổ rễ; tưới nhẹ sau trồng nếu đất khô. Không chuyển cây giống có triệu chứng thối gốc, héo bệnh hoặc mang sâu hại vào ruộng sản xuất.
+
+## 3. Kỹ thuật chăm sóc & Bón phân
+
+- **Quản lý tưới và thoát nước:** Tưới đều trong mùa khô, giảm tưới khi mưa kéo dài; phủ gốc bằng vật liệu sạch để hạn chế bốc hơi. Tránh tưới phun mạnh làm lá bám bùn, đặc biệt nếu sản phẩm dùng tươi. Tình trạng vàng lá cần kiểm tra cả nước, đất và dinh dưỡng.
+- **Bón lót, bón thúc và cân đối dinh dưỡng:** Bón hữu cơ hoai mục lúc làm đất và bón thúc phân cân đối sau các kỳ thu lớn. Bón theo vùng rễ, không để phân tiếp xúc lá ăn được. Duy trì dinh dưỡng vừa đủ để cây ra lá bền, tránh thúc đạm quá nhiều tạo dây non dài và dễ bệnh.
+- **Làm cỏ, tỉa cành và chăm sóc đặc thù:** Dẫn dây lên giàn, tỉa dây già hoặc cành mọc chằng chịt; giữ ánh sáng và không khí đi qua tán. Trồng dặm các vị trí chết, khống chế dây bò ra lối đi. Khi thu lá thường xuyên cần giữ một phần tán làm nguồn quang hợp và chồi tái sinh.
+- **Giám sát sinh trưởng:** Ghi nhận tỷ lệ sống, trạng thái lá, khả năng tái sinh sau cắt, dấu hiệu thiếu hoặc thừa nước và diễn biến dịch hại. Điều chỉnh phân bón theo phân tích đất, chất lượng phân, lượng sinh khối đã thu và phản ứng của cây. Không sử dụng một công thức phân bón hay lịch tưới cố định cho mọi vùng sinh thái khi không có dữ liệu kiểm chứng.
+
+## 4. Phòng trừ sâu bệnh hại chính
+
+- **Nhóm sâu hại cần theo dõi:** Kiểm tra sâu ăn lá, rệp, nhện và sâu cuốn lá nếu xuất hiện. Mặt dưới lá có lông giữ bụi nên cần theo dõi kỹ các vị trí khuất, đặc biệt sau mưa.
+- **Nhóm bệnh hại và rủi ro sinh lý:** Có thể phát sinh bệnh đốm lá, thối gốc trong điều kiện ẩm kéo dài; nguyên nhân cần được xác định trước khi đưa ra biện pháp thuốc. Giàn quá dày và nước tưới bắn bẩn là yếu tố bất lợi cần được xử lý.
+- **Quản lý dịch hại tổng hợp:** Ưu tiên giống khỏe, vệ sinh đồng ruộng, luân canh hoặc thay giá thể khi phù hợp, bón phân cân đối và giữ luống thông thoáng. Tách riêng cây hoặc bộ phận có triệu chứng bệnh; chỉ xử lý bằng chế phẩm được phép áp dụng cho cây trồng và mục đích sử dụng, đúng nhãn sản phẩm và thời gian cách ly. Khi chưa xác định được tác nhân, cần kiểm tra hoặc xét nghiệm thay vì mặc định sử dụng một loại thuốc.
+
+## 5. Thu hoạch & Sơ chế sau thu hoạch
+
+- **Thời điểm và tiêu chuẩn nguyên liệu:** Thu lá bánh tẻ khỏe, không dập, không nhiễm bẩn; nên cắt ở trạng thái khô ráo, tránh làm rách lông lá. Nếu cây đang yếu hoặc mới bị cắt tán nhiều, giảm tỷ lệ thu để bảo đảm phục hồi.
+- **Phương pháp thu hái và phân loại:** Lựa và loại bỏ lá bệnh, cành lẫn; rửa lần lượt hai mặt lá bằng nước sạch, để ráo trên khay. Không giã hoặc nghiền trước khi vận chuyển; nguyên liệu tươi phải chế biến sớm. Nếu làm khô, trải mỏng, đảo nhẹ để tránh các lá dính nhau.
+- **Làm khô hoặc bảo quản nguyên liệu tươi:** Bảo quản tươi trong điều kiện mát, tránh nén chặt làm nhũn lá. Nguyên liệu khô được đóng kín chống ẩm; ghi rõ tên loài, giống/nguồn gốc và bộ phận thu hoạch.
+- **Kiểm soát chất lượng sau thu hoạch:** Phải loại bỏ nguyên liệu sâu bệnh, úng thối, mốc hoặc lẫn tạp chất; kiểm soát nước rửa, dụng cụ, bề mặt tiếp xúc, điều kiện phơi/sấy và thời gian từ thu hái đến xử lý. Giới hạn độ ẩm, dư lượng, vi sinh vật và quy cách đóng gói phải tuân theo tiêu chuẩn áp dụng cho **đúng loài, đúng bộ phận và đúng dạng sản phẩm**; không tự gán giới hạn độ ẩm của rễ, lá hay hạt cho nhau.
+
+## 6. Bảo quản dược liệu & Quản lý chất lượng
+
+- **Đóng gói và kho chứa:** Sử dụng thùng hoặc bao bì sạch, an toàn, có khả năng bảo vệ nguyên liệu khỏi bụi, côn trùng và hút ẩm. Sản phẩm đã làm khô phải được làm nguội thích hợp trước khi đóng gói; lưu kho khô, thoáng, tránh ánh nắng trực tiếp và kê cách nền. Nguyên liệu tươi cần được làm mát, vận chuyển nhanh và tránh nén dập; thời hạn lưu giữ phải được xác lập theo quy cách sản phẩm.
+- **Phân lô và truy xuất:** Mỗi lô có mã định danh, tên khoa học, bộ phận thu hoạch, địa điểm trồng, ngày thu, sản lượng, nhật ký phân bón–thuốc bảo vệ thực vật, phương pháp sơ chế và kết quả kiểm tra. Không trộn nguyên liệu từ các lô khác nhau khi không có hồ sơ đánh giá và phê duyệt.
+- **Yêu cầu riêng của loài:** Phải có mẫu nhận dạng thực vật được xác minh; nguồn giống và cây trồng được theo dõi để tránh lẫn với loài gần giống hoặc giống trồng làm cảnh. Chỉ ghi nhận công năng dược liệu theo tiêu chuẩn chuyên môn có giá trị, không suy diễn công dụng y học từ mục đích dùng trong dân gian.
+
+## 7. Theo dõi canh tác theo từng giai đoạn
+
+- **Vườn ươm:** Xác nhận cây mẹ, tạo cây giống có rễ khỏe.
+- **Làm giàn:** Dẫn dây, buộc nhẹ và bổ sung cọc đỡ.
+- **Phát triển lá:** Bón cân đối, tỉa dây chồng chéo và theo dõi sâu ăn lá.
+- **Thu nhiều đợt:** Thu lá bánh tẻ theo lô, giữ tán tái sinh và kiểm tra vệ sinh nguyên liệu.
+
+## 8. Tài liệu tham khảo chính
+
+1. [PROSEA — Paederia foetida](https://plantuse.plantnet.org/en/Paederia_foetida_%28PROSEA%29)
+2. [NParks — Paederia foetida](https://www.nparks.gov.sg/florafaunaweb/flora/1/4/1462)
+
+*Ghi chú kỹ thuật: Thông số được nêu trong các nguồn tham khảo có thể thuộc các điều kiện sinh thái, giống và hệ thống trồng cụ thể. Khi áp dụng ngoài bối cảnh đó, phải đánh giá và hiệu chỉnh tại vùng sản xuất.*
+
+---
+
+# 9. Cymbopogon citratus — Cây Sả
+
+**Tên khoa học:** *Cymbopogon citratus*  
+**Họ thực vật:** Poaceae (họ Hòa thảo)  
+**Bộ phận dự kiến thu hoạch:** Bẹ thân, phần gốc thân và lá.
+
+## 1. Đặc điểm sinh thái & Điều kiện ngoại cảnh
+
+- **Khí hậu, ánh sáng và sinh trưởng:** Sả là cây cỏ sống lâu năm, mọc thành bụi, cần nắng đầy đủ và khí hậu ấm. Cây phát triển mạnh trong điều kiện đủ ẩm, có thể chịu những đợt khô hạn sau khi bám rễ. Hạn kéo dài làm giảm sinh khối và tốc độ sinh chồi; đất úng gây chết bụi.
+- **Đất trồng, địa hình và nguồn nước:** Thích hợp nhiều loại đất nhưng tốt nhất là đất tơi, thoát nước, tầng canh tác sâu. Không trồng trong hốc đọng nước; nơi mưa lớn cần làm rãnh. Chọn khu đất sạch vì phần thân bẹ và lá có thể được chế biến làm nguyên liệu thực phẩm, hương liệu hoặc tinh dầu.
+- **Yêu cầu đối với vùng nguyên liệu:** Cần xác định đúng loài và loại sản phẩm đầu ra trước khi lập vùng trồng. Đất và nguồn nước phải phù hợp mục đích sản xuất; tránh nguồn nước thải, hóa chất tồn dư và thu gom nguyên liệu ở nơi không kiểm soát được ô nhiễm. Khi sản xuất nguyên liệu dùng làm thuốc hoặc dùng trực tiếp, thực hiện lấy mẫu và kiểm tra chất lượng theo yêu cầu của cơ sở tiếp nhận.
+
+## 2. Nhân giống & Chuẩn bị đất trồng
+
+- **Nguồn giống và phương pháp nhân giống:** Nhân giống chủ yếu bằng tách chồi (slip) từ bụi mẹ đúng loài, khỏe mạnh. Tách từng chồi có đoạn gốc và rễ, cắt bớt lá dài để hạn chế bốc hơi, loại chồi sâu bệnh. *Cymbopogon citratus* ít kết hạt hữu dụng trong canh tác nên không lựa chọn gieo hạt làm phương pháp chính.
+- **Chuẩn bị đất hoặc giá thể:** Dọn cỏ lâu năm, cày xới, bổ sung phân hữu cơ hoai và thiết kế rãnh tiêu. Tách bụi ngay trước khi trồng để gốc không mất nước. Đặt chồi thẳng, lấp đất vừa giữ chắc gốc, tưới hồi cây nếu đất khô.
+- **Khoảng cách, mật độ và bố trí luống:** Tài liệu PROSEA ghi khoảng cách 50–90 cm giữa hàng và 50–60 cm giữa bụi trong một số mô hình; mật độ phải được chọn theo mục tiêu lấy bẹ thân hay cắt lá và thiết bị chăm sóc. Không đồng nhất sả chanh *C. citratus* với sả lấy tinh dầu *C. flexuosus* khi áp dụng hướng dẫn chuyên canh.
+- **Thời vụ và thao tác trồng:** Lựa chọn thời kỳ nhiệt độ, mưa và khả năng tưới phù hợp với địa phương, ưu tiên lúc cây giống ít mất nước. Khi trồng, đặt cây đúng chiều, lấp đất vừa đủ để cố định gốc, tránh làm vùi sâu cổ rễ; tưới nhẹ sau trồng nếu đất khô. Không chuyển cây giống có triệu chứng thối gốc, héo bệnh hoặc mang sâu hại vào ruộng sản xuất.
+
+## 3. Kỹ thuật chăm sóc & Bón phân
+
+- **Quản lý tưới và thoát nước:** Trong 3–4 tuần đầu cần giữ ẩm để chồi mới hồi phục; sau đó tưới bổ sung khi khô hạn kéo dài. Không để gốc ngập, đặc biệt tại nơi đất sét và thời kỳ mưa kéo dài. Có thể phủ gốc sạch để giảm cỏ và mất nước.
+- **Bón lót, bón thúc và cân đối dinh dưỡng:** Bón hữu cơ hoai lúc trồng, sau thu bổ sung phân cân đối phù hợp lượng sinh khối đã lấy đi. Nhu cầu kali và đạm phải xét theo đất, năng suất lá và mục tiêu sản phẩm; không áp dụng đơn thuốc phân của các loài sả khác khi chưa hiệu chỉnh.
+- **Làm cỏ, tỉa cành và chăm sóc đặc thù:** Làm cỏ trong giai đoạn cây chưa khép bụi, loại bỏ bẹ khô và phần lá bệnh. Sau mỗi lần cắt, kiểm tra số chồi tái sinh, các bụi suy yếu và chỗ trũng tích nước. Khi bụi quá già hoặc dày, có thể tách trồng lại để duy trì chất lượng.
+- **Giám sát sinh trưởng:** Ghi nhận tỷ lệ sống, trạng thái lá, khả năng tái sinh sau cắt, dấu hiệu thiếu hoặc thừa nước và diễn biến dịch hại. Điều chỉnh phân bón theo phân tích đất, chất lượng phân, lượng sinh khối đã thu và phản ứng của cây. Không sử dụng một công thức phân bón hay lịch tưới cố định cho mọi vùng sinh thái khi không có dữ liệu kiểm chứng.
+
+## 4. Phòng trừ sâu bệnh hại chính
+
+- **Nhóm sâu hại cần theo dõi:** Có thể gặp sâu ăn lá và côn trùng đục thân tùy vùng, cần kiểm tra phần bẹ gốc, lá bị thủng hoặc vàng bất thường. Không sử dụng thuốc trừ cỏ/thuốc sâu không phù hợp nguyên liệu làm thực phẩm hay tinh dầu.
+- **Nhóm bệnh hại và rủi ro sinh lý:** Theo dõi cháy lá, đốm lá hoặc thối gốc ở vùng mưa ẩm. Sự vàng của lá già có thể là hiện tượng sinh lý, thiếu dinh dưỡng hoặc bệnh; cần đối chiếu gốc và đốt thân trước khi xử lý.
+- **Quản lý dịch hại tổng hợp:** Ưu tiên giống khỏe, vệ sinh đồng ruộng, luân canh hoặc thay giá thể khi phù hợp, bón phân cân đối và giữ luống thông thoáng. Tách riêng cây hoặc bộ phận có triệu chứng bệnh; chỉ xử lý bằng chế phẩm được phép áp dụng cho cây trồng và mục đích sử dụng, đúng nhãn sản phẩm và thời gian cách ly. Khi chưa xác định được tác nhân, cần kiểm tra hoặc xét nghiệm thay vì mặc định sử dụng một loại thuốc.
+
+## 5. Thu hoạch & Sơ chế sau thu hoạch
+
+- **Thời điểm và tiêu chuẩn nguyên liệu:** Trong canh tác lấy lá, có thể bắt đầu cắt khoảng 6–8 tháng sau trồng theo PROSEA khi bụi đủ phát triển. Lịch cắt tiếp theo phụ thuộc mùa, sức tái sinh và mục tiêu chất lượng tinh dầu. Thu bẹ thân lúc gốc đã hình thành thân đủ lớn theo quy cách thu mua.
+- **Phương pháp thu hái và phân loại:** Cắt lá bằng dao sắc, không cắt quá thấp làm hư điểm sinh trưởng; bẹ gốc bóc bỏ lớp già và rễ đất trước khi sơ chế. Phân biệt nguyên liệu dùng tươi, sấy hoặc chưng cất tinh dầu vì phương án cắt, phơi héo và thời gian lưu kho khác nhau.
+- **Làm khô hoặc bảo quản nguyên liệu tươi:** Lá và thân cần được xếp thoáng, tránh lên men nóng trong bao dày. Nếu sấy lá, kiểm soát nhiệt và tốc độ gió nhằm giữ hương; nguyên liệu đem chưng cất cần quản lý thời gian sau cắt theo quy trình thiết bị. Bao bì lưu trữ phải tránh ẩm và ánh sáng.
+- **Kiểm soát chất lượng sau thu hoạch:** Phải loại bỏ nguyên liệu sâu bệnh, úng thối, mốc hoặc lẫn tạp chất; kiểm soát nước rửa, dụng cụ, bề mặt tiếp xúc, điều kiện phơi/sấy và thời gian từ thu hái đến xử lý. Giới hạn độ ẩm, dư lượng, vi sinh vật và quy cách đóng gói phải tuân theo tiêu chuẩn áp dụng cho **đúng loài, đúng bộ phận và đúng dạng sản phẩm**; không tự gán giới hạn độ ẩm của rễ, lá hay hạt cho nhau.
+
+## 6. Bảo quản dược liệu & Quản lý chất lượng
+
+- **Đóng gói và kho chứa:** Sử dụng thùng hoặc bao bì sạch, an toàn, có khả năng bảo vệ nguyên liệu khỏi bụi, côn trùng và hút ẩm. Sản phẩm đã làm khô phải được làm nguội thích hợp trước khi đóng gói; lưu kho khô, thoáng, tránh ánh nắng trực tiếp và kê cách nền. Nguyên liệu tươi cần được làm mát, vận chuyển nhanh và tránh nén dập; thời hạn lưu giữ phải được xác lập theo quy cách sản phẩm.
+- **Phân lô và truy xuất:** Mỗi lô có mã định danh, tên khoa học, bộ phận thu hoạch, địa điểm trồng, ngày thu, sản lượng, nhật ký phân bón–thuốc bảo vệ thực vật, phương pháp sơ chế và kết quả kiểm tra. Không trộn nguyên liệu từ các lô khác nhau khi không có hồ sơ đánh giá và phê duyệt.
+- **Yêu cầu riêng của loài:** Phải có mẫu nhận dạng thực vật được xác minh; nguồn giống và cây trồng được theo dõi để tránh lẫn với loài gần giống hoặc giống trồng làm cảnh. Chỉ ghi nhận công năng dược liệu theo tiêu chuẩn chuyên môn có giá trị, không suy diễn công dụng y học từ mục đích dùng trong dân gian.
+
+## 7. Theo dõi canh tác theo từng giai đoạn
+
+- **Tách chồi–trồng:** Chọn chồi khỏe, giữ rễ và tưới hồi cây.
+- **Phát triển bụi:** Làm cỏ, kiểm tra thoát nước, số nhánh mới.
+- **Thu lá/bẹ:** Thu theo quy cách, giữ gốc tái sinh và ghi năng suất từng lô.
+- **Sau nhiều năm:** Đánh giá tuổi bụi, tách nhân giống hoặc trồng thay thế.
+
+## 8. Tài liệu tham khảo chính
+
+1. [PROSEA — Cymbopogon citratus](https://plantuse.plantnet.org/en/Cymbopogon_citratus_%28PROSEA%29)
+2. [UC ANR — Lemongrass Production Guidelines 2026](https://ucanr.edu/program/uc-small-farms-network/article/lemongrass)
+
+*Ghi chú kỹ thuật: Thông số được nêu trong các nguồn tham khảo có thể thuộc các điều kiện sinh thái, giống và hệ thống trồng cụ thể. Khi áp dụng ngoài bối cảnh đó, phải đánh giá và hiệu chỉnh tại vùng sản xuất.*
+
+---
+
+# 10. Centella asiatica — Cây Rau má
+
+**Tên khoa học:** *Centella asiatica*  
+**Họ thực vật:** Apiaceae (họ Hoa tán)  
+**Bộ phận dự kiến thu hoạch:** Toàn phần thân, cuống, lá trên mặt đất.
+
+## 1. Đặc điểm sinh thái & Điều kiện ngoại cảnh
+
+- **Khí hậu, ánh sáng và sinh trưởng:** Rau má là cây thảo bò, rễ mọc tại các đốt thân, ưa môi trường ẩm và khí hậu ấm. Có thể phát triển trong ánh sáng vừa phải hoặc bóng bán phần; nắng mạnh và thiếu nước khiến lá nhỏ, cuống ngắn, giảm sản lượng. Ngập nước tù kéo dài làm tăng nguy cơ ô nhiễm và thối gốc.
+- **Đất trồng, địa hình và nguồn nước:** Thích hợp đất giàu hữu cơ, giữ ẩm tốt nhưng vẫn có khả năng tiêu nước. Rau má thường được dùng tươi nên đất và nước tưới phải được kiểm soát vi sinh, ký sinh trùng và hóa chất, đặc biệt ở ruộng trũng. Không bố trí nơi nhận nước thải chăn nuôi hoặc nước ao tù chưa xử lý.
+- **Yêu cầu đối với vùng nguyên liệu:** Cần xác định đúng loài và loại sản phẩm đầu ra trước khi lập vùng trồng. Đất và nguồn nước phải phù hợp mục đích sản xuất; tránh nguồn nước thải, hóa chất tồn dư và thu gom nguyên liệu ở nơi không kiểm soát được ô nhiễm. Khi sản xuất nguyên liệu dùng làm thuốc hoặc dùng trực tiếp, thực hiện lấy mẫu và kiểm tra chất lượng theo yêu cầu của cơ sở tiếp nhận.
+
+## 2. Nhân giống & Chuẩn bị đất trồng
+
+- **Nguồn giống và phương pháp nhân giống:** Phương pháp nhân giống thông dụng là tách đoạn thân bò có đốt đã ra rễ từ cây mẹ khỏe; có thể gieo hạt khi có nguồn phù hợp. Hom hoặc khóm phải có đủ rễ để bám đất nhanh, tránh lấy từ vùng mọc hoang không rõ vệ sinh hay bị lẫn cây cỏ.
+- **Chuẩn bị đất hoặc giá thể:** Làm đất nhỏ, sạch cỏ, thiết kế luống và rãnh tiêu; phối trộn hữu cơ đã hoai, không sử dụng phân tươi. Trồng cạn sao cho đốt thân tiếp xúc đất ẩm, không vùi sâu cả phần lá. Giữ đất ẩm vừa phải đến khi cây bò lan.
+- **Khoảng cách, mật độ và bố trí luống:** Tài liệu NMPB được phổ biến qua Vikaspedia nêu phương án 45 × 45 cm cho một hệ thống trồng; trong sản xuất thảm xanh có thể bố trí dày hơn, tùy kích thước khóm và phương pháp thu. Không dùng số cây/ha tĩnh nếu chưa tính đường đi và khả năng che phủ.
+- **Thời vụ và thao tác trồng:** Lựa chọn thời kỳ nhiệt độ, mưa và khả năng tưới phù hợp với địa phương, ưu tiên lúc cây giống ít mất nước. Khi trồng, đặt cây đúng chiều, lấp đất vừa đủ để cố định gốc, tránh làm vùi sâu cổ rễ; tưới nhẹ sau trồng nếu đất khô. Không chuyển cây giống có triệu chứng thối gốc, héo bệnh hoặc mang sâu hại vào ruộng sản xuất.
+
+## 3. Kỹ thuật chăm sóc & Bón phân
+
+- **Quản lý tưới và thoát nước:** Độ ẩm đất phải đồng đều trong giai đoạn phát triển thảm; tưới nhỏ giọt hoặc tưới nhẹ bằng nguồn nước đạt vệ sinh. Vào mùa mưa, rút nước khỏi luống để hạn chế úng; trước thu hoạch tránh để nước bẩn văng lên lá.
+- **Bón lót, bón thúc và cân đối dinh dưỡng:** Ưu tiên hữu cơ hoai đã kiểm soát vệ sinh, bổ sung dinh dưỡng sau mỗi lần cắt với liều lượng dựa vào năng suất. Cân đối đạm để cây phát triển lá nhưng không làm tăng nguy cơ tồn dư hoặc tán quá dày. Tuân thủ thời gian cách ly, không rải phân trực tiếp lên lá đang chuẩn bị thu.
+- **Làm cỏ, tỉa cành và chăm sóc đặc thù:** Làm cỏ lẫn rất thường xuyên trong giai đoạn cây còn thưa, vì cỏ có thể thu lẫn vào dược liệu. Tỉa bỏ chỗ thân già, úng hoặc lụi; duy trì thảm thông thoáng và giữ rãnh thoát nước sạch. Thu luân phiên theo lô để có thời gian tái sinh.
+- **Giám sát sinh trưởng:** Ghi nhận tỷ lệ sống, trạng thái lá, khả năng tái sinh sau cắt, dấu hiệu thiếu hoặc thừa nước và diễn biến dịch hại. Điều chỉnh phân bón theo phân tích đất, chất lượng phân, lượng sinh khối đã thu và phản ứng của cây. Không sử dụng một công thức phân bón hay lịch tưới cố định cho mọi vùng sinh thái khi không có dữ liệu kiểm chứng.
+
+## 4. Phòng trừ sâu bệnh hại chính
+
+- **Nhóm sâu hại cần theo dõi:** Theo dõi ốc sên, sâu ăn lá và côn trùng trong thảm ẩm. Cây bò sát đất có nguy cơ nhiễm bẩn bởi đất và phân động vật; cần rào vùng trồng và ngăn gia súc, vật nuôi đi vào.
+- **Nhóm bệnh hại và rủi ro sinh lý:** Thối thân tại đốt, bệnh đốm lá và rễ suy có thể tăng khi trồng dày, đất bết nước. Quan sát khả năng tái sinh, màu lá và điểm thối để khoanh vùng. Không tăng tưới chỉ vì lá héo khi đất đã ướt.
+- **Quản lý dịch hại tổng hợp:** Ưu tiên giống khỏe, vệ sinh đồng ruộng, luân canh hoặc thay giá thể khi phù hợp, bón phân cân đối và giữ luống thông thoáng. Tách riêng cây hoặc bộ phận có triệu chứng bệnh; chỉ xử lý bằng chế phẩm được phép áp dụng cho cây trồng và mục đích sử dụng, đúng nhãn sản phẩm và thời gian cách ly. Khi chưa xác định được tác nhân, cần kiểm tra hoặc xét nghiệm thay vì mặc định sử dụng một loại thuốc.
+
+## 5. Thu hoạch & Sơ chế sau thu hoạch
+
+- **Thời điểm và tiêu chuẩn nguyên liệu:** Theo PROSEA, trong điều kiện thuận lợi có thể bắt đầu thu từ khoảng 2–3 tháng sau trồng, nhưng phải căn cứ thảm cây thực tế và quy cách đơn hàng. Với dược liệu, thường thu phần trên mặt đất và loại rễ trước khi làm khô; quy cách khác cần được chỉ định rõ.
+- **Phương pháp thu hái và phân loại:** Cắt phần trên đất bằng dụng cụ sạch, tránh thu đất bùn và cây lẫn; loại cỏ, rễ già và lá úa. Rửa nhiều lần bằng nước đạt chất lượng, để ráo nhanh. Nếu dùng làm đồ uống tươi, phải có quy trình kiểm soát vi sinh/khử khuẩn phù hợp chứ không coi việc ngâm nước muối là đủ.
+- **Làm khô hoặc bảo quản nguyên liệu tươi:** Thu xong phải xử lý sớm vì lá nhỏ và ẩm dễ lên men. Sấy/phơi ở nơi sạch, thoáng và trải mỏng; đóng gói khô sau kiểm nghiệm. Rau má tươi cần chuỗi vận chuyển mát, hạn chế dập và sử dụng trong khoảng thời gian đã thẩm định.
+- **Kiểm soát chất lượng sau thu hoạch:** Phải loại bỏ nguyên liệu sâu bệnh, úng thối, mốc hoặc lẫn tạp chất; kiểm soát nước rửa, dụng cụ, bề mặt tiếp xúc, điều kiện phơi/sấy và thời gian từ thu hái đến xử lý. Giới hạn độ ẩm, dư lượng, vi sinh vật và quy cách đóng gói phải tuân theo tiêu chuẩn áp dụng cho **đúng loài, đúng bộ phận và đúng dạng sản phẩm**; không tự gán giới hạn độ ẩm của rễ, lá hay hạt cho nhau.
+
+## 6. Bảo quản dược liệu & Quản lý chất lượng
+
+- **Đóng gói và kho chứa:** Sử dụng thùng hoặc bao bì sạch, an toàn, có khả năng bảo vệ nguyên liệu khỏi bụi, côn trùng và hút ẩm. Sản phẩm đã làm khô phải được làm nguội thích hợp trước khi đóng gói; lưu kho khô, thoáng, tránh ánh nắng trực tiếp và kê cách nền. Nguyên liệu tươi cần được làm mát, vận chuyển nhanh và tránh nén dập; thời hạn lưu giữ phải được xác lập theo quy cách sản phẩm.
+- **Phân lô và truy xuất:** Mỗi lô có mã định danh, tên khoa học, bộ phận thu hoạch, địa điểm trồng, ngày thu, sản lượng, nhật ký phân bón–thuốc bảo vệ thực vật, phương pháp sơ chế và kết quả kiểm tra. Không trộn nguyên liệu từ các lô khác nhau khi không có hồ sơ đánh giá và phê duyệt.
+- **Yêu cầu riêng của loài:** Phải có mẫu nhận dạng thực vật được xác minh; nguồn giống và cây trồng được theo dõi để tránh lẫn với loài gần giống hoặc giống trồng làm cảnh. Chỉ ghi nhận công năng dược liệu theo tiêu chuẩn chuyên môn có giá trị, không suy diễn công dụng y học từ mục đích dùng trong dân gian.
+
+## 7. Theo dõi canh tác theo từng giai đoạn
+
+- **Trước trồng:** Kiểm tra nước, đất và nguồn khóm giống sạch.
+- **0–1 tháng:** Bén rễ tại đốt, theo dõi thối thân và cỏ dại.
+- **Tạo thảm:** Tưới ổn định, tránh đất lầy và kiểm soát gia súc.
+- **Thu–tái sinh:** Thu từng lô, bón cân đối, đánh giá độ sạch và tỷ lệ tạp chất.
+
+## 8. Tài liệu tham khảo chính
+
+1. [PROSEA — Centella asiatica](https://plantuse.plantnet.org/en/Centella_asiatica_%28PROSEA%29)
+2. [NMPB/Vikaspedia — kỹ thuật trồng rau má](https://health.vikaspedia.in/viewcontent/agriculture/crop-production/package-of-practices/medicinal-and-aromatic-plants/centella-asiatica?lgn=en)
+
+*Ghi chú kỹ thuật: Thông số được nêu trong các nguồn tham khảo có thể thuộc các điều kiện sinh thái, giống và hệ thống trồng cụ thể. Khi áp dụng ngoài bối cảnh đó, phải đánh giá và hiệu chỉnh tại vùng sản xuất.*
+
+---
+
+# 11. Plantago major — Cây Mã đề
+
+**Tên khoa học:** *Plantago major*  
+**Họ thực vật:** Plantaginaceae (họ Mã đề)  
+**Bộ phận dự kiến thu hoạch:** Lá/toàn cây và hạt tùy sản phẩm.
+
+## 1. Đặc điểm sinh thái & Điều kiện ngoại cảnh
+
+- **Khí hậu, ánh sáng và sinh trưởng:** Mã đề là cây thảo có lá mọc thành hoa thị sát đất và cụm hoa dạng bông dài; thích hợp vùng khí hậu mát đến ấm, có ánh sáng đủ hoặc bóng nhẹ. Cây có thể chịu một số thời kỳ khô nhưng chất lượng lá tốt hơn khi đất ẩm vừa phải.
+- **Đất trồng, địa hình và nguồn nước:** Ưu tiên đất thoát nước, tơi, đủ ẩm và ít cỏ. Mã đề có thể mọc tự nhiên ven đường nhưng nguồn này không thích hợp để sản xuất nguyên liệu vì nguy cơ tích lũy kim loại nặng, bụi và thuốc diệt cỏ.
+- **Yêu cầu đối với vùng nguyên liệu:** Cần xác định đúng loài và loại sản phẩm đầu ra trước khi lập vùng trồng. Đất và nguồn nước phải phù hợp mục đích sản xuất; tránh nguồn nước thải, hóa chất tồn dư và thu gom nguyên liệu ở nơi không kiểm soát được ô nhiễm. Khi sản xuất nguyên liệu dùng làm thuốc hoặc dùng trực tiếp, thực hiện lấy mẫu và kiểm tra chất lượng theo yêu cầu của cơ sở tiếp nhận.
+
+## 2. Nhân giống & Chuẩn bị đất trồng
+
+- **Nguồn giống và phương pháp nhân giống:** Chủ yếu nhân giống bằng hạt già, thu từ cây mẹ xác nhận đúng *Plantago major*. Hạt nhỏ nên gieo trên mặt đất đã làm mịn hoặc gieo rất nông, sau đó tưới phun nhẹ; không để lớp đất mặt khô cứng trong giai đoạn nảy mầm. Cây con cần tỉa hoặc chuyển trồng đúng lúc.
+- **Chuẩn bị đất hoặc giá thể:** Làm đất kỹ, tạo luống phẳng, không bón phân tươi. Đặt cây con sao cho điểm sinh trưởng của hoa thị không bị lấp đất. Với trồng thu hạt, phải bố trí đường đi để thu bông mà không giẫm dập lá.
+- **Khoảng cách, mật độ và bố trí luống:** Khoảng cách trồng phụ thuộc việc thu lá hay hạt; có thể thử 20–30 cm giữa cây và 30–40 cm giữa hàng trong vườn nhỏ, sau đó điều chỉnh để các hoa thị không chèn nhau. Khoảng cách này mang tính thiết kế thử nghiệm, cần theo dõi độ phủ tán và tỷ lệ thối lá.
+- **Thời vụ và thao tác trồng:** Lựa chọn thời kỳ nhiệt độ, mưa và khả năng tưới phù hợp với địa phương, ưu tiên lúc cây giống ít mất nước. Khi trồng, đặt cây đúng chiều, lấp đất vừa đủ để cố định gốc, tránh làm vùi sâu cổ rễ; tưới nhẹ sau trồng nếu đất khô. Không chuyển cây giống có triệu chứng thối gốc, héo bệnh hoặc mang sâu hại vào ruộng sản xuất.
+
+## 3. Kỹ thuật chăm sóc & Bón phân
+
+- **Quản lý tưới và thoát nước:** Giữ ẩm ổn định trong thời kỳ nảy mầm và nuôi lá; hạn chế tưới phun mạnh gây bắn đất lên lá sát gốc. Dùng rãnh tiêu để tránh thối cổ rễ khi mưa kéo dài. Trong sản xuất hạt, điều chỉnh tưới hợp lý trước thu để bông chín và khô đồng đều.
+- **Bón lót, bón thúc và cân đối dinh dưỡng:** Sử dụng hữu cơ hoai và dinh dưỡng cân đối theo kiểm tra đất. Nếu thu lá lặp lại, bổ sung sau cắt; nếu thu hạt, tránh thúc đạm quá mạnh khiến cây thiên về lá, chậm tạo bông. Không có một liều bón cố định phù hợp cho tất cả điều kiện.
+- **Làm cỏ, tỉa cành và chăm sóc đặc thù:** Làm cỏ thủ công lúc cây còn nhỏ, tỉa lá già và bông hỏng. Để riêng lô mục tiêu thu hạt, tránh cắt lá nhiều làm ảnh hưởng đến sự tạo hoa và hạt. Kiểm soát các loài *Plantago* khác dễ trộn lẫn trong khâu thu.
+- **Giám sát sinh trưởng:** Ghi nhận tỷ lệ sống, trạng thái lá, khả năng tái sinh sau cắt, dấu hiệu thiếu hoặc thừa nước và diễn biến dịch hại. Điều chỉnh phân bón theo phân tích đất, chất lượng phân, lượng sinh khối đã thu và phản ứng của cây. Không sử dụng một công thức phân bón hay lịch tưới cố định cho mọi vùng sinh thái khi không có dữ liệu kiểm chứng.
+
+## 4. Phòng trừ sâu bệnh hại chính
+
+- **Nhóm sâu hại cần theo dõi:** Theo dõi sâu ăn lá, ốc sên hoặc côn trùng chích hút, nhất là các lá già sát đất. Cây hư hỏng do côn trùng không đưa vào nguyên liệu dược liệu.
+- **Nhóm bệnh hại và rủi ro sinh lý:** Có thể gặp đốm lá và thối gốc khi đất quá ẩm hoặc thông gió kém. Hạt bị mốc khi thu trong điều kiện mưa và không phơi kịp; cần loại bỏ ngay lô bị mốc.
+- **Quản lý dịch hại tổng hợp:** Ưu tiên giống khỏe, vệ sinh đồng ruộng, luân canh hoặc thay giá thể khi phù hợp, bón phân cân đối và giữ luống thông thoáng. Tách riêng cây hoặc bộ phận có triệu chứng bệnh; chỉ xử lý bằng chế phẩm được phép áp dụng cho cây trồng và mục đích sử dụng, đúng nhãn sản phẩm và thời gian cách ly. Khi chưa xác định được tác nhân, cần kiểm tra hoặc xét nghiệm thay vì mặc định sử dụng một loại thuốc.
+
+## 5. Thu hoạch & Sơ chế sau thu hoạch
+
+- **Thời điểm và tiêu chuẩn nguyên liệu:** Thu lá khỏe khi kích thước đạt yêu cầu, trước khi lá già hóa quá mức. Hạt thu khi bông chuyển nâu và quả khô đạt độ chín, có thể thu làm nhiều lần để tránh rơi hạt. Phải xác nhận đúng chỉ tiêu loại dược liệu trước thu hoạch vì lá và hạt có quy cách khác nhau.
+- **Phương pháp thu hái và phân loại:** Lá rửa sạch đất, loại bỏ lá hỏng rồi để ráo và sấy/phơi theo quy trình; hạt phơi bông trước, đập hoặc tuốt, sàng sảy sạch phần cuống, vỏ, đất. Không trộn hạt chưa khô với hạt đã đạt yêu cầu.
+- **Làm khô hoặc bảo quản nguyên liệu tươi:** Lá khô và hạt khô phải đóng gói tách biệt, có mã lô riêng; bảo vệ hạt khỏi hút ẩm và côn trùng. Kiểm tra độ ẩm, tạp chất và chất lượng vi sinh theo tiêu chuẩn của từng bộ phận.
+- **Kiểm soát chất lượng sau thu hoạch:** Phải loại bỏ nguyên liệu sâu bệnh, úng thối, mốc hoặc lẫn tạp chất; kiểm soát nước rửa, dụng cụ, bề mặt tiếp xúc, điều kiện phơi/sấy và thời gian từ thu hái đến xử lý. Giới hạn độ ẩm, dư lượng, vi sinh vật và quy cách đóng gói phải tuân theo tiêu chuẩn áp dụng cho **đúng loài, đúng bộ phận và đúng dạng sản phẩm**; không tự gán giới hạn độ ẩm của rễ, lá hay hạt cho nhau.
+
+## 6. Bảo quản dược liệu & Quản lý chất lượng
+
+- **Đóng gói và kho chứa:** Sử dụng thùng hoặc bao bì sạch, an toàn, có khả năng bảo vệ nguyên liệu khỏi bụi, côn trùng và hút ẩm. Sản phẩm đã làm khô phải được làm nguội thích hợp trước khi đóng gói; lưu kho khô, thoáng, tránh ánh nắng trực tiếp và kê cách nền. Nguyên liệu tươi cần được làm mát, vận chuyển nhanh và tránh nén dập; thời hạn lưu giữ phải được xác lập theo quy cách sản phẩm.
+- **Phân lô và truy xuất:** Mỗi lô có mã định danh, tên khoa học, bộ phận thu hoạch, địa điểm trồng, ngày thu, sản lượng, nhật ký phân bón–thuốc bảo vệ thực vật, phương pháp sơ chế và kết quả kiểm tra. Không trộn nguyên liệu từ các lô khác nhau khi không có hồ sơ đánh giá và phê duyệt.
+- **Yêu cầu riêng của loài:** Phải có mẫu nhận dạng thực vật được xác minh; nguồn giống và cây trồng được theo dõi để tránh lẫn với loài gần giống hoặc giống trồng làm cảnh. Chỉ ghi nhận công năng dược liệu theo tiêu chuẩn chuyên môn có giá trị, không suy diễn công dụng y học từ mục đích dùng trong dân gian.
+
+## 7. Theo dõi canh tác theo từng giai đoạn
+
+- **Gieo:** Duy trì độ ẩm mặt luống và tỉa cây.
+- **Phát triển hoa thị:** Kiểm soát cỏ, ốc sên và lá bị bẩn.
+- **Thu lá:** Cắt chọn lọc, bảo vệ điểm sinh trưởng.
+- **Thu hạt:** Theo dõi chín bông, thu phân đợt, sàng sạch và làm khô.
+
+## 8. Tài liệu tham khảo chính
+
+1. [PROSEA — Plantago major](https://plantuse.plantnet.org/en/Plantago_major_%28PROSEA%29)
+2. [NParks — Plantago major](https://www.nparks.gov.sg/florafaunaweb/flora/5/2/5294)
+
+*Ghi chú kỹ thuật: Thông số được nêu trong các nguồn tham khảo có thể thuộc các điều kiện sinh thái, giống và hệ thống trồng cụ thể. Khi áp dụng ngoài bối cảnh đó, phải đánh giá và hiệu chỉnh tại vùng sản xuất.*
+
+---
+
+# 12. Phyllanthus urinaria — Cây Diệp hạ châu (Chó đẻ răng cưa)
+
+**Tên khoa học:** *Phyllanthus urinaria*  
+**Họ thực vật:** Phyllanthaceae (họ Diệp hạ châu)  
+**Bộ phận dự kiến thu hoạch:** Toàn cây theo quy cách sản phẩm.
+
+## 1. Đặc điểm sinh thái & Điều kiện ngoại cảnh
+
+- **Khí hậu, ánh sáng và sinh trưởng:** Là cây thảo nhỏ, thường sống một năm hoặc ngắn ngày, ưa khí hậu ấm và đủ ánh sáng. Đặc điểm quan trọng là các quả nhỏ nằm dọc phía dưới cành mang lá; cây có thể ra hoa, quả sớm khi điều kiện thích hợp. Sinh trưởng giảm trong đất úng hoặc rét kéo dài.
+- **Đất trồng, địa hình và nguồn nước:** Phù hợp đất tơi, cát pha hoặc thịt nhẹ, thoát nước và không quá chặt. Đất sạch cỏ là điều kiện quan trọng vì cây nhỏ, dễ bị lẫn khi thu cả cây. Nên chọn đất không có tồn dư thuốc diệt cỏ, kim loại nặng hoặc phân tươi.
+- **Yêu cầu đối với vùng nguyên liệu:** Cần xác định đúng loài và loại sản phẩm đầu ra trước khi lập vùng trồng. Đất và nguồn nước phải phù hợp mục đích sản xuất; tránh nguồn nước thải, hóa chất tồn dư và thu gom nguyên liệu ở nơi không kiểm soát được ô nhiễm. Khi sản xuất nguyên liệu dùng làm thuốc hoặc dùng trực tiếp, thực hiện lấy mẫu và kiểm tra chất lượng theo yêu cầu của cơ sở tiếp nhận.
+
+## 2. Nhân giống & Chuẩn bị đất trồng
+
+- **Nguồn giống và phương pháp nhân giống:** Nhân bằng hạt từ cây mẹ được định danh chắc chắn *P. urinaria*. Thu hạt chín, phơi và bảo quản khô theo lô; không dùng hạt của *P. amarus* hoặc các loài *Phyllanthus* khác làm nguồn giống thay thế mà không đánh giá tính tương đương.
+- **Chuẩn bị đất hoặc giá thể:** Làm đất nhỏ, san luống, bố trí thoát nước; hạt rất nhỏ nên gieo nông hoặc rải đều có trộn giá thể khô sạch để phân bố. Trong một nghiên cứu về *P. urinaria*, gieo hàng cách khoảng 20 cm được thử nghiệm có kết quả khả quan; không suy rộng thành mật độ bắt buộc cho mọi vùng.
+- **Khoảng cách, mật độ và bố trí luống:** Sau mọc, tỉa cây để hạn chế chen chúc và giảm độ ẩm trong tán. Có thể bố trí theo hàng khoảng 20 cm từ thử nghiệm đã công bố và điều chỉnh mật độ cây trên hàng dựa vào giống, tốc độ phân cành và chất lượng toàn cây; không lấy định mức của *P. amarus* làm định mức cho *P. urinaria*.
+- **Thời vụ và thao tác trồng:** Lựa chọn thời kỳ nhiệt độ, mưa và khả năng tưới phù hợp với địa phương, ưu tiên lúc cây giống ít mất nước. Khi trồng, đặt cây đúng chiều, lấp đất vừa đủ để cố định gốc, tránh làm vùi sâu cổ rễ; tưới nhẹ sau trồng nếu đất khô. Không chuyển cây giống có triệu chứng thối gốc, héo bệnh hoặc mang sâu hại vào ruộng sản xuất.
+
+## 3. Kỹ thuật chăm sóc & Bón phân
+
+- **Quản lý tưới và thoát nước:** Giữ ẩm đều trong thời kỳ gieo nảy mầm, tưới phun rất nhẹ để hạt không bị trôi. Khi cây lớn, chỉ tưới bổ sung khi đất thiếu ẩm, tránh bão hòa nước và rãnh thoát kém. Không thu cả cây ngay sau mưa khi còn nhiều bùn đất.
+- **Bón lót, bón thúc và cân đối dinh dưỡng:** Đất có độ phì trung bình có thể bón nền hữu cơ hoai mục mức phù hợp, không để phân tươi lẫn vào dược liệu. Nghiên cứu sản xuất có nêu vai trò của dinh dưỡng N và K, nhưng liều lượng cần dựa trên đất, giống và mục tiêu năng suất; tránh thúc đạm khi cây chuẩn bị thu hái.
+- **Làm cỏ, tỉa cành và chăm sóc đặc thù:** Làm cỏ thủ công sớm, tránh nhổ lẫn cây giống nhỏ. Khi cây bắt đầu ra hoa và quả, theo dõi tỷ lệ cây có quả và mức độ đồng đều để xác định lịch thu. Giữ riêng lô giống, lô thu sản phẩm; dọn cây mọc lẫn để tránh lẫn dược liệu.
+- **Giám sát sinh trưởng:** Ghi nhận tỷ lệ sống, trạng thái lá, khả năng tái sinh sau cắt, dấu hiệu thiếu hoặc thừa nước và diễn biến dịch hại. Điều chỉnh phân bón theo phân tích đất, chất lượng phân, lượng sinh khối đã thu và phản ứng của cây. Không sử dụng một công thức phân bón hay lịch tưới cố định cho mọi vùng sinh thái khi không có dữ liệu kiểm chứng.
+
+## 4. Phòng trừ sâu bệnh hại chính
+
+- **Nhóm sâu hại cần theo dõi:** Theo dõi sâu ăn lá, rệp và côn trùng chích hút theo thực địa, nhưng không giả định phải phun thuốc phòng định kỳ. Tổn thương sâu hại dễ làm tăng tạp chất trong lô thu toàn cây.
+- **Nhóm bệnh hại và rủi ro sinh lý:** Thối gốc và đốm lá có thể xuất hiện khi luống úng và mật độ cao; kiểm soát bằng vệ sinh, điều chỉnh tưới và mật độ. Với triệu chứng chưa rõ, cần xác định nguyên nhân thay vì ghi một mầm bệnh cụ thể không có bằng chứng.
+- **Quản lý dịch hại tổng hợp:** Ưu tiên giống khỏe, vệ sinh đồng ruộng, luân canh hoặc thay giá thể khi phù hợp, bón phân cân đối và giữ luống thông thoáng. Tách riêng cây hoặc bộ phận có triệu chứng bệnh; chỉ xử lý bằng chế phẩm được phép áp dụng cho cây trồng và mục đích sử dụng, đúng nhãn sản phẩm và thời gian cách ly. Khi chưa xác định được tác nhân, cần kiểm tra hoặc xét nghiệm thay vì mặc định sử dụng một loại thuốc.
+
+## 5. Thu hoạch & Sơ chế sau thu hoạch
+
+- **Thời điểm và tiêu chuẩn nguyên liệu:** Thu khi cây đã đủ sinh khối và đúng giai đoạn sinh sản cần thiết theo quy cách đơn hàng; nghiên cứu tại Trung Quốc ghi nhận lịch gieo tháng 4 và thu tháng 10 trong điều kiện địa phương đó. Lịch này chỉ có giá trị tham khảo, không cố định cho Việt Nam.
+- **Phương pháp thu hái và phân loại:** Thu cả cây bằng dụng cụ sạch hoặc nhổ khi yêu cầu gồm rễ; nếu thu không gồm rễ thì cắt sát gốc theo tiêu chuẩn sản phẩm. Rũ đất, bỏ cỏ lẫn, lá hỏng và tạp chất; rửa bộ phận có đất bằng nước sạch, để ráo rồi cắt đoạn khi cần.
+- **Làm khô hoặc bảo quản nguyên liệu tươi:** Trải lớp mỏng, phơi nơi râm thoáng hoặc sấy kiểm soát cho khô đồng đều thân, lá và rễ nếu có. Không bó thành đống dày khi còn ướt; đóng bao khô chống ẩm, tránh ánh sáng và kiểm tra mốc định kỳ.
+- **Kiểm soát chất lượng sau thu hoạch:** Phải loại bỏ nguyên liệu sâu bệnh, úng thối, mốc hoặc lẫn tạp chất; kiểm soát nước rửa, dụng cụ, bề mặt tiếp xúc, điều kiện phơi/sấy và thời gian từ thu hái đến xử lý. Giới hạn độ ẩm, dư lượng, vi sinh vật và quy cách đóng gói phải tuân theo tiêu chuẩn áp dụng cho **đúng loài, đúng bộ phận và đúng dạng sản phẩm**; không tự gán giới hạn độ ẩm của rễ, lá hay hạt cho nhau.
+
+## 6. Bảo quản dược liệu & Quản lý chất lượng
+
+- **Đóng gói và kho chứa:** Sử dụng thùng hoặc bao bì sạch, an toàn, có khả năng bảo vệ nguyên liệu khỏi bụi, côn trùng và hút ẩm. Sản phẩm đã làm khô phải được làm nguội thích hợp trước khi đóng gói; lưu kho khô, thoáng, tránh ánh nắng trực tiếp và kê cách nền. Nguyên liệu tươi cần được làm mát, vận chuyển nhanh và tránh nén dập; thời hạn lưu giữ phải được xác lập theo quy cách sản phẩm.
+- **Phân lô và truy xuất:** Mỗi lô có mã định danh, tên khoa học, bộ phận thu hoạch, địa điểm trồng, ngày thu, sản lượng, nhật ký phân bón–thuốc bảo vệ thực vật, phương pháp sơ chế và kết quả kiểm tra. Không trộn nguyên liệu từ các lô khác nhau khi không có hồ sơ đánh giá và phê duyệt.
+- **Yêu cầu riêng của loài:** Bắt buộc phân biệt *Phyllanthus urinaria* với *P. amarus* và các loài chó đẻ khác; tên thương mại “diệp hạ châu” không đủ để xác định loài. Tạo tiêu bản cây có hoa, quả và hồ sơ xác nhận tên khoa học, không thay thế bởi nhận diện từ một đặc điểm màu thân.
+
+## 7. Theo dõi canh tác theo từng giai đoạn
+
+- **Chuẩn bị giống:** Xác nhận loài và nguồn hạt.
+- **Gieo–mọc:** Giữ ẩm, làm cỏ bằng tay và tỉa hàng.
+- **Sinh trưởng:** Theo dõi lá, sự phân cành, dấu hiệu ngập.
+- **Ra hoa–quả:** Ghi mức độ chín, thu đúng quy cách toàn cây và sơ chế ngay.
+
+## 8. Tài liệu tham khảo chính
+
+1. [Kew — Phyllanthus urinaria](https://powo.science.kew.org/taxon/354815-1)
+2. [Nghiên cứu kỹ thuật trồng Phyllanthus urinaria — PubMed](https://pubmed.ncbi.nlm.nih.gov/17048639/)
+3. [PROSEA — Phyllanthus](https://plantuse.plantnet.org/en/Phyllanthus_%28PROSEA%29)
+
+*Ghi chú kỹ thuật: Thông số được nêu trong các nguồn tham khảo có thể thuộc các điều kiện sinh thái, giống và hệ thống trồng cụ thể. Khi áp dụng ngoài bối cảnh đó, phải đánh giá và hiệu chỉnh tại vùng sản xuất.*
+
+---
+
+# 13. Piper betle — Cây Trầu không
+
+**Tên khoa học:** *Piper betle*  
+**Họ thực vật:** Piperaceae (họ Hồ tiêu)  
+**Bộ phận dự kiến thu hoạch:** Lá.
+
+## 1. Đặc điểm sinh thái & Điều kiện ngoại cảnh
+
+- **Khí hậu, ánh sáng và sinh trưởng:** Trầu không là dây leo lâu năm, cần trụ để bám và phát triển, thích khí hậu ấm, ẩm, bóng nhẹ hoặc ánh sáng tán xạ. Nắng gắt và khô hạn có thể làm lá cháy mép, thô cứng; vườn quá rậm ẩm kéo dài dễ phát sinh bệnh lá và gốc.
+- **Đất trồng, địa hình và nguồn nước:** Ưa đất tơi, có hữu cơ, giữ ẩm vừa phải nhưng thoát nước tốt. Nên bố trí giàn hoặc cây trụ ở vị trí cao ráo, có rãnh tiêu riêng; tránh luống nhận nước từ khu vực có phân chuồng, nước thải hoặc thuốc bảo vệ thực vật.
+- **Yêu cầu đối với vùng nguyên liệu:** Cần xác định đúng loài và loại sản phẩm đầu ra trước khi lập vùng trồng. Đất và nguồn nước phải phù hợp mục đích sản xuất; tránh nguồn nước thải, hóa chất tồn dư và thu gom nguyên liệu ở nơi không kiểm soát được ô nhiễm. Khi sản xuất nguyên liệu dùng làm thuốc hoặc dùng trực tiếp, thực hiện lấy mẫu và kiểm tra chất lượng theo yêu cầu của cơ sở tiếp nhận.
+
+## 2. Nhân giống & Chuẩn bị đất trồng
+
+- **Nguồn giống và phương pháp nhân giống:** Nhân giống chủ yếu bằng hom dây khỏe có 2–3 đốt hoặc nhiều đốt theo quy trình vườn ươm, lấy từ cây mẹ không bệnh. Tránh chọn dây có đốm lá, vết thối gốc hoặc chồi yếu. Hom giâm trong giá thể ẩm sạch, có che nắng đến khi ra rễ và hình thành chồi.
+- **Chuẩn bị đất hoặc giá thể:** Làm đất tơi, bón hữu cơ đã hoai; lắp trụ chắc chắn, bề mặt không sắc cạnh. Đưa dây đã bén rễ ra ruộng, cố định nhẹ bằng dây buộc mềm, tránh gãy. Hướng dây leo và tạo bóng tán ở mức cần thiết, không che kín làm tăng ẩm.
+- **Khoảng cách, mật độ và bố trí luống:** Mật độ phụ thuộc hệ thống giàn kín, trụ sống hay trụ chết. Một công bố kỹ thuật năm 2026 mô tả trồng các hom cách 60–90 cm trên luống có trụ cao khoảng 2 m; các hệ thống truyền thống có thể bố trí khác. Phải dựa vào thiết kế giàn, thoát nước và thao tác hái lá để tính số gốc.
+- **Thời vụ và thao tác trồng:** Lựa chọn thời kỳ nhiệt độ, mưa và khả năng tưới phù hợp với địa phương, ưu tiên lúc cây giống ít mất nước. Khi trồng, đặt cây đúng chiều, lấp đất vừa đủ để cố định gốc, tránh làm vùi sâu cổ rễ; tưới nhẹ sau trồng nếu đất khô. Không chuyển cây giống có triệu chứng thối gốc, héo bệnh hoặc mang sâu hại vào ruộng sản xuất.
+
+## 3. Kỹ thuật chăm sóc & Bón phân
+
+- **Quản lý tưới và thoát nước:** Duy trì đất ẩm vừa phải, nhất là khi dây leo chưa kín trụ; điều chỉnh tưới trong mùa khô. Tránh tưới phun kéo dài về chiều tối khiến lá ướt qua đêm. Sau mưa, tiêu nước và kiểm tra thân gốc bị sẫm hoặc mềm.
+- **Bón lót, bón thúc và cân đối dinh dưỡng:** Bón nền hữu cơ hoai và bổ sung dinh dưỡng cho vườn thu lá dài hạn, chia liều theo mức sinh trưởng và thời điểm thu. Không bón phân tươi hay phun phân bón lá không phù hợp sát ngày hái. Điều chỉnh kali, đạm theo phân tích đất và chất lượng lá.
+- **Làm cỏ, tỉa cành và chăm sóc đặc thù:** Buộc dây lên trụ, cắt chồi khô, lá già và dây không theo hướng giàn; không siết dây buộc làm hằn thân. Tỉa để tán thông gió, giữ độ che sáng phù hợp. Thay trụ hỏng và vệ sinh lá rụng để hạn chế ổ bệnh.
+- **Giám sát sinh trưởng:** Ghi nhận tỷ lệ sống, trạng thái lá, khả năng tái sinh sau cắt, dấu hiệu thiếu hoặc thừa nước và diễn biến dịch hại. Điều chỉnh phân bón theo phân tích đất, chất lượng phân, lượng sinh khối đã thu và phản ứng của cây. Không sử dụng một công thức phân bón hay lịch tưới cố định cho mọi vùng sinh thái khi không có dữ liệu kiểm chứng.
+
+## 4. Phòng trừ sâu bệnh hại chính
+
+- **Nhóm sâu hại cần theo dõi:** Kiểm tra rệp, rệp sáp, côn trùng chích hút và sâu ăn lá. Theo dõi thường xuyên vì lá là sản phẩm chính và yêu cầu ngoại quan cao. Loại lá có vết sâu, đốm hoặc cặn chế phẩm.
+- **Nhóm bệnh hại và rủi ro sinh lý:** Bệnh thối gốc do *Phytophthora* và các tác nhân đốm lá là rủi ro được ghi nhận trong tài liệu chuyên ngành. Đất bí, tưới đọng và giàn quá rậm làm tăng nguy cơ; cần tiêu nước, loại dây bệnh và vệ sinh trụ.
+- **Quản lý dịch hại tổng hợp:** Ưu tiên giống khỏe, vệ sinh đồng ruộng, luân canh hoặc thay giá thể khi phù hợp, bón phân cân đối và giữ luống thông thoáng. Tách riêng cây hoặc bộ phận có triệu chứng bệnh; chỉ xử lý bằng chế phẩm được phép áp dụng cho cây trồng và mục đích sử dụng, đúng nhãn sản phẩm và thời gian cách ly. Khi chưa xác định được tác nhân, cần kiểm tra hoặc xét nghiệm thay vì mặc định sử dụng một loại thuốc.
+
+## 5. Thu hoạch & Sơ chế sau thu hoạch
+
+- **Thời điểm và tiêu chuẩn nguyên liệu:** Thời điểm thu lá đầu tiên khác nhau đáng kể theo hệ thống sản xuất; một số tài liệu nêu từ vài tháng, tài liệu khác nêu muộn hơn khi dây trưởng thành. Cần căn cứ độ dày lá, kích thước và số lượng lá đã phát triển thay vì áp dụng một mốc tháng cố định.
+- **Phương pháp thu hái và phân loại:** Hái lá bánh tẻ, cắt cuống bằng kéo sạch thay vì giật rách dây. Loại lá dập và nhiễm bệnh; xếp cùng chiều, không nén quá chặt. Rửa bằng nước sạch nếu quy cách sản phẩm yêu cầu và để ráo trước đóng gói.
+- **Làm khô hoặc bảo quản nguyên liệu tươi:** Lá trầu mất nước nhanh, cần giữ mát và ẩm tương đối phù hợp nhưng không để đọng giọt nước gây thối. Vận chuyển nhanh, tránh gió nóng. Lô sấy khô phải có quy trình xác lập riêng vì hương và màu lá dễ thay đổi.
+- **Kiểm soát chất lượng sau thu hoạch:** Phải loại bỏ nguyên liệu sâu bệnh, úng thối, mốc hoặc lẫn tạp chất; kiểm soát nước rửa, dụng cụ, bề mặt tiếp xúc, điều kiện phơi/sấy và thời gian từ thu hái đến xử lý. Giới hạn độ ẩm, dư lượng, vi sinh vật và quy cách đóng gói phải tuân theo tiêu chuẩn áp dụng cho **đúng loài, đúng bộ phận và đúng dạng sản phẩm**; không tự gán giới hạn độ ẩm của rễ, lá hay hạt cho nhau.
+
+## 6. Bảo quản dược liệu & Quản lý chất lượng
+
+- **Đóng gói và kho chứa:** Sử dụng thùng hoặc bao bì sạch, an toàn, có khả năng bảo vệ nguyên liệu khỏi bụi, côn trùng và hút ẩm. Sản phẩm đã làm khô phải được làm nguội thích hợp trước khi đóng gói; lưu kho khô, thoáng, tránh ánh nắng trực tiếp và kê cách nền. Nguyên liệu tươi cần được làm mát, vận chuyển nhanh và tránh nén dập; thời hạn lưu giữ phải được xác lập theo quy cách sản phẩm.
+- **Phân lô và truy xuất:** Mỗi lô có mã định danh, tên khoa học, bộ phận thu hoạch, địa điểm trồng, ngày thu, sản lượng, nhật ký phân bón–thuốc bảo vệ thực vật, phương pháp sơ chế và kết quả kiểm tra. Không trộn nguyên liệu từ các lô khác nhau khi không có hồ sơ đánh giá và phê duyệt.
+- **Yêu cầu riêng của loài:** Phải có mẫu nhận dạng thực vật được xác minh; nguồn giống và cây trồng được theo dõi để tránh lẫn với loài gần giống hoặc giống trồng làm cảnh. Chỉ ghi nhận công năng dược liệu theo tiêu chuẩn chuyên môn có giá trị, không suy diễn công dụng y học từ mục đích dùng trong dân gian.
+
+## 7. Theo dõi canh tác theo từng giai đoạn
+
+- **Ươm hom:** Theo dõi ra rễ và loại hom bệnh.
+- **Làm giàn:** Dẫn dây và cố định lên trụ, duy trì bóng tán.
+- **Khai thác lá:** Hái chọn lọc, tỉa dây già, kiểm soát bệnh lá và gốc.
+- **Vườn lâu năm:** Đánh giá sức dây, chất lượng trụ và lịch tái trồng.
+
+## 8. Tài liệu tham khảo chính
+
+1. [PROSEA — Piper betle](https://plantuse.plantnet.org/en/Piper_betle_%28PROSEA%29)
+2. [Tamil Nadu Agricultural University — Betelvine](https://agritech.tnau.ac.in/horticulture/horti_plantation%20crops_betelvine.html)
+3. [Bio-protocol 2026 — cultivation of Piper betle](https://bio-protocol.org/pdf/Bio-protocol5685.pdf)
+
+*Ghi chú kỹ thuật: Thông số được nêu trong các nguồn tham khảo có thể thuộc các điều kiện sinh thái, giống và hệ thống trồng cụ thể. Khi áp dụng ngoài bối cảnh đó, phải đánh giá và hiệu chỉnh tại vùng sản xuất.*
+
+---
+
+# 14. Callisia fragrans — Cây Lược vàng
+
+**Tên khoa học:** *Callisia fragrans*  
+**Họ thực vật:** Commelinaceae (họ Thài lài)  
+**Bộ phận dự kiến thu hoạch:** Lá, thân bò và phần sinh khối được quy định.
+
+## 1. Đặc điểm sinh thái & Điều kiện ngoại cảnh
+
+- **Khí hậu, ánh sáng và sinh trưởng:** Lược vàng là cây thảo lâu năm, mọc bò và tạo nhánh dài (stolon) với các đốt có khả năng hình thành cây con. Sinh trưởng ở môi trường ấm, sáng tán xạ đến bán phần; nắng gay gắt có thể làm cháy lá, còn đất ướt kéo dài làm thối thân.
+- **Đất trồng, địa hình và nguồn nước:** Có thể trồng trong khay hoặc luống đất tơi, thoát nước tốt và đủ hữu cơ. Ưu tiên khu vực cách ly với cây cảnh không kiểm soát hóa chất. Do cây lan qua thân bò và có thể thoát ra môi trường ngoài vườn, cần có viền chặn và kiểm soát các chồi rơi, thoát khỏi khu trồng.
+- **Yêu cầu đối với vùng nguyên liệu:** Cần xác định đúng loài và loại sản phẩm đầu ra trước khi lập vùng trồng. Đất và nguồn nước phải phù hợp mục đích sản xuất; tránh nguồn nước thải, hóa chất tồn dư và thu gom nguyên liệu ở nơi không kiểm soát được ô nhiễm. Khi sản xuất nguyên liệu dùng làm thuốc hoặc dùng trực tiếp, thực hiện lấy mẫu và kiểm tra chất lượng theo yêu cầu của cơ sở tiếp nhận.
+
+## 2. Nhân giống & Chuẩn bị đất trồng
+
+- **Nguồn giống và phương pháp nhân giống:** Nhân bằng tách nhánh bò có đốt đã ra rễ hoặc giâm đoạn thân khỏe. Chọn cây mẹ đúng loài, không thối đốt và không mang côn trùng chích hút; cắt bằng dụng cụ sạch, để hom ổn định trước khi chuyển ra luống.
+- **Chuẩn bị đất hoặc giá thể:** Giá thể gồm thành phần tơi và thoát nước; không dùng chậu kín lỗ thoát. Khi chuyển cây, không chôn sâu toàn bộ phần bẹ lá, giữ đốt tiếp xúc đất vừa phải; tránh kéo, làm gãy thân mọng.
+- **Khoảng cách, mật độ và bố trí luống:** Có thể bố trí cây cách 25–40 cm trong mô hình trồng khay/luống nhỏ và để lối đi thu hái; đây là khoảng thực hành bố trí thử nghiệm, không phải chuẩn canh tác dược liệu có hiệu lực pháp lý. Điều chỉnh khi thân bò phát triển nhanh và có nguy cơ lan tràn.
+- **Thời vụ và thao tác trồng:** Lựa chọn thời kỳ nhiệt độ, mưa và khả năng tưới phù hợp với địa phương, ưu tiên lúc cây giống ít mất nước. Khi trồng, đặt cây đúng chiều, lấp đất vừa đủ để cố định gốc, tránh làm vùi sâu cổ rễ; tưới nhẹ sau trồng nếu đất khô. Không chuyển cây giống có triệu chứng thối gốc, héo bệnh hoặc mang sâu hại vào ruộng sản xuất.
+
+## 3. Kỹ thuật chăm sóc & Bón phân
+
+- **Quản lý tưới và thoát nước:** Tưới vừa đủ, để lớp mặt giảm ẩm nhẹ trước lần kế tiếp; giảm lượng tưới trong thời kỳ mưa hoặc trời lạnh. Rễ, thân mọng thối nhanh khi úng, nên luôn kiểm tra lỗ thoát và đất quanh gốc.
+- **Bón lót, bón thúc và cân đối dinh dưỡng:** Dùng lượng vừa phải phân hữu cơ đã xử lý hoặc dinh dưỡng cân đối, tránh thúc mạnh tạo thân mềm yếu. Không đưa các công thức bón nhằm “tăng hoạt chất” vào quy trình nếu chưa có nghiên cứu đúng loài, đúng bộ phận và nguồn giống.
+- **Làm cỏ, tỉa cành và chăm sóc đặc thù:** Tách bớt nhánh bò, loại lá già, phần đốt dập và kiểm soát tràn chậu. Có thể định kỳ thay cây mẹ để giữ lô giống khỏe. Làm cỏ và khống chế sinh khối tàn dư sau thu; không thải nhánh có khả năng mọc trở lại ra môi trường.
+- **Giám sát sinh trưởng:** Ghi nhận tỷ lệ sống, trạng thái lá, khả năng tái sinh sau cắt, dấu hiệu thiếu hoặc thừa nước và diễn biến dịch hại. Điều chỉnh phân bón theo phân tích đất, chất lượng phân, lượng sinh khối đã thu và phản ứng của cây. Không sử dụng một công thức phân bón hay lịch tưới cố định cho mọi vùng sinh thái khi không có dữ liệu kiểm chứng.
+
+## 4. Phòng trừ sâu bệnh hại chính
+
+- **Nhóm sâu hại cần theo dõi:** Theo dõi rệp sáp, bọ phấn và nhện ở kẽ lá, bẹ thân. Các dấu hiệu mất màu, xoắn lá hoặc nhớt cần được kiểm tra cùng điều kiện tưới và thông thoáng.
+- **Nhóm bệnh hại và rủi ro sinh lý:** Thối thân, thối rễ và các vết lá mềm có thể xảy ra khi ẩm quá mức; xử lý nền trồng và cách ly cây bệnh là biện pháp ưu tiên. Tránh nhân giống từ những nhánh có đốt đã thối.
+- **Quản lý dịch hại tổng hợp:** Ưu tiên giống khỏe, vệ sinh đồng ruộng, luân canh hoặc thay giá thể khi phù hợp, bón phân cân đối và giữ luống thông thoáng. Tách riêng cây hoặc bộ phận có triệu chứng bệnh; chỉ xử lý bằng chế phẩm được phép áp dụng cho cây trồng và mục đích sử dụng, đúng nhãn sản phẩm và thời gian cách ly. Khi chưa xác định được tác nhân, cần kiểm tra hoặc xét nghiệm thay vì mặc định sử dụng một loại thuốc.
+
+## 5. Thu hoạch & Sơ chế sau thu hoạch
+
+- **Thời điểm và tiêu chuẩn nguyên liệu:** Chỉ thu đúng bộ phận đã được xác lập trong tiêu chuẩn nguyên liệu hoặc hợp đồng; không có căn cứ chung để coi số đốt, số tháng hay màu lá là chỉ báo hàm lượng hoạt chất. Thu khi thân lá khỏe, không dập và đủ sinh khối để cây mẹ hồi phục.
+- **Phương pháp thu hái và phân loại:** Phân riêng lá và thân nếu quy cách cần thiết; loại bỏ phần già, nhũn, bám đất. Rửa nước sạch, để ráo và sấy/ phơi ở điều kiện đã kiểm nghiệm. Không dùng quy trình ngâm rượu dân gian làm tiêu chuẩn sơ chế nguyên liệu dược liệu.
+- **Làm khô hoặc bảo quản nguyên liệu tươi:** Nguyên liệu tươi nhiều nước phải được xử lý sớm, tránh ủ nóng. Dược liệu khô cần kiểm nghiệm độ ẩm, tạp chất và đóng gói kín ở nơi khô. Hồ sơ lô phải ghi rõ nguồn giống và bộ phận thu.
+- **Kiểm soát chất lượng sau thu hoạch:** Phải loại bỏ nguyên liệu sâu bệnh, úng thối, mốc hoặc lẫn tạp chất; kiểm soát nước rửa, dụng cụ, bề mặt tiếp xúc, điều kiện phơi/sấy và thời gian từ thu hái đến xử lý. Giới hạn độ ẩm, dư lượng, vi sinh vật và quy cách đóng gói phải tuân theo tiêu chuẩn áp dụng cho **đúng loài, đúng bộ phận và đúng dạng sản phẩm**; không tự gán giới hạn độ ẩm của rễ, lá hay hạt cho nhau.
+
+## 6. Bảo quản dược liệu & Quản lý chất lượng
+
+- **Đóng gói và kho chứa:** Sử dụng thùng hoặc bao bì sạch, an toàn, có khả năng bảo vệ nguyên liệu khỏi bụi, côn trùng và hút ẩm. Sản phẩm đã làm khô phải được làm nguội thích hợp trước khi đóng gói; lưu kho khô, thoáng, tránh ánh nắng trực tiếp và kê cách nền. Nguyên liệu tươi cần được làm mát, vận chuyển nhanh và tránh nén dập; thời hạn lưu giữ phải được xác lập theo quy cách sản phẩm.
+- **Phân lô và truy xuất:** Mỗi lô có mã định danh, tên khoa học, bộ phận thu hoạch, địa điểm trồng, ngày thu, sản lượng, nhật ký phân bón–thuốc bảo vệ thực vật, phương pháp sơ chế và kết quả kiểm tra. Không trộn nguyên liệu từ các lô khác nhau khi không có hồ sơ đánh giá và phê duyệt.
+- **Yêu cầu riêng của loài:** Chưa có cơ sở đủ rộng để áp dụng đại trà thông số canh tác chuyên biệt cho lược vàng như một dược liệu chuẩn hóa. Không mặc định bộ phận thu hoạch có hiệu quả điều trị hoặc được phép sử dụng đường uống; yêu cầu an toàn và chất lượng phải xác lập theo mục đích thương mại cụ thể.
+
+## 7. Theo dõi canh tác theo từng giai đoạn
+
+- **Nhân giống:** Tách nhánh có rễ, trồng trong giá thể thoát nước.
+- **Ổn định:** Kiểm tra thối đốt, che nắng gắt.
+- **Phát triển sinh khối:** Tỉa nhánh, ngăn lan tràn, kiểm tra rệp sáp.
+- **Thu:** Phân riêng bộ phận theo hợp đồng, ghi khối lượng và xử lý nhanh.
+
+## 8. Tài liệu tham khảo chính
+
+1. [Kew — Callisia fragrans](https://powo.science.kew.org/taxon/42441-2)
+2. [Weeds of Australia — đặc điểm thân bò và khả năng phát tán](https://keyserver.lucidcentral.org/weeds/data/03080008-0301-4c05-8c0e-0c0f040b0803/media/Html/callisia_fragrans.htm)
+3. [NParks — Callisia fragrans](https://www.nparks.gov.sg/florafaunaweb/flora/1/7/1771)
+
+*Ghi chú kỹ thuật: Thông số được nêu trong các nguồn tham khảo có thể thuộc các điều kiện sinh thái, giống và hệ thống trồng cụ thể. Khi áp dụng ngoài bối cảnh đó, phải đánh giá và hiệu chỉnh tại vùng sản xuất.*
+
+---
+
+# 15. Murraya paniculata — Cây Nguyệt quế (Nguyệt quới)
+
+**Tên khoa học:** *Murraya paniculata*  
+**Họ thực vật:** Rutaceae (họ Cam)  
+**Bộ phận dự kiến thu hoạch:** Lá và rễ khi có quy cách dược liệu được xác lập.
+
+## 1. Đặc điểm sinh thái & Điều kiện ngoại cảnh
+
+- **Khí hậu, ánh sáng và sinh trưởng:** Nguyệt quế là cây bụi hoặc gỗ nhỏ, lá kép bóng, hoa trắng thơm, sinh trưởng tốt trong điều kiện ấm và nắng đủ, cũng chịu được bóng bán phần. Là cây sống lâu năm nên phải tính đến kích thước tán, bộ rễ và khả năng tiếp cận khi thu hái.
+- **Đất trồng, địa hình và nguồn nước:** Thích hợp đất thịt có hữu cơ, ẩm vừa phải và thoát nước tốt. Không chọn đất thấp thường úng; khi trồng lâu năm cần bố trí cách công trình, đường ống và cây lớn. Khu vực sản xuất dược liệu phải tách khỏi nguồn cây cảnh thường xuyên phun hóa chất.
+- **Yêu cầu đối với vùng nguyên liệu:** Cần xác định đúng loài và loại sản phẩm đầu ra trước khi lập vùng trồng. Đất và nguồn nước phải phù hợp mục đích sản xuất; tránh nguồn nước thải, hóa chất tồn dư và thu gom nguyên liệu ở nơi không kiểm soát được ô nhiễm. Khi sản xuất nguyên liệu dùng làm thuốc hoặc dùng trực tiếp, thực hiện lấy mẫu và kiểm tra chất lượng theo yêu cầu của cơ sở tiếp nhận.
+
+## 2. Nhân giống & Chuẩn bị đất trồng
+
+- **Nguồn giống và phương pháp nhân giống:** Có thể nhân bằng hạt từ quả chín, giâm cành hoặc chiết cành. Chọn cây mẹ đúng loài và giống, không sâu bệnh; hạt cần được làm sạch và gieo sớm theo đặc tính lô giống. Cây giâm/chiết chỉ chuyển trồng khi có bộ rễ khỏe và thân cành cân đối.
+- **Chuẩn bị đất hoặc giá thể:** Đào hố vừa bầu, trộn đất mặt với phân hữu cơ đã hoai, tránh để phân tiếp xúc trực tiếp rễ. Cây bầu được đặt thẳng, lấp ngang cổ rễ; cắm cọc khi cần chống gió, không quấn dây quá chặt vào thân.
+- **Khoảng cách, mật độ và bố trí luống:** Nếu trồng cây bụi để thu lá, cần thiết kế đủ chỗ cho tạo tán và thao tác, có thể bố trí 1–2 m giữa cây hoặc theo hàng tùy mức cắt tỉa. Nếu để cây trưởng thành và thu rễ theo lô, phải trồng thưa hơn và tính kế hoạch thay cây. Các con số chỉ là khoảng bố trí vườn thử nghiệm, không phải mật độ dược liệu được chuẩn hóa.
+- **Thời vụ và thao tác trồng:** Lựa chọn thời kỳ nhiệt độ, mưa và khả năng tưới phù hợp với địa phương, ưu tiên lúc cây giống ít mất nước. Khi trồng, đặt cây đúng chiều, lấp đất vừa đủ để cố định gốc, tránh làm vùi sâu cổ rễ; tưới nhẹ sau trồng nếu đất khô. Không chuyển cây giống có triệu chứng thối gốc, héo bệnh hoặc mang sâu hại vào ruộng sản xuất.
+
+## 3. Kỹ thuật chăm sóc & Bón phân
+
+- **Quản lý tưới và thoát nước:** Tưới đều giai đoạn mới trồng; sau khi cây ổn định điều chỉnh theo độ ẩm và mùa khô. Không duy trì gốc ngập hoặc phủ vật liệu ẩm áp sát thân. Nếu lá vàng hàng loạt sau mưa, kiểm tra bộ rễ và rãnh tiêu.
+- **Bón lót, bón thúc và cân đối dinh dưỡng:** Bón hữu cơ ủ hoai kết hợp dinh dưỡng cân đối theo tuổi và sức sinh trưởng. Cây mới trồng cần lượng bón nhẹ, cây được cắt tán để lấy lá có thể cần phục hồi dinh dưỡng sau thu. Không áp dụng công thức phân cho cây cam quýt ăn quả một cách máy móc.
+- **Làm cỏ, tỉa cành và chăm sóc đặc thù:** Tỉa cành để giữ tán thông thoáng, loại bỏ chồi sâu bệnh và cành mọc quá thấp. Cần để riêng lô cây mẹ làm giống và lô khai thác. Khi lấy rễ, lập kế hoạch thu hủy cây và trồng thay thế để không ảnh hưởng nguồn giống lâu năm.
+- **Giám sát sinh trưởng:** Ghi nhận tỷ lệ sống, trạng thái lá, khả năng tái sinh sau cắt, dấu hiệu thiếu hoặc thừa nước và diễn biến dịch hại. Điều chỉnh phân bón theo phân tích đất, chất lượng phân, lượng sinh khối đã thu và phản ứng của cây. Không sử dụng một công thức phân bón hay lịch tưới cố định cho mọi vùng sinh thái khi không có dữ liệu kiểm chứng.
+
+## 4. Phòng trừ sâu bệnh hại chính
+
+- **Nhóm sâu hại cần theo dõi:** Theo dõi rệp, rệp sáp, sâu ăn lá và các loài chích hút có thể gặp trên cây họ Cam. Việc nhận biết sâu hại và cách dùng chế phẩm phải dựa trên đối tượng thực tế, không suy diễn toàn bộ bệnh hại cây cam sang cây nguyệt quế.
+- **Nhóm bệnh hại và rủi ro sinh lý:** Thối gốc/rễ có thể xuất hiện khi đất bí và úng; đốm lá trong điều kiện ẩm cũng cần được theo dõi. Cây vàng lá không phải lúc nào cũng do bệnh truyền nhiễm; đánh giá nước tưới, pH, dinh dưỡng trước.
+- **Quản lý dịch hại tổng hợp:** Ưu tiên giống khỏe, vệ sinh đồng ruộng, luân canh hoặc thay giá thể khi phù hợp, bón phân cân đối và giữ luống thông thoáng. Tách riêng cây hoặc bộ phận có triệu chứng bệnh; chỉ xử lý bằng chế phẩm được phép áp dụng cho cây trồng và mục đích sử dụng, đúng nhãn sản phẩm và thời gian cách ly. Khi chưa xác định được tác nhân, cần kiểm tra hoặc xét nghiệm thay vì mặc định sử dụng một loại thuốc.
+
+## 5. Thu hoạch & Sơ chế sau thu hoạch
+
+- **Thời điểm và tiêu chuẩn nguyên liệu:** Thu lá bánh tẻ khi đã đạt khối lượng và độ sạch theo yêu cầu; tránh thu sau khi cây cảnh vừa được xử lý hóa chất. Nếu khai thác rễ, chỉ thực hiện khi có đối tác tiếp nhận và tiêu chuẩn xác định nguồn, tuổi cây, phương pháp đào và bộ phận sử dụng.
+- **Phương pháp thu hái và phân loại:** Lá tỉa bằng kéo sạch, loại lá bệnh; rửa và sấy/phơi tùy quy cách. Rễ khi được khai thác phải rửa sạch đất, phân loại, thái hoặc để nguyên theo hợp đồng, không tự mặc định một độ dày lát hay phương thức bào chế.
+- **Làm khô hoặc bảo quản nguyên liệu tươi:** Dược liệu lá khô cất giữ tránh ẩm và ánh sáng; rễ khô cần kiểm tra lõi đã khô và không mốc trước đóng gói. Không trộn nguyên liệu lá và rễ; ghi riêng từng lô theo tuổi cây và vùng trồng.
+- **Kiểm soát chất lượng sau thu hoạch:** Phải loại bỏ nguyên liệu sâu bệnh, úng thối, mốc hoặc lẫn tạp chất; kiểm soát nước rửa, dụng cụ, bề mặt tiếp xúc, điều kiện phơi/sấy và thời gian từ thu hái đến xử lý. Giới hạn độ ẩm, dư lượng, vi sinh vật và quy cách đóng gói phải tuân theo tiêu chuẩn áp dụng cho **đúng loài, đúng bộ phận và đúng dạng sản phẩm**; không tự gán giới hạn độ ẩm của rễ, lá hay hạt cho nhau.
+
+## 6. Bảo quản dược liệu & Quản lý chất lượng
+
+- **Đóng gói và kho chứa:** Sử dụng thùng hoặc bao bì sạch, an toàn, có khả năng bảo vệ nguyên liệu khỏi bụi, côn trùng và hút ẩm. Sản phẩm đã làm khô phải được làm nguội thích hợp trước khi đóng gói; lưu kho khô, thoáng, tránh ánh nắng trực tiếp và kê cách nền. Nguyên liệu tươi cần được làm mát, vận chuyển nhanh và tránh nén dập; thời hạn lưu giữ phải được xác lập theo quy cách sản phẩm.
+- **Phân lô và truy xuất:** Mỗi lô có mã định danh, tên khoa học, bộ phận thu hoạch, địa điểm trồng, ngày thu, sản lượng, nhật ký phân bón–thuốc bảo vệ thực vật, phương pháp sơ chế và kết quả kiểm tra. Không trộn nguyên liệu từ các lô khác nhau khi không có hồ sơ đánh giá và phê duyệt.
+- **Yêu cầu riêng của loài:** *Murraya paniculata* khác với cây nguyệt quế Địa Trung Hải *Laurus nobilis*. Cần xác nhận tên khoa học trước khi trồng và ghi nhãn; tuyệt đối không dùng cây cảnh không có lịch sử sử dụng hóa chất rõ ràng làm nguồn nguyên liệu dược liệu.
+
+## 7. Theo dõi canh tác theo từng giai đoạn
+
+- **Ươm giống:** Gieo hạt, giâm hoặc chiết, chọn cây có rễ khỏe.
+- **Sau trồng:** Cắm cọc, tưới hồi và giữ cổ rễ khô thoáng.
+- **Giai đoạn hình thành tán:** Tỉa cành, bón cân đối, kiểm tra sâu chích hút.
+- **Thu lá/rễ:** Thực hiện theo từng lô và mục tiêu; trồng bù sau khai thác rễ.
+
+## 8. Tài liệu tham khảo chính
+
+1. [NParks Singapore — Murraya paniculata](https://www.nparks.gov.sg/florafaunaweb/flora/2/2/2239)
+2. [Missouri Botanical Garden — Orange jessamine](https://plantfinder.mobot.org/PlantFinderDetails.aspx?bt=1&isprofile=0&taxonid=286748)
+
+*Ghi chú kỹ thuật: Thông số được nêu trong các nguồn tham khảo có thể thuộc các điều kiện sinh thái, giống và hệ thống trồng cụ thể. Khi áp dụng ngoài bối cảnh đó, phải đánh giá và hiệu chỉnh tại vùng sản xuất.*
+
+---
+
+# 16. Ficus microcarpa — Cây Si (Tiểu diệp dung)
+
+**Tên khoa học:** *Ficus microcarpa*  
+**Họ thực vật:** Moraceae (họ Dâu tằm)  
+**Bộ phận dự kiến thu hoạch:** Bộ phận cụ thể chỉ khi có tiêu chuẩn thu mua hoặc nghiên cứu xác nhận.
+
+## 1. Đặc điểm sinh thái & Điều kiện ngoại cảnh
+
+- **Khí hậu, ánh sáng và sinh trưởng:** Si là cây gỗ sống lâu năm, tán rộng, có thể hình thành rễ khí sinh. Sinh trưởng trong khí hậu ấm, nắng hoặc bán phần; cây trưởng thành có hệ rễ lớn và khả năng ảnh hưởng đến công trình lân cận. Cần tính đến kích thước lâu dài, không bố trí như một luống cây thảo.
+- **Đất trồng, địa hình và nguồn nước:** Có thể sống trên nhiều loại đất nhưng phát triển tốt khi đất thông thoáng và có độ ẩm phù hợp. Vùng trồng cần diện tích lớn, tách xa nền nhà, bờ tường, đường điện và hệ thống thoát nước. Không chọn nguồn cây bonsai, cây trồng ven đường hoặc công viên để làm nguyên liệu.
+- **Yêu cầu đối với vùng nguyên liệu:** Cần xác định đúng loài và loại sản phẩm đầu ra trước khi lập vùng trồng. Đất và nguồn nước phải phù hợp mục đích sản xuất; tránh nguồn nước thải, hóa chất tồn dư và thu gom nguyên liệu ở nơi không kiểm soát được ô nhiễm. Khi sản xuất nguyên liệu dùng làm thuốc hoặc dùng trực tiếp, thực hiện lấy mẫu và kiểm tra chất lượng theo yêu cầu của cơ sở tiếp nhận.
+
+## 2. Nhân giống & Chuẩn bị đất trồng
+
+- **Nguồn giống và phương pháp nhân giống:** Có thể nhân bằng hạt, giâm cành hoặc chiết cành. Với vườn cây có kiểm soát, sử dụng cây con từ vườn ươm xác nhận đúng loài và không mang sâu bệnh. Không khai thác rễ khí sinh của cây cảnh có lịch sử hóa chất không rõ.
+- **Chuẩn bị đất hoặc giá thể:** Chuẩn bị hố phù hợp kích thước bầu; không vùi sâu cổ rễ. Bón nền hữu cơ hoai, giữ đủ khoảng trống cho bộ rễ. Cắm chống cây non khi gió mạnh, kiểm tra mối buộc và sự ổn định của gốc.
+- **Khoảng cách, mật độ và bố trí luống:** Không có mật độ trồng dược liệu phổ quát được xác lập cho *F. microcarpa*. Nếu trồng cây lâu năm, khoảng cách phải theo mục tiêu kích thước tán, điều kiện đất, thiết kế cảnh quan/vườn giống và an toàn công trình; không lấy mật độ trồng hàng rào bonsai làm mật độ sản xuất dược liệu.
+- **Thời vụ và thao tác trồng:** Lựa chọn thời kỳ nhiệt độ, mưa và khả năng tưới phù hợp với địa phương, ưu tiên lúc cây giống ít mất nước. Khi trồng, đặt cây đúng chiều, lấp đất vừa đủ để cố định gốc, tránh làm vùi sâu cổ rễ; tưới nhẹ sau trồng nếu đất khô. Không chuyển cây giống có triệu chứng thối gốc, héo bệnh hoặc mang sâu hại vào ruộng sản xuất.
+
+## 3. Kỹ thuật chăm sóc & Bón phân
+
+- **Quản lý tưới và thoát nước:** Giữ ẩm giai đoạn đầu, sau đó tưới theo thời tiết và tốc độ phát triển tán. Cây lớn có thể chịu một số đợt khô nhưng cây mới trồng vẫn cần hỗ trợ. Đất quanh gốc phải thoát nước, tránh nén chặt do xe cộ.
+- **Bón lót, bón thúc và cân đối dinh dưỡng:** Bón hữu cơ hoai phù hợp tuổi cây và đất trồng; không có cơ sở để chỉ định công thức phân chuyên tăng “hoạt chất” cho rễ khí sinh. Khi lá có triệu chứng thiếu dinh dưỡng, kiểm tra đất và rễ trước.
+- **Làm cỏ, tỉa cành và chăm sóc đặc thù:** Tạo tán an toàn, loại cành gãy bệnh, quản lý rễ khí sinh để không ảnh hưởng lối đi và công trình. Vết cắt có thể chảy nhựa mủ; người lao động cần dùng găng, kính khi tỉa. Thu gom phần cây cắt và tiêu hủy hợp vệ sinh.
+- **Giám sát sinh trưởng:** Ghi nhận tỷ lệ sống, trạng thái lá, khả năng tái sinh sau cắt, dấu hiệu thiếu hoặc thừa nước và diễn biến dịch hại. Điều chỉnh phân bón theo phân tích đất, chất lượng phân, lượng sinh khối đã thu và phản ứng của cây. Không sử dụng một công thức phân bón hay lịch tưới cố định cho mọi vùng sinh thái khi không có dữ liệu kiểm chứng.
+
+## 4. Phòng trừ sâu bệnh hại chính
+
+- **Nhóm sâu hại cần theo dõi:** Theo dõi rệp, rệp sáp, bọ phấn hoặc côn trùng chích hút trên lá; kiểm tra cây định kỳ vì tán lớn làm các ổ sâu khó phát hiện. Không thu nguyên liệu từ cành có cặn thuốc hoặc bồ hóng.
+- **Nhóm bệnh hại và rủi ro sinh lý:** Rủi ro gồm tổn thương thân, thối rễ khi ngập nước và các vết đốm lá; chẩn đoán phải dựa trên triệu chứng và điều kiện thực tế. Cây có rễ khí sinh nứt hoặc vết thương nhiều cần tránh khai thác ngay.
+- **Quản lý dịch hại tổng hợp:** Ưu tiên giống khỏe, vệ sinh đồng ruộng, luân canh hoặc thay giá thể khi phù hợp, bón phân cân đối và giữ luống thông thoáng. Tách riêng cây hoặc bộ phận có triệu chứng bệnh; chỉ xử lý bằng chế phẩm được phép áp dụng cho cây trồng và mục đích sử dụng, đúng nhãn sản phẩm và thời gian cách ly. Khi chưa xác định được tác nhân, cần kiểm tra hoặc xét nghiệm thay vì mặc định sử dụng một loại thuốc.
+
+## 5. Thu hoạch & Sơ chế sau thu hoạch
+
+- **Thời điểm và tiêu chuẩn nguyên liệu:** Do chưa có một quy trình dược liệu chung được chuẩn hóa cho loài, thời điểm và bộ phận thu không thể ấn định đại trà. Chỉ thu khi có đặc tả về phần cây (ví dụ rễ khí sinh, lá), tuổi và tiêu chí chất lượng được cơ sở chuyên môn chấp nhận.
+- **Phương pháp thu hái và phân loại:** Thực hiện phân loại đúng bộ phận theo đơn hàng; loại bỏ nhựa bám ngoài, đất cát và mô tổn thương theo SOP được thẩm định. Không khuyến khích tự chế biến để sử dụng đường uống khi chưa có tiêu chuẩn nguyên liệu và đánh giá an toàn.
+- **Làm khô hoặc bảo quản nguyên liệu tươi:** Với lô đã được phê duyệt để sơ chế, phải sấy/phơi đúng quy cách và kiểm tra độ ẩm riêng cho bộ phận được thu. Bao bì và nhãn ghi chính xác tên *F. microcarpa*, nguồn trồng và bộ phận, tránh gộp với các loài *Ficus* khác.
+- **Kiểm soát chất lượng sau thu hoạch:** Phải loại bỏ nguyên liệu sâu bệnh, úng thối, mốc hoặc lẫn tạp chất; kiểm soát nước rửa, dụng cụ, bề mặt tiếp xúc, điều kiện phơi/sấy và thời gian từ thu hái đến xử lý. Giới hạn độ ẩm, dư lượng, vi sinh vật và quy cách đóng gói phải tuân theo tiêu chuẩn áp dụng cho **đúng loài, đúng bộ phận và đúng dạng sản phẩm**; không tự gán giới hạn độ ẩm của rễ, lá hay hạt cho nhau.
+
+## 6. Bảo quản dược liệu & Quản lý chất lượng
+
+- **Đóng gói và kho chứa:** Sử dụng thùng hoặc bao bì sạch, an toàn, có khả năng bảo vệ nguyên liệu khỏi bụi, côn trùng và hút ẩm. Sản phẩm đã làm khô phải được làm nguội thích hợp trước khi đóng gói; lưu kho khô, thoáng, tránh ánh nắng trực tiếp và kê cách nền. Nguyên liệu tươi cần được làm mát, vận chuyển nhanh và tránh nén dập; thời hạn lưu giữ phải được xác lập theo quy cách sản phẩm.
+- **Phân lô và truy xuất:** Mỗi lô có mã định danh, tên khoa học, bộ phận thu hoạch, địa điểm trồng, ngày thu, sản lượng, nhật ký phân bón–thuốc bảo vệ thực vật, phương pháp sơ chế và kết quả kiểm tra. Không trộn nguyên liệu từ các lô khác nhau khi không có hồ sơ đánh giá và phê duyệt.
+- **Yêu cầu riêng của loài:** Cây si thường được trồng làm cảnh; sự tồn tại của ghi chép sử dụng dân gian không tự tạo thành tiêu chuẩn sản xuất dược liệu. Nhựa mủ có thể gây kích ứng da và mắt; bảo vệ người thu hoạch và không cho nguyên liệu chưa đánh giá an toàn đi vào chuỗi thực phẩm hoặc thuốc.
+
+## 7. Theo dõi canh tác theo từng giai đoạn
+
+- **Thiết lập vườn:** Định danh, chọn vị trí cách công trình và chuẩn bị cây giống.
+- **Cây non:** Tưới, tạo tán và kiểm tra sâu bệnh.
+- **Cây trưởng thành:** Quản lý bộ rễ, nhựa mủ và an toàn khi cắt tỉa.
+- **Khai thác nguyên liệu:** Chỉ thực hiện theo tiêu chuẩn bộ phận được xác lập, lưu hồ sơ toàn bộ cây nguồn.
+
+## 8. Tài liệu tham khảo chính
+
+1. [NParks Singapore — Ficus microcarpa](https://www.nparks.gov.sg/florafaunaweb/flora/2/9/2912)
+2. [Royal Horticultural Society — Ficus microcarpa](https://www.rhs.org.uk/plants/32855/ficus-microcarpa/details)
+
+*Ghi chú kỹ thuật: Thông số được nêu trong các nguồn tham khảo có thể thuộc các điều kiện sinh thái, giống và hệ thống trồng cụ thể. Khi áp dụng ngoài bối cảnh đó, phải đánh giá và hiệu chỉnh tại vùng sản xuất.*
+
+---
+
+# 17. Aloe vera — Cây Lô hội (Nha đam)
+
+**Tên khoa học:** *Aloe vera*  
+**Họ thực vật:** Asphodelaceae (họ Lô hội)  
+**Bộ phận dự kiến thu hoạch:** Lá để lấy gel bên trong; phần nhựa vàng là dòng nguyên liệu khác và có rủi ro an toàn.
+
+## 1. Đặc điểm sinh thái & Điều kiện ngoại cảnh
+
+- **Khí hậu, ánh sáng và sinh trưởng:** Nha đam là cây mọng nước, sinh trưởng tốt trong khí hậu nóng và nắng đến bóng nhẹ, chịu hạn tương đối nhưng nhạy cảm với úng nước. Cây con và vườn thu lá chất lượng vẫn cần nước theo đợt hợp lý; rét kéo dài hoặc mưa liên tục có thể gây hư lá, thối cổ rễ.
+- **Đất trồng, địa hình và nguồn nước:** Ưa đất cát pha hoặc thịt nhẹ thoát nước, có tầng canh tác thông thoáng. Cần lên luống hoặc trồng trên mô/rãnh tiêu ở vùng mưa nhiều; cây bị ngập dễ thối. Không trồng tại nơi dễ nhận nước thải hoặc gần hóa chất có khả năng dính vào mặt lá.
+- **Yêu cầu đối với vùng nguyên liệu:** Cần xác định đúng loài và loại sản phẩm đầu ra trước khi lập vùng trồng. Đất và nguồn nước phải phù hợp mục đích sản xuất; tránh nguồn nước thải, hóa chất tồn dư và thu gom nguyên liệu ở nơi không kiểm soát được ô nhiễm. Khi sản xuất nguyên liệu dùng làm thuốc hoặc dùng trực tiếp, thực hiện lấy mẫu và kiểm tra chất lượng theo yêu cầu của cơ sở tiếp nhận.
+
+## 2. Nhân giống & Chuẩn bị đất trồng
+
+- **Nguồn giống và phương pháp nhân giống:** Nhân bằng chồi con mọc ở gốc cây mẹ, chọn chồi có lá và rễ phát triển, không bị đốm bệnh. Tách nhẹ, bảo vệ rễ và để vết tách ổn định trước khi trồng trong giá thể ẩm vừa phải; không tưới đẫm liên tục ngay sau khi tách.
+- **Chuẩn bị đất hoặc giá thể:** Đào hố cạn vừa rễ, trồng đứng và giữ cổ cây trên mặt đất. Bón hữu cơ đã xử lý ở mức vừa phải, tránh phân tươi và giá thể nhiều muối. Loại bỏ chồi yếu, lá gãy, cây nghi mang bệnh khỏi lô giống.
+- **Khoảng cách, mật độ và bố trí luống:** Một hướng dẫn của TNAU nêu khoảng cách 90 × 90 cm cho hệ thống trồng bằng chồi; các mô hình chuyên canh khác có thể bố trí khác tùy giống và kích thước lá. Mật độ nên giúp người chăm sóc đi lại mà không va chạm làm xước lá và có rãnh tiêu rõ ràng.
+- **Thời vụ và thao tác trồng:** Lựa chọn thời kỳ nhiệt độ, mưa và khả năng tưới phù hợp với địa phương, ưu tiên lúc cây giống ít mất nước. Khi trồng, đặt cây đúng chiều, lấp đất vừa đủ để cố định gốc, tránh làm vùi sâu cổ rễ; tưới nhẹ sau trồng nếu đất khô. Không chuyển cây giống có triệu chứng thối gốc, héo bệnh hoặc mang sâu hại vào ruộng sản xuất.
+
+## 3. Kỹ thuật chăm sóc & Bón phân
+
+- **Quản lý tưới và thoát nước:** Tưới nhẹ sau trồng khi đất khô, để đất thoát bớt nước trước lần tưới tiếp. Khi cây trưởng thành, theo dõi độ căng của lá và độ ẩm tầng rễ để điều chỉnh; tưới quá nhiều thường nguy hiểm hơn thiếu nước ngắn hạn. Tránh phun bẩn mặt lá trước thu hoạch.
+- **Bón lót, bón thúc và cân đối dinh dưỡng:** Bón hữu cơ hoai, bổ sung dinh dưỡng cân đối theo phân tích đất và năng suất lá; không bón đạm quá mức làm mô lá mềm, dễ tổn thương. Khi cây có dấu hiệu suy yếu hoặc cháy đầu lá, kiểm tra độ mặn, tưới và thoát nước trước khi tăng phân.
+- **Làm cỏ, tỉa cành và chăm sóc đặc thù:** Loại bỏ cỏ dại, lá già khô và chồi mọc quá dày; giữ một số lá khỏe để cây tiếp tục quang hợp. Thường xuyên loại cây thối, kiểm tra sự ổn định của luống và phục hồi rãnh sau mưa. Tránh dùng dụng cụ sắc làm thủng lá.
+- **Giám sát sinh trưởng:** Ghi nhận tỷ lệ sống, trạng thái lá, khả năng tái sinh sau cắt, dấu hiệu thiếu hoặc thừa nước và diễn biến dịch hại. Điều chỉnh phân bón theo phân tích đất, chất lượng phân, lượng sinh khối đã thu và phản ứng của cây. Không sử dụng một công thức phân bón hay lịch tưới cố định cho mọi vùng sinh thái khi không có dữ liệu kiểm chứng.
+
+## 4. Phòng trừ sâu bệnh hại chính
+
+- **Nhóm sâu hại cần theo dõi:** Kiểm tra rệp sáp, nhóm côn trùng chích hút và các vết tổn thương trên phiến lá. Lá bị cắn, rách, có vết cặn hoặc dấu bệnh không đưa vào lô nguyên liệu cao cấp.
+- **Nhóm bệnh hại và rủi ro sinh lý:** Thối gốc, thối rễ và bệnh đốm lá là các rủi ro đáng chú ý trong điều kiện thoát nước kém. Kiểm tra vùng gốc khi lá mềm rũ, có mùi lạ hoặc đổi màu; cây bệnh cần tách khỏi vùng sản xuất, không tiếp tục lấy chồi làm giống.
+- **Quản lý dịch hại tổng hợp:** Ưu tiên giống khỏe, vệ sinh đồng ruộng, luân canh hoặc thay giá thể khi phù hợp, bón phân cân đối và giữ luống thông thoáng. Tách riêng cây hoặc bộ phận có triệu chứng bệnh; chỉ xử lý bằng chế phẩm được phép áp dụng cho cây trồng và mục đích sử dụng, đúng nhãn sản phẩm và thời gian cách ly. Khi chưa xác định được tác nhân, cần kiểm tra hoặc xét nghiệm thay vì mặc định sử dụng một loại thuốc.
+
+## 5. Thu hoạch & Sơ chế sau thu hoạch
+
+- **Thời điểm và tiêu chuẩn nguyên liệu:** Theo hướng dẫn trồng nha đam, lá thường được thu từ cây đã trưởng thành, nhiều quy trình bắt đầu từ năm thứ hai. Ưu tiên lá ngoài phát triển hoàn chỉnh, dày, không sâu bệnh, giữ lại phần lớn lá trong tâm để cây phục hồi. Không thu vào thời điểm cây bị ngập nước hoặc tổn thương diện rộng.
+- **Phương pháp thu hái và phân loại:** Dùng dao sạch cắt bẹ lá sát gốc nhưng không làm hỏng tâm sinh trưởng. Vận chuyển lá trên khay sạch, tránh nén dập; chế biến càng sớm càng tốt. Khi mục tiêu là gel trong, cần phân biệt và loại bỏ lớp vỏ xanh cùng nhựa mủ vàng, sử dụng quy trình tách – rửa – kiểm nghiệm được thẩm định; thao tác để chảy nhựa trong vài phút **không chứng minh** thành phẩm đã loại hết aloin.
+- **Làm khô hoặc bảo quản nguyên liệu tươi:** Lá tươi cần vận chuyển và xử lý nhanh trong điều kiện sạch; gel sau tách rất dễ hư hỏng và nhiễm vi sinh, phải có chuỗi làm mát/chế biến phù hợp. Với nguyên liệu dùng đường uống, chỉ đưa vào sản xuất khi đã kiểm soát các thành phần anthraquinone/aloin và các chỉ tiêu an toàn theo tiêu chuẩn sản phẩm, không căn cứ vào màu sắc trong suốt để kết luận an toàn.
+- **Kiểm soát chất lượng sau thu hoạch:** Phải loại bỏ nguyên liệu sâu bệnh, úng thối, mốc hoặc lẫn tạp chất; kiểm soát nước rửa, dụng cụ, bề mặt tiếp xúc, điều kiện phơi/sấy và thời gian từ thu hái đến xử lý. Giới hạn độ ẩm, dư lượng, vi sinh vật và quy cách đóng gói phải tuân theo tiêu chuẩn áp dụng cho **đúng loài, đúng bộ phận và đúng dạng sản phẩm**; không tự gán giới hạn độ ẩm của rễ, lá hay hạt cho nhau.
+
+## 6. Bảo quản dược liệu & Quản lý chất lượng
+
+- **Đóng gói và kho chứa:** Sử dụng thùng hoặc bao bì sạch, an toàn, có khả năng bảo vệ nguyên liệu khỏi bụi, côn trùng và hút ẩm. Sản phẩm đã làm khô phải được làm nguội thích hợp trước khi đóng gói; lưu kho khô, thoáng, tránh ánh nắng trực tiếp và kê cách nền. Nguyên liệu tươi cần được làm mát, vận chuyển nhanh và tránh nén dập; thời hạn lưu giữ phải được xác lập theo quy cách sản phẩm.
+- **Phân lô và truy xuất:** Mỗi lô có mã định danh, tên khoa học, bộ phận thu hoạch, địa điểm trồng, ngày thu, sản lượng, nhật ký phân bón–thuốc bảo vệ thực vật, phương pháp sơ chế và kết quả kiểm tra. Không trộn nguyên liệu từ các lô khác nhau khi không có hồ sơ đánh giá và phê duyệt.
+- **Yêu cầu riêng của loài:** Gel trong lá và nhựa mủ vàng dưới vỏ là hai dòng nguyên liệu khác nhau; nhựa vàng chứa anthraquinone, trong đó có aloin, có thể gây tác dụng không mong muốn. Không dùng nhựa mủ chưa kiểm soát vào thực phẩm; yêu cầu thử nghiệm chất lượng và an toàn phải được thiết lập trước khi thương mại hóa.
+
+## 7. Theo dõi canh tác theo từng giai đoạn
+
+- **Tách chồi–trồng:** Chọn chồi rễ khỏe, tránh tưới úng.
+- **Cây non:** Làm cỏ, kiểm tra thối gốc, giữ rãnh thoát.
+- **Cây trưởng thành:** Theo dõi số lá, khối lượng lá và chất lượng bẹ.
+- **Thu–xử lý:** Cắt lá ngoài, xử lý nhanh, quản lý riêng gel và nhựa vàng.
+
+## 8. Tài liệu tham khảo chính
+
+1. [Tamil Nadu Agricultural University — Aloe](https://agritech.tnau.ac.in/horticulture/horti_medicinal%20crops_aloe.html)
+2. [Frontiers in Plant Science — Agronomic Requirements of Aloe vera](https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2016.01410/full)
+3. [NIH NCCIH — Aloe Vera: Usefulness and Safety](https://www.nccih.nih.gov/health/aloe-vera)
+4. [NIEHS — Aloe Vera and aloin](https://www.niehs.nih.gov/health/topics/agents/aloe)
+
+*Ghi chú kỹ thuật: Thông số được nêu trong các nguồn tham khảo có thể thuộc các điều kiện sinh thái, giống và hệ thống trồng cụ thể. Khi áp dụng ngoài bối cảnh đó, phải đánh giá và hiệu chỉnh tại vùng sản xuất.*
+
+---
+
+# 18. Hibiscus rosa-sinensis — Cây Dâm bụt
+
+**Tên khoa học:** *Hibiscus rosa-sinensis*  
+**Họ thực vật:** Malvaceae (họ Bông)  
+**Bộ phận dự kiến thu hoạch:** Hoa và lá.
+
+## 1. Đặc điểm sinh thái & Điều kiện ngoại cảnh
+
+- **Khí hậu, ánh sáng và sinh trưởng:** Dâm bụt là cây bụi nhiệt đới ra hoa lớn, ưa sáng, khí hậu ấm và đất đủ ẩm. Đủ nắng thường thuận lợi cho ra hoa; cây có thể chịu bóng nhẹ nhưng hoa giảm khi thiếu sáng. Gió nóng, thiếu nước hoặc rét có thể làm rụng nụ, lá vàng.
+- **Đất trồng, địa hình và nguồn nước:** Thích hợp đất tơi, giàu hữu cơ, thoát nước và giữ ẩm vừa phải. Trồng trên luống hoặc vùng đất cao, tránh ngập cổ rễ. Nếu thu hoa, cần phân khu giống/cây màu hoa rõ ràng và không dùng hoa từ cây cảnh vừa xử lý chất điều hòa sinh trưởng hay thuốc bảo vệ thực vật.
+- **Yêu cầu đối với vùng nguyên liệu:** Cần xác định đúng loài và loại sản phẩm đầu ra trước khi lập vùng trồng. Đất và nguồn nước phải phù hợp mục đích sản xuất; tránh nguồn nước thải, hóa chất tồn dư và thu gom nguyên liệu ở nơi không kiểm soát được ô nhiễm. Khi sản xuất nguyên liệu dùng làm thuốc hoặc dùng trực tiếp, thực hiện lấy mẫu và kiểm tra chất lượng theo yêu cầu của cơ sở tiếp nhận.
+
+## 2. Nhân giống & Chuẩn bị đất trồng
+
+- **Nguồn giống và phương pháp nhân giống:** Nhân bằng hom cành là phương pháp phù hợp để giữ đặc tính màu và hình dạng hoa. Chọn cành bánh tẻ khỏe; tài liệu RHS nêu hom khoảng 7–10 cm trong giá thể giâm thoát nước. Có thể nhân bằng hạt trong một số trường hợp nhưng cây con có thể biến dị tính trạng hoa.
+- **Chuẩn bị đất hoặc giá thể:** Làm đất, bổ sung hữu cơ đã hoai; hom giâm trong khay sạch, che nắng nhẹ và giữ ẩm tới khi ra rễ. Cây ra ruộng phải có rễ khỏe, không thối gốc, không mang rệp hoặc bọ phấn. Đặt cây thẳng, tưới sau trồng.
+- **Khoảng cách, mật độ và bố trí luống:** Nếu trồng thành hàng thu hoa/lá, có thể thiết kế khoảng 0,8–1,5 m giữa cây tùy giống và chế độ tạo tán, chừa lối đi hai bên để hái hoa không chèn ép cành. Hàng rào cắt thấp có thể cần khoảng cách khác; không dùng mật độ cây cảnh làm chuẩn cho sản xuất dược liệu.
+- **Thời vụ và thao tác trồng:** Lựa chọn thời kỳ nhiệt độ, mưa và khả năng tưới phù hợp với địa phương, ưu tiên lúc cây giống ít mất nước. Khi trồng, đặt cây đúng chiều, lấp đất vừa đủ để cố định gốc, tránh làm vùi sâu cổ rễ; tưới nhẹ sau trồng nếu đất khô. Không chuyển cây giống có triệu chứng thối gốc, héo bệnh hoặc mang sâu hại vào ruộng sản xuất.
+
+## 3. Kỹ thuật chăm sóc & Bón phân
+
+- **Quản lý tưới và thoát nước:** Tưới đều khi cây ra nụ, hoa và sau đợt cắt tỉa; tránh để đất khô kiệt dẫn đến rụng nụ. Không để đất úng, không tưới ướt hoa sắp thu làm tăng hư hỏng. Khi trời mưa phải kiểm tra rãnh thoát và hoa bị dập.
+- **Bón lót, bón thúc và cân đối dinh dưỡng:** Bón hữu cơ hoai kết hợp dinh dưỡng cân đối theo đất và mục tiêu sản xuất. Vườn chuyên thu hoa cần duy trì kali và lân ở mức phù hợp, không thúc đạm quá nhiều làm cây thiên về lá. Ghi đầy đủ lịch bón để tính thời gian cách ly và bảo đảm sạch nguyên liệu.
+- **Làm cỏ, tỉa cành và chăm sóc đặc thù:** Tạo tán sau đợt ra hoa, bỏ cành giao nhau, cành bệnh và nụ hỏng. Không cắt tỉa quá mạnh ngay trước kỳ dự kiến thu hoa. Cần theo dõi giống hoa kép, hoa đơn, màu sắc và chu kỳ nở để tổ chức thu lô đồng nhất.
+- **Giám sát sinh trưởng:** Ghi nhận tỷ lệ sống, trạng thái lá, khả năng tái sinh sau cắt, dấu hiệu thiếu hoặc thừa nước và diễn biến dịch hại. Điều chỉnh phân bón theo phân tích đất, chất lượng phân, lượng sinh khối đã thu và phản ứng của cây. Không sử dụng một công thức phân bón hay lịch tưới cố định cho mọi vùng sinh thái khi không có dữ liệu kiểm chứng.
+
+## 4. Phòng trừ sâu bệnh hại chính
+
+- **Nhóm sâu hại cần theo dõi:** Rệp muội, bọ phấn, nhện và sâu ăn lá có thể gây hại trên đọt, nụ, mặt dưới lá. Cần kiểm tra thường xuyên vì nụ/hoa dễ hỏng và không thể xử lý mạnh sát ngày thu hoạch.
+- **Nhóm bệnh hại và rủi ro sinh lý:** Bệnh phấn trắng, mốc xám trên hoa (Botrytis) và một số bệnh lá được ghi nhận trong tài liệu chăm sóc dâm bụt. Giảm ẩm tán, nhặt bỏ hoa thối và tránh phun nước lên hoa vào chiều tối.
+- **Quản lý dịch hại tổng hợp:** Ưu tiên giống khỏe, vệ sinh đồng ruộng, luân canh hoặc thay giá thể khi phù hợp, bón phân cân đối và giữ luống thông thoáng. Tách riêng cây hoặc bộ phận có triệu chứng bệnh; chỉ xử lý bằng chế phẩm được phép áp dụng cho cây trồng và mục đích sử dụng, đúng nhãn sản phẩm và thời gian cách ly. Khi chưa xác định được tác nhân, cần kiểm tra hoặc xét nghiệm thay vì mặc định sử dụng một loại thuốc.
+
+## 5. Thu hoạch & Sơ chế sau thu hoạch
+
+- **Thời điểm và tiêu chuẩn nguyên liệu:** Thu hoa khi vừa nở hoặc theo độ mở cánh yêu cầu, không lấy hoa đã rụng hoặc ẩm thối. Lá thu ở giai đoạn bánh tẻ, không bị sâu bệnh. Các sản phẩm cần phân biệt rõ hoa và lá, vì tiêu chí chọn thời điểm, sơ chế và chỉ tiêu chất lượng khác nhau.
+- **Phương pháp thu hái và phân loại:** Hái hoa bằng tay hoặc dụng cụ sạch, xếp lớp mỏng, không đè nén. Loại bỏ nhị/đài chỉ khi có yêu cầu quy cách; không tự mặc định chỉ dùng cánh hoa. Sơ chế nhanh, phơi râm hoặc sấy nhiệt độ được thẩm định để hạn chế thâm cánh, mất màu; lá rửa và làm khô riêng.
+- **Làm khô hoặc bảo quản nguyên liệu tươi:** Hoa tươi rất dễ dập và biến màu, cần giữ mát, chuyển nhanh. Hoa/lá khô cất giữ riêng theo bộ phận và giống, đóng kín chống ẩm, tránh nắng. Theo dõi biến đổi màu và mùi trong bảo quản như các chỉ báo cần kiểm tra lại.
+- **Kiểm soát chất lượng sau thu hoạch:** Phải loại bỏ nguyên liệu sâu bệnh, úng thối, mốc hoặc lẫn tạp chất; kiểm soát nước rửa, dụng cụ, bề mặt tiếp xúc, điều kiện phơi/sấy và thời gian từ thu hái đến xử lý. Giới hạn độ ẩm, dư lượng, vi sinh vật và quy cách đóng gói phải tuân theo tiêu chuẩn áp dụng cho **đúng loài, đúng bộ phận và đúng dạng sản phẩm**; không tự gán giới hạn độ ẩm của rễ, lá hay hạt cho nhau.
+
+## 6. Bảo quản dược liệu & Quản lý chất lượng
+
+- **Đóng gói và kho chứa:** Sử dụng thùng hoặc bao bì sạch, an toàn, có khả năng bảo vệ nguyên liệu khỏi bụi, côn trùng và hút ẩm. Sản phẩm đã làm khô phải được làm nguội thích hợp trước khi đóng gói; lưu kho khô, thoáng, tránh ánh nắng trực tiếp và kê cách nền. Nguyên liệu tươi cần được làm mát, vận chuyển nhanh và tránh nén dập; thời hạn lưu giữ phải được xác lập theo quy cách sản phẩm.
+- **Phân lô và truy xuất:** Mỗi lô có mã định danh, tên khoa học, bộ phận thu hoạch, địa điểm trồng, ngày thu, sản lượng, nhật ký phân bón–thuốc bảo vệ thực vật, phương pháp sơ chế và kết quả kiểm tra. Không trộn nguyên liệu từ các lô khác nhau khi không có hồ sơ đánh giá và phê duyệt.
+- **Yêu cầu riêng của loài:** *Hibiscus rosa-sinensis* không phải cây bụp giấm *Hibiscus sabdariffa*, loại thường được dùng làm trà từ đài hoa. Không sử dụng tiêu chuẩn đài hoa bụp giấm làm tiêu chuẩn cho hoa dâm bụt.
+
+## 7. Theo dõi canh tác theo từng giai đoạn
+
+- **Giâm:** Chọn hom sạch, theo dõi ra rễ.
+- **Tạo tán:** Duy trì dinh dưỡng và tưới, cắt tỉa vừa phải.
+- **Ra nụ:** Kiểm tra rệp, bọ phấn và rụng nụ.
+- **Thu hoa/lá:** Hái sớm khi khô ráo, phân lô theo giống và xử lý ngay.
+
+## 8. Tài liệu tham khảo chính
+
+1. [Royal Horticultural Society — Hibiscus growing guide](https://www.rhs.org.uk/plants/hibiscus/growing-guide)
+2. [Smithsonian Gardens — Hibiscus rosa-sinensis](https://gardens.si.edu/learn/educational-resources/plant-care-sheets/care-of-hibiscus-rosa-sinensis/)
+3. [PROSEA — Hibiscus medicinal plants](https://plantuse.plantnet.org/en/Hibiscus_%28PROSEA_Medicinal_plants%29)
+
+*Ghi chú kỹ thuật: Thông số được nêu trong các nguồn tham khảo có thể thuộc các điều kiện sinh thái, giống và hệ thống trồng cụ thể. Khi áp dụng ngoài bối cảnh đó, phải đánh giá và hiệu chỉnh tại vùng sản xuất.*
+
+---
+
+# 19. Carica papaya — Cây Đu đủ
+
+**Tên khoa học:** *Carica papaya*  
+**Họ thực vật:** Caricaceae (họ Đu đủ)  
+**Bộ phận dự kiến thu hoạch:** Lá và quả; phải xác lập rõ quả xanh/quả chín theo sản phẩm.
+
+## 1. Đặc điểm sinh thái & Điều kiện ngoại cảnh
+
+- **Khí hậu, ánh sáng và sinh trưởng:** Đu đủ là cây thân mềm dạng gỗ, sinh trưởng nhanh, ưa khí hậu nóng và ánh sáng đầy đủ, không chịu úng và rét kéo dài. Cây có hệ rễ tương đối nông, thân dễ tổn thương bởi gió mạnh và có phản ứng rõ với mất cân bằng nước tưới.
+- **Đất trồng, địa hình và nguồn nước:** Thích hợp đất tơi, tầng canh tác sâu, thoát nước tốt, pH cần kiểm tra theo thực tế. Vùng mưa nhiều phải lên mô, đào rãnh thoát nước và tránh nước tồn đọng quanh thân; cây đu đủ dễ bị hại bởi thối rễ và thối gốc.
+- **Yêu cầu đối với vùng nguyên liệu:** Cần xác định đúng loài và loại sản phẩm đầu ra trước khi lập vùng trồng. Đất và nguồn nước phải phù hợp mục đích sản xuất; tránh nguồn nước thải, hóa chất tồn dư và thu gom nguyên liệu ở nơi không kiểm soát được ô nhiễm. Khi sản xuất nguyên liệu dùng làm thuốc hoặc dùng trực tiếp, thực hiện lấy mẫu và kiểm tra chất lượng theo yêu cầu của cơ sở tiếp nhận.
+
+## 2. Nhân giống & Chuẩn bị đất trồng
+
+- **Nguồn giống và phương pháp nhân giống:** Nhân giống chủ yếu bằng hạt từ nguồn cây mẹ hoặc lô giống đã xác định đặc tính, sức sống và tình trạng bệnh. Chọn hạt đầy, không mốc, ươm trong bầu sạch hoặc gieo theo quy trình giống; cây con phải khỏe, lá không khảm, gốc không thối. Cần ghi nhận đặc tính giới tính của giống và phương án bố trí cây để bảo đảm thụ phấn, đậu quả theo mục tiêu.
+- **Chuẩn bị đất hoặc giá thể:** Chuẩn bị hố rộng, trộn đất với hữu cơ hoai, tránh bón phân tươi sát rễ. Chuyển bầu nhẹ để không đứt rễ, đặt cây sao cho cổ rễ cao vừa đủ; khi khu vực gió mạnh, có thể cần đai/chống thân. Không trồng cây già cỗi, thân cong hoặc vàng khảm.
+- **Khoảng cách, mật độ và bố trí luống:** Trồng thưa để đủ ánh sáng, thông thoáng và thu quả an toàn; trong sản xuất trái có thể bắt đầu xem xét bố trí khoảng 2–3 m giữa các cây/hàng theo giống, địa hình và cơ giới hóa, sau đó hiệu chỉnh theo chiều cao và tán. Không dùng mật độ trồng rau ăn lá cho đu đủ.
+- **Thời vụ và thao tác trồng:** Lựa chọn thời kỳ nhiệt độ, mưa và khả năng tưới phù hợp với địa phương, ưu tiên lúc cây giống ít mất nước. Khi trồng, đặt cây đúng chiều, lấp đất vừa đủ để cố định gốc, tránh làm vùi sâu cổ rễ; tưới nhẹ sau trồng nếu đất khô. Không chuyển cây giống có triệu chứng thối gốc, héo bệnh hoặc mang sâu hại vào ruộng sản xuất.
+
+## 3. Kỹ thuật chăm sóc & Bón phân
+
+- **Quản lý tưới và thoát nước:** Giữ ẩm đồng đều, nhất là khi ra hoa và nuôi quả; tưới thiếu rồi tưới quá nhiều đột ngột có thể gây rụng hoa và chất lượng quả không đồng đều. Tuyệt đối tránh nước đứng sau tưới, đặc biệt quanh cổ rễ. Nên dùng nhỏ giọt và phủ gốc sạch khi phù hợp.
+- **Bón lót, bón thúc và cân đối dinh dưỡng:** Bón lót hữu cơ hoai, bón thúc phân cân đối theo giai đoạn thân lá, ra hoa và nuôi quả, dựa trên đất và tình trạng cây. Thiếu kali có thể ảnh hưởng năng suất và chất lượng trái; thừa đạm thúc lá quá mạnh. Không sử dụng nhựa đu đủ hoặc tàn dư cây làm tiêu chí đánh giá dinh dưỡng.
+- **Làm cỏ, tỉa cành và chăm sóc đặc thù:** Vệ sinh lá già và lá bệnh, tránh cắt lá quá nhiều gây giảm quang hợp; quản lý cỏ bằng xới nông vì rễ gần mặt đất. Kiểm tra cây đực, cây cái, cây lưỡng tính theo giống và mục tiêu thu quả. Chống đỡ cây khi có gió bão và thu quả bằng dụng cụ phù hợp tầm cao.
+- **Giám sát sinh trưởng:** Ghi nhận tỷ lệ sống, trạng thái lá, khả năng tái sinh sau cắt, dấu hiệu thiếu hoặc thừa nước và diễn biến dịch hại. Điều chỉnh phân bón theo phân tích đất, chất lượng phân, lượng sinh khối đã thu và phản ứng của cây. Không sử dụng một công thức phân bón hay lịch tưới cố định cho mọi vùng sinh thái khi không có dữ liệu kiểm chứng.
+
+## 4. Phòng trừ sâu bệnh hại chính
+
+- **Nhóm sâu hại cần theo dõi:** Theo dõi rệp truyền virus, bọ phấn, nhện, ruồi đục quả và sâu hại quả theo vùng. Cần kết hợp bẫy, vệ sinh quả rụng và biện pháp IPM đúng đối tượng, tránh phun hóa chất lên lá làm nguyên liệu trước thu.
+- **Nhóm bệnh hại và rủi ro sinh lý:** Bệnh khảm/ringspot virus, thán thư trên quả, thối gốc và các bệnh rễ là rủi ro cần quản lý. Cây có triệu chứng khảm, biến dạng lá hoặc vết vòng trên quả phải được kiểm tra và xử lý theo hướng dẫn bảo vệ thực vật; không giữ làm cây giống.
+- **Quản lý dịch hại tổng hợp:** Ưu tiên giống khỏe, vệ sinh đồng ruộng, luân canh hoặc thay giá thể khi phù hợp, bón phân cân đối và giữ luống thông thoáng. Tách riêng cây hoặc bộ phận có triệu chứng bệnh; chỉ xử lý bằng chế phẩm được phép áp dụng cho cây trồng và mục đích sử dụng, đúng nhãn sản phẩm và thời gian cách ly. Khi chưa xác định được tác nhân, cần kiểm tra hoặc xét nghiệm thay vì mặc định sử dụng một loại thuốc.
+
+## 5. Thu hoạch & Sơ chế sau thu hoạch
+
+- **Thời điểm và tiêu chuẩn nguyên liệu:** Quả dùng ăn chín thu khi xuất hiện dấu hiệu chuyển màu và đạt độ già cần thiết, có thể để chín tiếp sau hái; quả xanh phải thu đúng kích thước và quy cách khác. Lá làm nguyên liệu thu khi khỏe, không khảm bệnh, không nên thu nhiều khiến cây giảm nuôi quả. Tách riêng lô lá, quả xanh và quả chín.
+- **Phương pháp thu hái và phân loại:** Hái quả bằng dụng cụ sạch, tránh rơi hoặc trầy vỏ làm rỉ nhựa; lá cắt bằng dao sạch và tránh làm dập. Quả được phân loại theo độ chín, rửa và để ráo nếu yêu cầu. Nhựa mủ, lá và quả xanh có thành phần khác quả chín; chỉ sơ chế theo quy trình sử dụng được phép, không mặc định sử dụng nội bộ làm thực phẩm hay thuốc.
+- **Làm khô hoặc bảo quản nguyên liệu tươi:** Quả xanh và quả chín có yêu cầu bảo quản khác nhau; tránh nhiệt độ quá thấp gây tổn thương lạnh và đè chồng quả. Lá cần xử lý nhanh, sấy hoặc bảo quản tươi theo chỉ tiêu. Mỗi lô ghi rõ mức chín, nguồn giống và ngày thu hoạch.
+- **Kiểm soát chất lượng sau thu hoạch:** Phải loại bỏ nguyên liệu sâu bệnh, úng thối, mốc hoặc lẫn tạp chất; kiểm soát nước rửa, dụng cụ, bề mặt tiếp xúc, điều kiện phơi/sấy và thời gian từ thu hái đến xử lý. Giới hạn độ ẩm, dư lượng, vi sinh vật và quy cách đóng gói phải tuân theo tiêu chuẩn áp dụng cho **đúng loài, đúng bộ phận và đúng dạng sản phẩm**; không tự gán giới hạn độ ẩm của rễ, lá hay hạt cho nhau.
+
+## 6. Bảo quản dược liệu & Quản lý chất lượng
+
+- **Đóng gói và kho chứa:** Sử dụng thùng hoặc bao bì sạch, an toàn, có khả năng bảo vệ nguyên liệu khỏi bụi, côn trùng và hút ẩm. Sản phẩm đã làm khô phải được làm nguội thích hợp trước khi đóng gói; lưu kho khô, thoáng, tránh ánh nắng trực tiếp và kê cách nền. Nguyên liệu tươi cần được làm mát, vận chuyển nhanh và tránh nén dập; thời hạn lưu giữ phải được xác lập theo quy cách sản phẩm.
+- **Phân lô và truy xuất:** Mỗi lô có mã định danh, tên khoa học, bộ phận thu hoạch, địa điểm trồng, ngày thu, sản lượng, nhật ký phân bón–thuốc bảo vệ thực vật, phương pháp sơ chế và kết quả kiểm tra. Không trộn nguyên liệu từ các lô khác nhau khi không có hồ sơ đánh giá và phê duyệt.
+- **Yêu cầu riêng của loài:** Không nhập nhằng “lá đu đủ đực” với một dược liệu đã được tiêu chuẩn hóa khi chưa có mô tả đúng giống và giới tính cây. Nhựa mủ chứa enzyme phân giải protein có thể gây kích ứng da, niêm mạc; người thu hoạch dùng găng và tránh để nhựa bắn vào mắt.
+
+## 7. Theo dõi canh tác theo từng giai đoạn
+
+- **Ươm hạt:** Kiểm tra tỷ lệ nảy mầm, bệnh cây con.
+- **Trồng–hồi cây:** Duy trì ẩm, chống gió và thoát nước.
+- **Ra hoa–nuôi quả:** Theo dõi cây giới tính, sâu hại và phân bón.
+- **Thu:** Phân lô lá/quả xanh/quả chín, giảm tổn thương cơ học và quản lý nhựa mủ.
+
+## 8. Tài liệu tham khảo chính
+
+1. [University of Florida IFAS — Papaya Growing](https://ask.ifas.ufl.edu/publication/MG054)
+2. [Texas A&M — Papaya](https://aggie-horticulture.tamu.edu/fruit-nut/fact-sheets/papaya/)
+
+*Ghi chú kỹ thuật: Thông số được nêu trong các nguồn tham khảo có thể thuộc các điều kiện sinh thái, giống và hệ thống trồng cụ thể. Khi áp dụng ngoài bối cảnh đó, phải đánh giá và hiệu chỉnh tại vùng sản xuất.*
+
+---
+
+# 20. Morus alba — Cây Dâu tằm
+
+**Tên khoa học:** *Morus alba*  
+**Họ thực vật:** Moraceae (họ Dâu tằm)  
+**Bộ phận dự kiến thu hoạch:** Lá, quả; cành và vỏ rễ khi được quy định trong sản phẩm.
+
+## 1. Đặc điểm sinh thái & Điều kiện ngoại cảnh
+
+- **Khí hậu, ánh sáng và sinh trưởng:** Dâu tằm là cây bụi hoặc gỗ nhỏ chịu cắt tỉa và tái sinh mạnh, phù hợp nhiều vùng khí hậu ở Việt Nam. Lá phát triển tốt khi có ánh sáng và nước tưới đầy đủ; cây có thể rụng lá hoặc chậm phát triển ở giai đoạn thời tiết lạnh. Mục tiêu thu lá, thu quả hay thu rễ cần thiết kế vườn khác nhau.
+- **Đất trồng, địa hình và nguồn nước:** Phù hợp đất sâu, tơi và thoát nước tốt, có thể trồng trên đất phù sa hoặc thịt nhẹ; pH hơi chua đến gần trung tính thường thuận lợi. Không nên trồng tại vùng ngập hoặc nền đất ô nhiễm. Vùng nuôi tằm cần kiểm soát hóa chất đặc biệt chặt do độ nhạy của tằm đối với thuốc bảo vệ thực vật.
+- **Yêu cầu đối với vùng nguyên liệu:** Cần xác định đúng loài và loại sản phẩm đầu ra trước khi lập vùng trồng. Đất và nguồn nước phải phù hợp mục đích sản xuất; tránh nguồn nước thải, hóa chất tồn dư và thu gom nguyên liệu ở nơi không kiểm soát được ô nhiễm. Khi sản xuất nguyên liệu dùng làm thuốc hoặc dùng trực tiếp, thực hiện lấy mẫu và kiểm tra chất lượng theo yêu cầu của cơ sở tiếp nhận.
+
+## 2. Nhân giống & Chuẩn bị đất trồng
+
+- **Nguồn giống và phương pháp nhân giống:** Giâm cành là phương pháp quan trọng đối với giống dâu lấy lá; có thể dùng hạt, chiết hoặc ghép tùy mục tiêu. Theo tài liệu FAO, cành khoảng 6–9 tháng tuổi có thể được cắt thành hom 15–18 cm với 3–4 mắt khỏe. Chọn giống theo năng suất lá hoặc đặc tính quả thay vì coi mọi giống dâu giống nhau.
+- **Chuẩn bị đất hoặc giá thể:** Làm đất sâu, diệt cỏ lâu năm, bón lót hữu cơ đã hoai và bố trí rãnh tiêu. Hom giâm trong luống ươm sạch hoặc trồng trực tiếp khi ẩm độ, thời vụ bảo đảm; tránh dập lớp vỏ và mắt. Cây giống ra ruộng phải có rễ và mầm khỏe.
+- **Khoảng cách, mật độ và bố trí luống:** Vườn lấy lá cắt thấp có thể trồng khá dày theo hàng, trong khi vườn lấy quả cần khoảng cách lớn để tạo tán, thu quả và hạn chế dập quả. FAO ghi nhận nhiều hệ thống trồng dâu khác nhau; mật độ phải được quyết định theo giống, công cụ cắt và cơ chế tái sinh sau thu, không ấn định một số cây/ha chung.
+- **Thời vụ và thao tác trồng:** Lựa chọn thời kỳ nhiệt độ, mưa và khả năng tưới phù hợp với địa phương, ưu tiên lúc cây giống ít mất nước. Khi trồng, đặt cây đúng chiều, lấp đất vừa đủ để cố định gốc, tránh làm vùi sâu cổ rễ; tưới nhẹ sau trồng nếu đất khô. Không chuyển cây giống có triệu chứng thối gốc, héo bệnh hoặc mang sâu hại vào ruộng sản xuất.
+
+## 3. Kỹ thuật chăm sóc & Bón phân
+
+- **Quản lý tưới và thoát nước:** Duy trì ẩm giai đoạn hom ra rễ và sau các đợt thu lá mạnh; tưới theo độ ẩm đất, giảm tưới khi có mưa. Không để đọng nước kéo dài. Nếu trồng lấy quả, phải giữ nước tưới ổn định trong thời kỳ quả đang phát triển để hạn chế biến động chất lượng.
+- **Bón lót, bón thúc và cân đối dinh dưỡng:** Dùng hữu cơ hoai và bón thúc cân đối theo lượng sinh khối thu hoạch. Dâu cắt lá nhiều lần có nhu cầu hoàn trả dinh dưỡng sau cắt cao hơn cây để tán lâu năm; định mức phân cần theo phương thức thu, năng suất và phân tích đất. Tránh bón phân tươi lên cây gần thu lá.
+- **Làm cỏ, tỉa cành và chăm sóc đặc thù:** Tạo tán và đốn cành theo mục tiêu: vườn thu lá thấp cần bộ khung giúp tái sinh nhiều chồi; vườn thu quả cần hệ cành thông thoáng và hạn chế cắt làm giảm hoa/quả. Duy trì thông gió, vệ sinh cành bệnh và thay cây suy yếu. Không thu lá quá kiệt khiến cây khó tái sinh.
+- **Giám sát sinh trưởng:** Ghi nhận tỷ lệ sống, trạng thái lá, khả năng tái sinh sau cắt, dấu hiệu thiếu hoặc thừa nước và diễn biến dịch hại. Điều chỉnh phân bón theo phân tích đất, chất lượng phân, lượng sinh khối đã thu và phản ứng của cây. Không sử dụng một công thức phân bón hay lịch tưới cố định cho mọi vùng sinh thái khi không có dữ liệu kiểm chứng.
+
+## 4. Phòng trừ sâu bệnh hại chính
+
+- **Nhóm sâu hại cần theo dõi:** Theo dõi rệp, sâu ăn lá và côn trùng gây hại trên chồi non; quan sát nhện, bọ phấn nếu xuất hiện. Vùng thu lá cho tằm hoặc dược liệu phải thận trọng đặc biệt với tồn dư thuốc bảo vệ thực vật; ưu tiên IPM và chọn chế phẩm theo đúng mục đích.
+- **Nhóm bệnh hại và rủi ro sinh lý:** Bệnh phấn trắng, đốm lá và gỉ sắt dâu đã được ghi nhận trong tài liệu chuyên khảo. Loại cành lá bệnh, tạo tán thoáng, điều chỉnh tưới; theo dõi ổ bệnh sau những đợt mưa ẩm.
+- **Quản lý dịch hại tổng hợp:** Ưu tiên giống khỏe, vệ sinh đồng ruộng, luân canh hoặc thay giá thể khi phù hợp, bón phân cân đối và giữ luống thông thoáng. Tách riêng cây hoặc bộ phận có triệu chứng bệnh; chỉ xử lý bằng chế phẩm được phép áp dụng cho cây trồng và mục đích sử dụng, đúng nhãn sản phẩm và thời gian cách ly. Khi chưa xác định được tác nhân, cần kiểm tra hoặc xét nghiệm thay vì mặc định sử dụng một loại thuốc.
+
+## 5. Thu hoạch & Sơ chế sau thu hoạch
+
+- **Thời điểm và tiêu chuẩn nguyên liệu:** Thu lá khi đã đạt độ trưởng thành theo mục tiêu; có thể hái chọn lọc hoặc cắt chồi để thu nhiều đợt. Trái dâu thường thu khi chuyển màu chín đặc trưng của giống, tránh quả dập/mốc và cần thu nhiều lượt. Các phần cành, vỏ rễ chỉ khai thác theo yêu cầu dược liệu cụ thể, không tự chuyển bộ phận dùng.
+- **Phương pháp thu hái và phân loại:** Lá sạch được loại gân/cuống hoặc giữ nguyên theo quy cách, phơi râm hay sấy. Quả chín được thu nhẹ tay trên khay, phân loại quả dập, làm mát nhanh; không ngâm quá lâu vì quả mềm dễ hỏng. Nếu dùng lá để sản xuất trà hoặc dược liệu, tách khỏi lô lá nuôi tằm và ghi lịch sử hóa chất.
+- **Làm khô hoặc bảo quản nguyên liệu tươi:** Lá khô đóng gói chống ẩm, côn trùng; quả tươi dễ hư và cần chuỗi bảo quản mát, có thể chế biến nhanh thành sản phẩm đạt tiêu chuẩn. Không đặt lô quả dưới nắng chờ vận chuyển. Các bộ phận dược liệu phải có chỉ tiêu bảo quản riêng.
+- **Kiểm soát chất lượng sau thu hoạch:** Phải loại bỏ nguyên liệu sâu bệnh, úng thối, mốc hoặc lẫn tạp chất; kiểm soát nước rửa, dụng cụ, bề mặt tiếp xúc, điều kiện phơi/sấy và thời gian từ thu hái đến xử lý. Giới hạn độ ẩm, dư lượng, vi sinh vật và quy cách đóng gói phải tuân theo tiêu chuẩn áp dụng cho **đúng loài, đúng bộ phận và đúng dạng sản phẩm**; không tự gán giới hạn độ ẩm của rễ, lá hay hạt cho nhau.
+
+## 6. Bảo quản dược liệu & Quản lý chất lượng
+
+- **Đóng gói và kho chứa:** Sử dụng thùng hoặc bao bì sạch, an toàn, có khả năng bảo vệ nguyên liệu khỏi bụi, côn trùng và hút ẩm. Sản phẩm đã làm khô phải được làm nguội thích hợp trước khi đóng gói; lưu kho khô, thoáng, tránh ánh nắng trực tiếp và kê cách nền. Nguyên liệu tươi cần được làm mát, vận chuyển nhanh và tránh nén dập; thời hạn lưu giữ phải được xác lập theo quy cách sản phẩm.
+- **Phân lô và truy xuất:** Mỗi lô có mã định danh, tên khoa học, bộ phận thu hoạch, địa điểm trồng, ngày thu, sản lượng, nhật ký phân bón–thuốc bảo vệ thực vật, phương pháp sơ chế và kết quả kiểm tra. Không trộn nguyên liệu từ các lô khác nhau khi không có hồ sơ đánh giá và phê duyệt.
+- **Yêu cầu riêng của loài:** *Morus alba* cần được phân biệt với giống lai và các loài dâu khác khi dược liệu yêu cầu đúng nguồn gốc. Việc trồng dâu để nuôi tằm không có nghĩa nguyên liệu lá tự động đạt yêu cầu dược liệu; cần nhật ký bảo vệ thực vật và kiểm nghiệm khi cần.
+
+## 7. Theo dõi canh tác theo từng giai đoạn
+
+- **Nhân giống:** Giâm hom cành khỏe, giữ ẩm và đánh giá rễ.
+- **Tạo khung:** Chọn hình thức đốn theo mục tiêu lá hoặc quả.
+- **Thu lặp lại:** Theo dõi chồi tái sinh, dinh dưỡng, bệnh lá.
+- **Thu quả:** Hái nhiều lượt theo độ chín, xử lý sớm và phân lô riêng.
+
+## 8. Tài liệu tham khảo chính
+
+1. [FAO — Mulberry cultivation and utilization in India](https://www.fao.org/4/x9895E/x9895e04.htm)
+2. [FAO — Mulberry cultivation and utilization in China](https://www.fao.org/4/X9895E/x9895e03.htm)
+3. [PROSEA — Morus medicinal plants](https://plantuse.plantnet.org/en/Morus_%28PROSEA_Medicinal_plants%29)
+4. [Tamil Nadu Agricultural University — Mulberry](https://agritech.tnau.ac.in/sericulture/seri_mulberry%20cultivation.html)
+
+*Ghi chú kỹ thuật: Thông số được nêu trong các nguồn tham khảo có thể thuộc các điều kiện sinh thái, giống và hệ thống trồng cụ thể. Khi áp dụng ngoài bối cảnh đó, phải đánh giá và hiệu chỉnh tại vùng sản xuất.*
+
+---
+
+# 21. Excoecaria cochinchinensis — Cây Đơn lá đỏ
+
+**Tên khoa học:** *Excoecaria cochinchinensis*  
+**Họ thực vật:** Euphorbiaceae (họ Thầu dầu)  
+**Bộ phận dự kiến thu hoạch:** Lá.
+
+## 1. Đặc điểm sinh thái & Điều kiện ngoại cảnh
+
+- **Khí hậu, ánh sáng và sinh trưởng:** Đơn lá đỏ là cây bụi có mặt dưới lá màu đỏ tím ở các dạng trồng phổ biến, ưa khí hậu ấm và sáng tán xạ hoặc bán phần. Có thể trồng thành khóm hoặc hàng nhưng cần kiểm soát tiếp xúc với nhựa mủ vì nhựa gây kích ứng da, mắt và niêm mạc.
+- **Đất trồng, địa hình và nguồn nước:** Ưu tiên đất tơi, giàu hữu cơ và thoát nước tốt. Không bố trí sát khu vui chơi hoặc khu thu hái rau ăn sống; cần biển nhận diện cây và khu vực làm việc để tránh người không có trang bị bảo hộ chạm vào nhựa cây.
+- **Yêu cầu đối với vùng nguyên liệu:** Cần xác định đúng loài và loại sản phẩm đầu ra trước khi lập vùng trồng. Đất và nguồn nước phải phù hợp mục đích sản xuất; tránh nguồn nước thải, hóa chất tồn dư và thu gom nguyên liệu ở nơi không kiểm soát được ô nhiễm. Khi sản xuất nguyên liệu dùng làm thuốc hoặc dùng trực tiếp, thực hiện lấy mẫu và kiểm tra chất lượng theo yêu cầu của cơ sở tiếp nhận.
+
+## 2. Nhân giống & Chuẩn bị đất trồng
+
+- **Nguồn giống và phương pháp nhân giống:** Nhân bằng hom cành non hoặc bánh tẻ và chiết cành; đây là các phương pháp được cơ sở dữ liệu thực vật ghi nhận. Chọn cây mẹ đúng loài, mặt lá và màu lá ổn định; hom sạch bệnh, giữ ẩm vừa phải trong vườn ươm. Khi cắt hom phải dùng găng chống tiếp xúc với nhựa, bảo vệ mắt và rửa sạch dụng cụ sau thao tác.
+- **Chuẩn bị đất hoặc giá thể:** Làm đất sạch cỏ, lên luống hoặc đào hố nhỏ thích hợp. Bón hữu cơ đã hoai, không tiếp xúc trực tiếp rễ hom. Vườn ươm có lối đi riêng, chậu thoát nước và khu xử lý phần cắt bỏ có nhựa.
+- **Khoảng cách, mật độ và bố trí luống:** Trong mô hình trồng cây bụi để thu lá, có thể khảo sát khoảng 40–60 cm giữa cây, 60–80 cm giữa hàng rồi chỉnh theo kích thước tán và yêu cầu bảo hộ thao tác. Đây là thiết kế vườn ban đầu, không phải định mức canh tác dược liệu được chuẩn hóa.
+- **Thời vụ và thao tác trồng:** Lựa chọn thời kỳ nhiệt độ, mưa và khả năng tưới phù hợp với địa phương, ưu tiên lúc cây giống ít mất nước. Khi trồng, đặt cây đúng chiều, lấp đất vừa đủ để cố định gốc, tránh làm vùi sâu cổ rễ; tưới nhẹ sau trồng nếu đất khô. Không chuyển cây giống có triệu chứng thối gốc, héo bệnh hoặc mang sâu hại vào ruộng sản xuất.
+
+## 3. Kỹ thuật chăm sóc & Bón phân
+
+- **Quản lý tưới và thoát nước:** Tưới nhẹ cho hom và cây con, giảm dần khi cây đã ổn định; duy trì đất đủ ẩm nhưng không đọng nước. Nếu có triệu chứng thối gốc, cần kiểm tra rễ và tiêu nước trước khi tăng phân hoặc tưới.
+- **Bón lót, bón thúc và cân đối dinh dưỡng:** Sử dụng hữu cơ hoai mục, bón cân đối theo sức cây và năng suất lá. Tránh bón thúc tập trung ngay trước thu hái làm lá bẩn hoặc tăng tồn dư. Không có cơ sở để kê công thức phân riêng nhằm tăng hoạt tính của nhựa.
+- **Làm cỏ, tỉa cành và chăm sóc đặc thù:** Tỉa cành bệnh, khô, quá dày để thông gió; mang găng và kính khi cắt để tránh nhựa bắn. Tuyệt đối không chà mắt khi thao tác. Thu gom lá, cành có nhựa vào khu tập kết riêng và vệ sinh công cụ, bàn thao tác sau khi làm.
+- **Giám sát sinh trưởng:** Ghi nhận tỷ lệ sống, trạng thái lá, khả năng tái sinh sau cắt, dấu hiệu thiếu hoặc thừa nước và diễn biến dịch hại. Điều chỉnh phân bón theo phân tích đất, chất lượng phân, lượng sinh khối đã thu và phản ứng của cây. Không sử dụng một công thức phân bón hay lịch tưới cố định cho mọi vùng sinh thái khi không có dữ liệu kiểm chứng.
+
+## 4. Phòng trừ sâu bệnh hại chính
+
+- **Nhóm sâu hại cần theo dõi:** Theo dõi rệp, rệp sáp, bọ phấn hoặc sâu ăn lá theo điều kiện vườn; kiểm tra mặt dưới lá để phát hiện sớm ổ sâu. Không phun thuốc ngừa khi không có bằng chứng cần xử lý.
+- **Nhóm bệnh hại và rủi ro sinh lý:** Bệnh đốm lá, thối gốc và tổn thương do ánh sáng hoặc dinh dưỡng có thể xuất hiện; chẩn đoán phải xem xét điều kiện thực tế. Cây bệnh không được đưa vào lô thu hái hoặc làm hom giống.
+- **Quản lý dịch hại tổng hợp:** Ưu tiên giống khỏe, vệ sinh đồng ruộng, luân canh hoặc thay giá thể khi phù hợp, bón phân cân đối và giữ luống thông thoáng. Tách riêng cây hoặc bộ phận có triệu chứng bệnh; chỉ xử lý bằng chế phẩm được phép áp dụng cho cây trồng và mục đích sử dụng, đúng nhãn sản phẩm và thời gian cách ly. Khi chưa xác định được tác nhân, cần kiểm tra hoặc xét nghiệm thay vì mặc định sử dụng một loại thuốc.
+
+## 5. Thu hoạch & Sơ chế sau thu hoạch
+
+- **Thời điểm và tiêu chuẩn nguyên liệu:** Chỉ thu lá đúng loài, khỏe, đủ độ trưởng thành theo yêu cầu thu mua; tránh lấy những lá có nhựa bẩn, nấm bệnh hoặc sâu hại. Nên thu lúc khô ráo, dùng kéo sạch, không bẻ mạnh làm nhựa bắn. Có bảo hộ mắt, da và bảo đảm không để trẻ em tiếp cận vùng thu.
+- **Phương pháp thu hái và phân loại:** Phân loại, bỏ lá hỏng; rửa bằng nước sạch theo yêu cầu, để ráo, phơi râm hoặc sấy đã thẩm định. Dụng cụ tiếp xúc với lá và nhựa phải được làm sạch riêng; người sơ chế mang găng. Không tự áp dụng quy trình sao lá hoặc nấu nước dùng ngoài như một biện pháp “khử độc” đã được bảo đảm.
+- **Làm khô hoặc bảo quản nguyên liệu tươi:** Dược liệu lá đã khô được đóng bao bì sạch, kín, có nhãn cảnh báo nguyên liệu cần xử lý chuyên môn và bảo quản tránh ẩm. Không để chung với thực phẩm hoặc rau ăn sống, không trộn lô với cây có lá mặt dưới tím nhưng khác loài.
+- **Kiểm soát chất lượng sau thu hoạch:** Phải loại bỏ nguyên liệu sâu bệnh, úng thối, mốc hoặc lẫn tạp chất; kiểm soát nước rửa, dụng cụ, bề mặt tiếp xúc, điều kiện phơi/sấy và thời gian từ thu hái đến xử lý. Giới hạn độ ẩm, dư lượng, vi sinh vật và quy cách đóng gói phải tuân theo tiêu chuẩn áp dụng cho **đúng loài, đúng bộ phận và đúng dạng sản phẩm**; không tự gán giới hạn độ ẩm của rễ, lá hay hạt cho nhau.
+
+## 6. Bảo quản dược liệu & Quản lý chất lượng
+
+- **Đóng gói và kho chứa:** Sử dụng thùng hoặc bao bì sạch, an toàn, có khả năng bảo vệ nguyên liệu khỏi bụi, côn trùng và hút ẩm. Sản phẩm đã làm khô phải được làm nguội thích hợp trước khi đóng gói; lưu kho khô, thoáng, tránh ánh nắng trực tiếp và kê cách nền. Nguyên liệu tươi cần được làm mát, vận chuyển nhanh và tránh nén dập; thời hạn lưu giữ phải được xác lập theo quy cách sản phẩm.
+- **Phân lô và truy xuất:** Mỗi lô có mã định danh, tên khoa học, bộ phận thu hoạch, địa điểm trồng, ngày thu, sản lượng, nhật ký phân bón–thuốc bảo vệ thực vật, phương pháp sơ chế và kết quả kiểm tra. Không trộn nguyên liệu từ các lô khác nhau khi không có hồ sơ đánh giá và phê duyệt.
+- **Yêu cầu riêng của loài:** Nhựa mủ của *Excoecaria cochinchinensis* có tính kích ứng và chứa các nhóm hoạt chất cần đánh giá an toàn; không đưa sản phẩm thô vào sử dụng đường uống hay ngâm tắm không kiểm soát. Mọi chỉ tiêu an toàn, bào chế và bộ phận sử dụng phải được xây dựng theo chuẩn chuyên môn của sản phẩm cụ thể.
+
+## 7. Theo dõi canh tác theo từng giai đoạn
+
+- **Vườn giống:** Định danh cây, giâm/chiết, dùng bảo hộ khi cắt.
+- **Sau trồng:** Tưới vừa đủ, theo dõi thối gốc và cây chết.
+- **Sinh trưởng:** Tỉa cành, kiểm tra mặt dưới lá và sâu chích hút.
+- **Thu–sơ chế:** Thu có găng/kính, làm khô riêng, ghi nhãn và kiểm tra chất lượng.
+
+## 8. Tài liệu tham khảo chính
+
+1. [NParks — Excoecaria cochinchinensis](https://www.nparks.gov.sg/florafaunaweb/flora/2/0/2010)
+2. [PROSEA — Excoecaria cochinchinensis, nhựa kích ứng](https://plantuse.plantnet.org/en/Excoecaria_cochinchinensis_%28PROSEA%29)
+3. [Kew — Excoecaria cochinchinensis](https://powo.science.kew.org/taxon/348839-1)
+
+*Ghi chú kỹ thuật: Thông số được nêu trong các nguồn tham khảo có thể thuộc các điều kiện sinh thái, giống và hệ thống trồng cụ thể. Khi áp dụng ngoài bối cảnh đó, phải đánh giá và hiệu chỉnh tại vùng sản xuất.*
+
+---
+
